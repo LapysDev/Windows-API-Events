@@ -1,17 +1,17 @@
-<h4> Animation Control </h4> <br/>
+<h3> <u> Animation Control </u> </h3>
 <b>ACM_OPENA</b>: Open <br/>
 <b>ACM_OPENW</b>: Open <br/>
 <b>ACM_PLAY</b>: Play <br/>
 <b>ACM_STOP</b>: Stop <br/>
 <hr/>
-<h4> Browse for Folder </h4> <br/>
+<h3> <u> Browse for Folder </u> </h3>
 <b>BFFM_ENABLEOK</b>: Enable OK <br/>
 <b>BFFM_SETSELECTIONA</b>: Set Selection <br/>
 <b>BFFM_SETSELECTIONW</b>: Set Selection <br/>
 <b>BFFM_SETSTATUSTEXTA</b>: Set Status Text <br/>
 <b>BFFM_SETSTATUSTEXTW</b>: Set Status Text <br/>
 <hr/>
-<h4> Button </h4> <br/>
+<h3> <u> Button </u> </h3>
 <b>BM_CLICK</b>: Click <br/>
 <b>BM_GETCHECK</b>: Get Check <br/>
 <b>BM_GETIMAGE</b>: Get Image <br/>
@@ -22,7 +22,7 @@
 <b>BM_SETSTATE</b>: Set State <br/>
 <b>BM_SETSTYLE</b>: Set Style <br/>
 <hr/>
-<h4> Combo Box (Extended) </h4> <br/>
+<h3> <u> Combo Box (Extended) </u> </h3>
 <b>CBEM_GETCOMBOCONTROL</b>: Get Combo Control <br/>
 <b>CBEM_GETEDITCONTROL</b>: Get Edit Control <br/>
 <b>CBEM_GETEXSTYLE (CBEM_GETEXTENDEDSTYLE)</b>: Get Extended Style <br/>
@@ -37,7 +37,7 @@
 <b>CBEM_SETITEMA</b>: Set Item <br/>
 <b>CBEM_SETITEMW</b>: Set Item <br/>
 <hr/>
-<h4> Common Dialog </h4> <br/>
+<h3> <u> Common Dialog </u> </h3>
 <b>CDM_GETFILEPATH</b>: Get File Path <br/>
 <b>CDM_GETFOLDERIDLIST</b>: Get Folder ID List <br/>
 <b>CDM_GETFOLDERPATH</b>: Get Folder Path <br/>
@@ -47,7 +47,7 @@
 <b>CDM_SETCONTROLTEXT</b>: Set Control Text <br/>
 <b>CDM_SETDEFEXT</b>: Set Default Text <br/>
 <hr/>
-<h4> Direct Draw </h4> <br/>
+<h3> <u> Direct Draw </u> </h3>
 <b>DDM_BEGIN</b>: Begin <br/>
 <b>DDM_CLOSE</b>: Close <br/>
 <b>DDM_DRAW</b>: Draw <br/>
@@ -55,18 +55,18 @@
 <b>DDM_SETFMT</b>: Set Format <br/>
 <hr/>
 <hr/>
-<h4> Drag List Box </h4> <br/>
+<h3> <u> Drag List Box </u> </h3>
 <b>DL_BEGINDRAG</b>: Begin Drag <br/>
 <b>DL_CANCELDRAG</b>: Cancel Drag <br/>
 <b>DL_DRAGGING</b>: Dragging <br/>
 <b>DL_DROPPED</b>: Dropped <br/>
 <hr/>
-<h4> Dialog </h4> <br/>
+<h3> <u> Dialog </u> </h3>
 <b>DM_GETDEFID</b>: Get Default Identity <br/>
 <b>DM_REPOSITION</b>: Reposition <br/>
 <b>DM_SETDEFID</b>: Set Default Identity <br/>
 <hr/>
-<h4> Rich Edit </h4> <br/>
+<h3> <u> Rich Edit </u> </h3>
 <b>EM_AUTOURLDETECT</b>: Automatic URL Detect <br/>
 <b>EM_CANPASTE</b>: Can Paste <br/>
 <b>EM_CANREDO</b>: Can Redo <br/>
@@ -201,7 +201,7 @@
 <b>EM_STREAMOUT</b>: Stream Out <br/>
 <b>EM_UNDO</b>: Undo <br/>
 <hr/>
-<h4> File Manager </h4> <br/>
+<h3> <u> File Manager </u> </h3>
 <b>FM_GETDRIVEINFOA</b>: Get Drive Information <br/>
 <b>FM_GETDRIVEINFOW</b>: Get Drive Information <br/>
 <b>FM_GETFILESELA</b>: Get File Selection <br/>
@@ -214,12 +214,12 @@
 <b>FM_REFRESH_WINDOWS</b>: Refresh Windows <br/>
 <b>FM_RELOAD_EXTENSIONS</b>: Reload Extensions <br/>
 <hr/>
-<h4> Hot Key </h4> <br/>
+<h3> <u> Hot Key </u> </h3>
 <b>HKM_GETHOTKEY</b>: Get Hotkey <br/>
 <b>HKM_SETHOTKEY</b>: Set Hotkey <br/>
 <b>HKM_SETRULES</b>: Set Rules <br/>
 <hr/>
-<h4> Ink Edit </h4> <br/>
+<h3> <u> Ink Edit </u> </h3>
 <b>IE_DOCOMMAND</b>: Do Command <br/>
 <b>IE_GETAPPDATA</b>: Get Application Data <br/>
 <b>IE_GETBKGND</b>: Get Background <br/>
@@ -264,7 +264,7 @@
 <b>IE_SETSECURITY</b>: Set Security <br/>
 <b>IE_SETSEL</b>: Set Selection <br/>
 <hr/>
-<h4> Internet Protocol </h4> <br/>
+<h3> <u> Internet Protocol </u> </h3>
 <b>IPM_CLEARADDRESS</b>: Clear Address <br/>
 <b>IPM_GETADDRESS</b>: Get Address <br/>
 <b>IPM_ISBLANK</b>: Is Blank <br/>
@@ -272,7 +272,7 @@
 <b>IPM_SETFOCUS</b>: Set Focus <br/>
 <b>IPM_SETRANGE</b>: Set Range <br/>
 <hr/>
-<h4> List View </h4> <br/>
+<h3> <u> List View </u> </h3>
 <b>LVM_ARRANGE</b>: Arrange <br/>
 <b>LVM_CANCELEDITLABEL</b>: Cancel Edit Label <br/>
 <b>LVM_CREATEDRAGIMAGE</b>: Create Drag Image <br/>
@@ -399,7 +399,7 @@
 <b>LVM_SUBITEMHITTEST</b>: Sub-Item Hit Test <br/>
 <b>LVM_UPDATE</b>: Update <br/>
 <hr/>
-<h4> Multimedia (MCI) Window </h4> <br/>
+<h3> <u> Multimedia (MCI) Window </u> </h3>
 <b>MCIWNDM_CAN_CONFIG</b>: Can Configure <br/>
 <b>MCIWNDM_CAN_EJECT</b>: Can Eject <br/>
 <b>MCIWNDM_CAN_PLAY</b>: Can Play <br/>
@@ -432,17 +432,17 @@
 <b>MCIWNDM_SETTIMEFORMATW</b>: Set Time Format <br/>
 <b>MCIWNDM_VALIDATEMEDIA</b>: Validate Media <br/>
 <hr/>
-<h4> ... </h4> <br/>
+<h3> <u> ... </u> </h3>
 <b>MSG_FTS_JUMP_QWORD</b>: Jump <br/>
 <b>MSG_FTS_JUMP_VA</b>: Jump <br/>
 <b>MSG_FTS_WHERE_IS_IT</b>: Where is It <br/>
 <b>MSG_GET_DEFFONT</b>: Get Default Font <br/>
 <b>MSG_REINDEX_REQUEST</b>: Re-Index Request <br/>
 <hr/>
-<h4> Notify Icon </h4> <br/>
+<h3> <u> Notify Icon </u> </h3>
 <b>NIN_SELECT</b>: Select <br/>
 <hr/>
-<h4> Object Linking & Embedding Control </h4> <br/>
+<h3> <u> Object Linking & Embedding Control </u> </h3>
 <b>OCM_CHARTOITEM</b>: Character To Item <br/>
 <b>OCM_COMMAND</b>: Command <br/>
 <b>OCM_COMPAREITEM</b>: Compare Item <br/>
@@ -464,7 +464,7 @@
 <b>OCM_VSCROLL</b>: Vertical Scroll <br/>
 <b>OCM__BASE</b>: Base <br/>
 <hr/>
-<h4> Progress Bar </h4> <br/>
+<h3> <u> Progress Bar </u> </h3>
 <b>PBM_DELTAPOS</b>: Delta Position <br/>
 <b>PBM_GETPOS</b>: Get Position <br/>
 <b>PBM_GETRANGE</b>: Get Range <br/>
@@ -475,7 +475,7 @@
 <b>PBM_SETSTEP</b>: Set Step <br/>
 <b>PBM_STEPIT</b>: Step It <br/>
 <hr/>
-<h4> Prop Sheet </h4> <br/>
+<h3> <u> Prop Sheet </u> </h3>
 <b>PSM_ADDPAGE</b>: Add Page <br/>
 <b>PSM_APPLY</b>: Apply <br/>
 <b>PSM_CANCELTOCLOSE</b>: Cancel to Close <br/>
@@ -511,7 +511,7 @@
 <b>PSM_SETWIZBUTTONS</b>: Set Wizard Buttons <br/>
 <b>PSM_UNCHANGED</b>: Unchanged <br/>
 <hr/>
-<h4> Rebar </h4> <br/>
+<h3> <u> Rebar </u> </h3>
 <b>RB_BEGINDRAG</b>: Begin Drag <br/>
 <b>RB_DELETEBAND</b>: Delete Band <br/>
 <b>RB_DRAGMOVE</b>: Drag Move <br/>
@@ -548,7 +548,7 @@
 <b>RB_SHOWBAND</b>: Show Band <br/>
 <b>RB_SIZETORECT</b>: Size to Rectangle <br/>
 <hr/>
-<h4> Scrollbar </h4> <br/>
+<h3> <u> Scrollbar </u> </h3>
 <b>SBM_ENABLE_ARROWS</b>: Enable Arrows <br/>
 <b>SBM_GETPOS</b>: Get Position <br/>
 <b>SBM_GETRANGE</b>: Get Range <br/>
@@ -558,7 +558,7 @@
 <b>SBM_SETRANGEREDRAW</b>: Set Range Redraw <br/>
 <b>SBM_SETSCROLLINFO</b>: Set Scroll Information <br/>
 <hr/>
-<h4> Status Bar </h4> <br/>
+<h3> <u> Status Bar </u> </h3>
 <b>SB_GETBORDERS</b>: Get Borders <br/>
 <b>SB_GETPARTS</b>: Get Parts <br/>
 <b>SB_GETRECT</b>: Get Rectangle <br/>
@@ -578,7 +578,7 @@
 <b>SB_SETTIPTEXTW</b>: Set Tip Text <br/>
 <b>SB_SIMPLE</b>: Simple <br/>
 <hr/>
-<h4> Storage Management </h4> <br/>
+<h3> <u> Storage Management </u> </h3>
 <b>SM_GETCURFOCUSA</b>: Get Current Focus <br/>
 <b>SM_GETCURFOCUSW</b>: Get Current Focus <br/>
 <b>SM_GETOPTIONS</b>: Get Options <br/>
@@ -586,10 +586,10 @@
 <b>SM_GETSERVERSELA</b>: Get Server Selection <br/>
 <b>SM_GETSERVERSELW</b>: Get Server Selection <br/>
 <hr/>
-<h4> Telephony API </h4> <br/>
+<h3> <u> Telephony API </u> </h3>
 <b>TAPI_REPLY</b>: Reply <br/>
 <hr/>
-<h4> Trackbar </h4> <br/>
+<h3> <u> Trackbar </u> </h3>
 <b>TBM_CLEARSEL</b>: Clear Selection <br/>
 <b>TBM_CLEARTICS</b>: Clear Ticks <br/>
 <b>TBM_GETBUDDY</b>: Get Buddy <br/>
@@ -624,7 +624,7 @@
 <b>TBM_SETTIPSIDE</b>: Set Tip Side <br/>
 <b>TBM_SETTOOLTIPS</b>: Set Tooltips <br/>
 <hr/>
-<h4> Toolbar </h4> <br/>
+<h3> <u> Toolbar </u> </h3>
 <b>TB_ADDBITMAP</b>: Add Bitmap <br/>
 <b>TB_ADDBUTTONSA</b>: Add Buttons <br/>
 <b>TB_ADDBUTTONSW</b>: Add Buttons <br/>
@@ -712,7 +712,7 @@
 <b>TB_SETSTYLE</b>: Set Style <br/>
 <b>TB_SETTOOLTIPS</b>: Set Tooltips <br/>
 <hr/>
-<h4> Tooltip </h4> <br/>
+<h3> <u> Tooltip </u> </h3>
 <b>TTM_ACTIVATE</b>: Activate <br/>
 <b>TTM_ADDTOOLA</b>: Add Tool <br/>
 <b>TTM_ADJUSTRECT</b>: Adjust Rectangle <br/>
@@ -755,7 +755,7 @@
 <b>TTM_UPDATETIPTEXTW</b>: Update Tip Text <br/>
 <b>TTM_WINDOWFROMPOINT</b>: Window From Point <br/>
 <hr/>
-<h4> Up-Down Control </h4> <br/>
+<h3> <u> Up-Down Control </u> </h3>
 <b>UDM_GETACCEL</b>: Get Acceleration <br/>
 <b>UDM_GETBASE</b>: Get Base <br/>
 <b>UDM_GETBUDDY</b>: Get Buddy <br/>
@@ -771,7 +771,7 @@
 <b>UDM_SETRANGE32</b>: Set Range <br/>
 <b>UDM_SETRANGE</b>: Set Range <br/>
 <hr/>
-<h4> User Manager </h4> <br/>
+<h3> <u> User Manager </u> </h3>
 <b>UM_GETCURFOCUSA</b>: Get Current Focus <br/>
 <b>UM_GETCURFOCUSW</b>: Get Current Focus <br/>
 <b>UM_GETGROUPSELA</b>: Get Group Selection <br/>
@@ -782,15 +782,15 @@
 <b>UM_GETUSERSELA</b>: Get User Selection <br/>
 <b>UM_GETUSERSELW</b>: Get User Selection <br/>
 <hr/>
-<h4> Wizard </h4> <br/>
+<h3> <u> Wizard </u> </h3>
 <b>WIZ_NEXT</b>: Next <br/>
 <b>WIZ_PREV</b>: Previous <br/>
 <b>WIZ_QUERYNUMPAGES</b>: Query Number of Pages <br/>
 <hr/>
-<h4> Windows Live Sync </h4> <br/>
+<h3> <u> Windows Live Sync </u> </h3>
 <b>WLX_WM_SAS</b>: Statistical Analysis Suite Message <br/>
 <hr/>
-<h4> Windows </h4> <br/>
+<h3> <u> Windows </u> </h3>
 <b>WM_ACTIVATE</b>: Activate <br/>
 <b>WM_ACTIVATEAPP</b>: Activate Application <br/>
 <b>WM_AFXFIRST</b>: Application Framework Extensions FIRST[] <br/>
