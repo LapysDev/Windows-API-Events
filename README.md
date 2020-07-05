@@ -1,1049 +1,1049 @@
 <h3> <u> Animation Control </u> </h3>
-<b>ACM_OPENA</b>: Open <br/>
-<b>ACM_OPENW</b>: Open <br/>
-<b>ACM_PLAY</b>: Play <br/>
-<b>ACM_STOP</b>: Stop <br/>
+<code><b>ACM_OPENA</b></code>: Open <br/>
+<code><b>ACM_OPENW</b></code>: Open <br/>
+<code><b>ACM_PLAY</b></code>: Play <br/>
+<code><b>ACM_STOP</b></code>: Stop <br/>
 <hr/>
 <h3> <u> Browse for Folder </u> </h3>
-<b>BFFM_ENABLEOK</b>: Enable OK <br/>
-<b>BFFM_SETSELECTIONA</b>: Set Selection <br/>
-<b>BFFM_SETSELECTIONW</b>: Set Selection <br/>
-<b>BFFM_SETSTATUSTEXTA</b>: Set Status Text <br/>
-<b>BFFM_SETSTATUSTEXTW</b>: Set Status Text <br/>
+<code><b>BFFM_ENABLEOK</b></code>: Enable OK <br/>
+<code><b>BFFM_SETSELECTIONA</b></code>: Set Selection <br/>
+<code><b>BFFM_SETSELECTIONW</b></code>: Set Selection <br/>
+<code><b>BFFM_SETSTATUSTEXTA</b></code>: Set Status Text <br/>
+<code><b>BFFM_SETSTATUSTEXTW</b></code>: Set Status Text <br/>
 <hr/>
 <h3> <u> Button </u> </h3>
-<b>BM_CLICK</b>: Click <br/>
-<b>BM_GETCHECK</b>: Get Check <br/>
-<b>BM_GETIMAGE</b>: Get Image <br/>
-<b>BM_GETSTATE</b>: Get State <br/>
-<b>BM_SETCHECK</b>: Set Check <br/>
-<b>BM_SETDONTCLICK</b>: Set Do Not Click <br/>
-<b>BM_SETIMAGE</b>: Set Image <br/>
-<b>BM_SETSTATE</b>: Set State <br/>
-<b>BM_SETSTYLE</b>: Set Style <br/>
+<code><b>BM_CLICK</b></code>: Click <br/>
+<code><b>BM_GETCHECK</b></code>: Get Check <br/>
+<code><b>BM_GETIMAGE</b></code>: Get Image <br/>
+<code><b>BM_GETSTATE</b></code>: Get State <br/>
+<code><b>BM_SETCHECK</b></code>: Set Check <br/>
+<code><b>BM_SETDONTCLICK</b></code>: Set Do Not Click <br/>
+<code><b>BM_SETIMAGE</b></code>: Set Image <br/>
+<code><b>BM_SETSTATE</b></code>: Set State <br/>
+<code><b>BM_SETSTYLE</b></code>: Set Style <br/>
 <hr/>
 <h3> <u> Combo Box (Extended) </u> </h3>
-<b>CBEM_GETCOMBOCONTROL</b>: Get Combo Control <br/>
-<b>CBEM_GETEDITCONTROL</b>: Get Edit Control <br/>
-<b>CBEM_GETEXSTYLE (CBEM_GETEXTENDEDSTYLE)</b>: Get Extended Style <br/>
-<b>CBEM_GETIMAGELIST</b>: Get Image List <br/>
-<b>CBEM_GETITEMA</b>: Get Item <br/>
-<b>CBEM_GETITEMW</b>: Get Item <br/>
-<b>CBEM_HASEDITCHANGED</b>: Has Edit Changed <br/>
-<b>CBEM_INSERTITEMA</b>: Insert Item <br/>
-<b>CBEM_INSERTITEMW</b>: Insert Item <br/>
-<b>CBEM_SETEXSTYLE (CBEM_SETEXTENDEDSTYLE)</b>: Set Extended Style <br/>
-<b>CBEM_SETIMAGELIST</b>: Set Image List <br/>
-<b>CBEM_SETITEMA</b>: Set Item <br/>
-<b>CBEM_SETITEMW</b>: Set Item <br/>
+<code><b>CBEM_GETCOMBOCONTROL</b></code>: Get Combo Control <br/>
+<code><b>CBEM_GETEDITCONTROL</b></code>: Get Edit Control <br/>
+<code><b>CBEM_GETEXSTYLE (CBEM_GETEXTENDEDSTYLE)</b></code>: Get Extended Style <br/>
+<code><b>CBEM_GETIMAGELIST</b></code>: Get Image List <br/>
+<code><b>CBEM_GETITEMA</b></code>: Get Item <br/>
+<code><b>CBEM_GETITEMW</b></code>: Get Item <br/>
+<code><b>CBEM_HASEDITCHANGED</b></code>: Has Edit Changed <br/>
+<code><b>CBEM_INSERTITEMA</b></code>: Insert Item <br/>
+<code><b>CBEM_INSERTITEMW</b></code>: Insert Item <br/>
+<code><b>CBEM_SETEXSTYLE (CBEM_SETEXTENDEDSTYLE)</b></code>: Set Extended Style <br/>
+<code><b>CBEM_SETIMAGELIST</b></code>: Set Image List <br/>
+<code><b>CBEM_SETITEMA</b></code>: Set Item <br/>
+<code><b>CBEM_SETITEMW</b></code>: Set Item <br/>
 <hr/>
 <h3> <u> Common Dialog </u> </h3>
-<b>CDM_GETFILEPATH</b>: Get File Path <br/>
-<b>CDM_GETFOLDERIDLIST</b>: Get Folder ID List <br/>
-<b>CDM_GETFOLDERPATH</b>: Get Folder Path <br/>
-<b>CDM_GETSPEC (CDM_FIRST)</b>: Get Specifications <br/>
-<b>CDM_HIDECONTROL</b>: Hide Control <br/>
-<b>CDM_LAST</b>: Common Dialog [LAST] <br/>
-<b>CDM_SETCONTROLTEXT</b>: Set Control Text <br/>
-<b>CDM_SETDEFEXT</b>: Set Default Text <br/>
+<code><b>CDM_GETFILEPATH</b></code>: Get File Path <br/>
+<code><b>CDM_GETFOLDERIDLIST</b></code>: Get Folder ID List <br/>
+<code><b>CDM_GETFOLDERPATH</b></code>: Get Folder Path <br/>
+<code><b>CDM_GETSPEC (CDM_FIRST)</b></code>: Get Specifications <br/>
+<code><b>CDM_HIDECONTROL</b></code>: Hide Control <br/>
+<code><b>CDM_LAST</b></code>: Common Dialog [LAST] <br/>
+<code><b>CDM_SETCONTROLTEXT</b></code>: Set Control Text <br/>
+<code><b>CDM_SETDEFEXT</b></code>: Set Default Text <br/>
 <hr/>
 <h3> <u> Direct Draw </u> </h3>
-<b>DDM_BEGIN</b>: Begin <br/>
-<b>DDM_CLOSE</b>: Close <br/>
-<b>DDM_DRAW</b>: Draw <br/>
-<b>DDM_END</b>: End <br/>
-<b>DDM_SETFMT</b>: Set Format <br/>
+<code><b>DDM_BEGIN</b></code>: Begin <br/>
+<code><b>DDM_CLOSE</b></code>: Close <br/>
+<code><b>DDM_DRAW</b></code>: Draw <br/>
+<code><b>DDM_END</b></code>: End <br/>
+<code><b>DDM_SETFMT</b></code>: Set Format <br/>
 <hr/>
 <hr/>
 <h3> <u> Drag List Box </u> </h3>
-<b>DL_BEGINDRAG</b>: Begin Drag <br/>
-<b>DL_CANCELDRAG</b>: Cancel Drag <br/>
-<b>DL_DRAGGING</b>: Dragging <br/>
-<b>DL_DROPPED</b>: Dropped <br/>
+<code><b>DL_BEGINDRAG</b></code>: Begin Drag <br/>
+<code><b>DL_CANCELDRAG</b></code>: Cancel Drag <br/>
+<code><b>DL_DRAGGING</b></code>: Dragging <br/>
+<code><b>DL_DROPPED</b></code>: Dropped <br/>
 <hr/>
 <h3> <u> Dialog </u> </h3>
-<b>DM_GETDEFID</b>: Get Default Identity <br/>
-<b>DM_REPOSITION</b>: Reposition <br/>
-<b>DM_SETDEFID</b>: Set Default Identity <br/>
+<code><b>DM_GETDEFID</b></code>: Get Default Identity <br/>
+<code><b>DM_REPOSITION</b></code>: Reposition <br/>
+<code><b>DM_SETDEFID</b></code>: Set Default Identity <br/>
 <hr/>
 <h3> <u> Rich Edit </u> </h3>
-<b>EM_AUTOURLDETECT</b>: Automatic URL Detect <br/>
-<b>EM_CANPASTE</b>: Can Paste <br/>
-<b>EM_CANREDO</b>: Can Redo <br/>
-<b>EM_CANUNDO</b>: Can Undo <br/>
-<b>EM_CHARFROMPOS</b>: Character from Position <br/>
-<b>EM_CONVPOSITION</b>: Conv... Position <br/>
-<b>EM_DISPLAYBAND</b>: Display Band <br/>
-<b>EM_EMPTYUNDOBUFFER</b>: Empty Undo Buffer <br/>
-<b>EM_EXGETSEL</b>: Extend Get Selection <br/>
-<b>EM_EXLIMITTEXT</b>: Extend Limit Text <br/>
-<b>EM_EXLINEFROMCHAR</b>: Extend Line From Character <br/>
-<b>EM_EXSETSEL</b>: Extend Set Selection <br/>
-<b>EM_FINDTEXT</b>: Find Text <br/>
-<b>EM_FINDTEXTEX</b>: Find Text (Extended) <br/>
-<b>EM_FINDTEXTEXW</b>: Find Text (Extended) <br/>
-<b>EM_FINDTEXTW</b>: Find Text (Extended) <br/>
-<b>EM_FINDWORDBREAK</b>: Find Word Break <br/>
-<b>EM_FMTLINES</b>: Format Lines <br/>
-<b>EM_FORMATRANGE</b>: Format Range <br/>
-<b>EM_GETAUTOURLDETECT</b>: Get Automatic URL Detection <br/>
-<b>EM_GETBIDIOPTIONS</b>: Get Bi-directional Options <br/>
-<b>EM_GETCHARFORMAT</b>: Get Character Format <br/>
-<b>EM_GETCTFMODEBIAS</b>: Get CTF Mode Bias <br/>
-<b>EM_GETCTFOPENSTATUS</b>: Get CTF Open Status <br/>
-<b>EM_GETEDITSTYLE</b>: Get Edit Style <br/>
-<b>EM_GETEVENTMASK</b>: Get Event Mask <br/>
-<b>EM_GETFIRSTVISIBLELINE</b>: Get First Visible Line <br/>
-<b>EM_GETHANDLE</b>: Get Handle <br/>
-<b>EM_GETHYPHENATEINFO</b>: Get Hyphenate Information <br/>
-<b>EM_GETIMECOLOR</b>: Get IME (Input Method Editor) Color <br/>
-<b>EM_GETIMECOMPMODE</b>: Get IME (Input Method Editor) Composition Mode <br/>
-<b>EM_GETIMECOMPTEXT</b>: Get IME (Input Method Editor) Composition Text <br/>
-<b>EM_GETIMEMODEBIAS</b>: Get IME (Input Method Editor) Mode Bias <br/>
-<b>EM_GETIMEOPTIONS</b>: Get IME (Input Method Editor) Options <br/>
-<b>EM_GETIMEPROPERTY</b>: Get IME (Input Method Editor) Property <br/>
-<b>EM_GETIMESTATUS</b>: Get IME (Input Method Editor) Status <br/>
-<b>EM_GETLANGOPTIONS</b>: Get Language Options <br/>
-<b>EM_GETLIMITTEXT</b>: Get Limit Text <br/>
-<b>EM_GETLINE</b>: Get Line <br/>
-<b>EM_GETLINECOUNT</b>: Get Line Count <br/>
-<b>EM_GETMARGINS</b>: Get Margins <br/>
-<b>EM_GETMODIFY</b>: Get Modify <br/>
-<b>EM_GETOLEINTERFACE</b>: Get Tole Interface <br/>
-<b>EM_GETOPTIONS</b>: Get Options <br/>
-<b>EM_GETPAGE</b>: Get Page <br/>
-<b>EM_GETPAGEROTATE</b>: Get Page Rotate <br/>
-<b>EM_GETPARAFORMAT</b>: Get Paragraph Format <br/>
-<b>EM_GETPASSWORDCHAR</b>: Get Password Character <br/>
-<b>EM_GETPUNCTUATION</b>: Get Punctuation <br/>
-<b>EM_GETRECT</b>: Get Rectangle <br/>
-<b>EM_GETREDONAME</b>: Get Redo Name <br/>
-<b>EM_GETSCROLLPOS</b>: Get Scroll Position <br/>
-<b>EM_GETSEL</b>: Get Selection <br/>
-<b>EM_GETSELTEXT</b>: Get Selection Text <br/>
-<b>EM_GETTEXTEX</b>: Get Text (Extended) <br/>
-<b>EM_GETTEXTLENGTHEX</b>: Get Text Length (Extended) <br/>
-<b>EM_GETTEXTMODE</b>: Get Text Mode <br/>
-<b>EM_GETTEXTRANGE</b>: Get Text Range <br/>
-<b>EM_GETTHUMB</b>: Get Thumb <br/>
-<b>EM_GETTYPOGRAPHYOPTIONS</b>: Get Typography Options <br/>
-<b>EM_GETUNDONAME</b>: Get Undo Name <br/>
-<b>EM_GETVIEWKIND</b>: Get View Kind <br/>
-<b>EM_GETWORDBREAKPROC</b>: Get Word Break Procedure <br/>
-<b>EM_GETWORDBREAKPROCEX</b>: Get Word Break Procedure (Extended) <br/>
-<b>EM_GETWORDWRAPMODE</b>: Get Word Wrap Mode <br/>
-<b>EM_GETZOOM</b>: Get Zoom <br/>
-<b>EM_HIDESELECTION</b>: Hide Selection <br/>
-<b>EM_ISIME</b>: Is IME (Input Method Editor) <br/>
-<b>EM_LIMITTEXT</b>: Limit Text <br/>
-<b>EM_LINEFROMCHAR</b>: Line From Character <br/>
-<b>EM_LINEINDEX</b>: Line Index <br/>
-<b>EM_LINELENGTH</b>: Line Length <br/>
-<b>EM_LINESCROLL</b>: Line Scroll <br/>
-<b>EM_OUTLINE</b>: Line Outline <br/>
-<b>EM_PASTESPECIAL</b>: Line Paste Special <br/>
-<b>EM_POSFROMCHAR</b>: Line Position from Character <br/>
-<b>EM_RECONVERSION</b>: Reconversion <br/>
-<b>EM_REDO</b>: Redo <br/>
-<b>EM_REPLACESEL</b>: Replace Selection <br/>
-<b>EM_REQUESTRESIZE</b>: Request Resize <br/>
-<b>EM_SCROLL</b>: Scroll <br/>
-<b>EM_SCROLLCARET</b>: Scroll Caret <br/>
-<b>EM_SELECTIONTYPE</b>: Selection Type <br/>
-<b>EM_SETBIDIOPTIONS</b>: Set Bi-directional Options <br/>
-<b>EM_SETBKGNDCOLOR</b>: Set Background Color <br/>
-<b>EM_SETCHARFORMAT</b>: Set Character Format <br/>
-<b>EM_SETCTFMODEBIAS</b>: Set CTF Mode Bias <br/>
-<b>EM_SETCTFOPENSTATUS</b>: Set CTF Open Status <br/>
-<b>EM_SETEDITSTYLE</b>: Set Edit Style <br/>
-<b>EM_SETEVENTMASK</b>: Set Event Mask <br/>
-<b>EM_SETFONT</b>: Set Font <br/>
-<b>EM_SETFONTSIZE</b>: Set Font Size <br/>
-<b>EM_SETHANDLE</b>: Set Handle <br/>
-<b>EM_SETHYPHENATEINFO</b>: Set Hyphenate Information <br/>
-<b>EM_SETIMECOLOR</b>: Set IME (Input Method Editor) Color <br/>
-<b>EM_SETIMEMODEBIAS</b>: Set IME (Input Method Editor) Mode Bias <br/>
-<b>EM_SETIMEOPTIONS</b>: Set IME (Input Method Editor) Options <br/>
-<b>EM_SETIMESTATUS</b>: Set Time Status <br/>
-<b>EM_SETLANGOPTIONS</b>: Set Language Options <br/>
-<b>EM_SETLIMITTEXT</b>: Set Limit Text <br/>
-<b>EM_SETMARGINS</b>: Set Margins <br/>
-<b>EM_SETMODIFY</b>: Set Modify <br/>
-<b>EM_SETOLECALLBACK</b>: Set OLE (Object Linking & Embedding) Callback <br/>
-<b>EM_SETOPTIONS</b>: Set Options <br/>
-<b>EM_SETPAGE</b>: Set Page <br/>
-<b>EM_SETPAGEROTATE</b>: Set Page Rotate <br/>
-<b>EM_SETPALETTE</b>: Set Palette <br/>
-<b>EM_SETPARAFORMAT</b>: Set Paragraph Format <br/>
-<b>EM_SETPASSWORDCHAR</b>: Set Password Character <br/>
-<b>EM_SETPUNCTUATION</b>: Set Punctuation <br/>
-<b>EM_SETQUERYRTFOBJ</b>: Set Query Rich-Text Format Object <br/>
-<b>EM_SETREADONLY</b>: Set Read-Only <br/>
-<b>EM_SETRECT</b>: Set Rectangle <br/>
-<b>EM_SETRECTNP</b>: Set Rectangle New Position <br/>
-<b>EM_SETSCROLLPOS</b>: Set Scroll Position <br/>
-<b>EM_SETSEL</b>: Set Selection <br/>
-<b>EM_SETTABSTOPS</b>: Set Absolute Stops <br/>
-<b>EM_SETTARGETDEVICE</b>: Set Target Device <br/>
-<b>EM_SETTEXTEX</b>: Set Text (Extended) <br/>
-<b>EM_SETTEXTMODE</b>: Set Text Mode <br/>
-<b>EM_SETTYPOGRAPHYOPTIONS</b>: Set Typography Options <br/>
-<b>EM_SETUNDOLIMIT</b>: Set Undo Limit <br/>
-<b>EM_SETVIEWKIND</b>: Set View Kind <br/>
-<b>EM_SETWORDBREAK</b>: Set Word Break <br/>
-<b>EM_SETWORDBREAKPROC</b>: Set Word Break Procedure <br/>
-<b>EM_SETWORDBREAKPROCEX</b>: Set Word Break Procedure (Extended) <br/>
-<b>EM_SETWORDWRAPMODE</b>: Set Word Wrap Mode <br/>
-<b>EM_SETZOOM</b>: Set Zoom <br/>
-<b>EM_SHOWSCROLLBAR</b>: Show Scrollbar <br/>
-<b>EM_STOPGROUPTYPING</b>: Stop Group Typing <br/>
-<b>EM_STREAMIN</b>: Stream In <br/>
-<b>EM_STREAMOUT</b>: Stream Out <br/>
-<b>EM_UNDO</b>: Undo <br/>
+<code><b>EM_AUTOURLDETECT</b></code>: Automatic URL Detect <br/>
+<code><b>EM_CANPASTE</b></code>: Can Paste <br/>
+<code><b>EM_CANREDO</b></code>: Can Redo <br/>
+<code><b>EM_CANUNDO</b></code>: Can Undo <br/>
+<code><b>EM_CHARFROMPOS</b></code>: Character from Position <br/>
+<code><b>EM_CONVPOSITION</b></code>: Conv... Position <br/>
+<code><b>EM_DISPLAYBAND</b></code>: Display Band <br/>
+<code><b>EM_EMPTYUNDOBUFFER</b></code>: Empty Undo Buffer <br/>
+<code><b>EM_EXGETSEL</b></code>: Extend Get Selection <br/>
+<code><b>EM_EXLIMITTEXT</b></code>: Extend Limit Text <br/>
+<code><b>EM_EXLINEFROMCHAR</b></code>: Extend Line From Character <br/>
+<code><b>EM_EXSETSEL</b></code>: Extend Set Selection <br/>
+<code><b>EM_FINDTEXT</b></code>: Find Text <br/>
+<code><b>EM_FINDTEXTEX</b></code>: Find Text (Extended) <br/>
+<code><b>EM_FINDTEXTEXW</b></code>: Find Text (Extended) <br/>
+<code><b>EM_FINDTEXTW</b></code>: Find Text (Extended) <br/>
+<code><b>EM_FINDWORDBREAK</b></code>: Find Word Break <br/>
+<code><b>EM_FMTLINES</b></code>: Format Lines <br/>
+<code><b>EM_FORMATRANGE</b></code>: Format Range <br/>
+<code><b>EM_GETAUTOURLDETECT</b></code>: Get Automatic URL Detection <br/>
+<code><b>EM_GETBIDIOPTIONS</b></code>: Get Bi-directional Options <br/>
+<code><b>EM_GETCHARFORMAT</b></code>: Get Character Format <br/>
+<code><b>EM_GETCTFMODEBIAS</b></code>: Get CTF Mode Bias <br/>
+<code><b>EM_GETCTFOPENSTATUS</b></code>: Get CTF Open Status <br/>
+<code><b>EM_GETEDITSTYLE</b></code>: Get Edit Style <br/>
+<code><b>EM_GETEVENTMASK</b></code>: Get Event Mask <br/>
+<code><b>EM_GETFIRSTVISIBLELINE</b></code>: Get First Visible Line <br/>
+<code><b>EM_GETHANDLE</b></code>: Get Handle <br/>
+<code><b>EM_GETHYPHENATEINFO</b></code>: Get Hyphenate Information <br/>
+<code><b>EM_GETIMECOLOR</b></code>: Get IME (Input Method Editor) Color <br/>
+<code><b>EM_GETIMECOMPMODE</b></code>: Get IME (Input Method Editor) Composition Mode <br/>
+<code><b>EM_GETIMECOMPTEXT</b></code>: Get IME (Input Method Editor) Composition Text <br/>
+<code><b>EM_GETIMEMODEBIAS</b></code>: Get IME (Input Method Editor) Mode Bias <br/>
+<code><b>EM_GETIMEOPTIONS</b></code>: Get IME (Input Method Editor) Options <br/>
+<code><b>EM_GETIMEPROPERTY</b></code>: Get IME (Input Method Editor) Property <br/>
+<code><b>EM_GETIMESTATUS</b></code>: Get IME (Input Method Editor) Status <br/>
+<code><b>EM_GETLANGOPTIONS</b></code>: Get Language Options <br/>
+<code><b>EM_GETLIMITTEXT</b></code>: Get Limit Text <br/>
+<code><b>EM_GETLINE</b></code>: Get Line <br/>
+<code><b>EM_GETLINECOUNT</b></code>: Get Line Count <br/>
+<code><b>EM_GETMARGINS</b></code>: Get Margins <br/>
+<code><b>EM_GETMODIFY</b></code>: Get Modify <br/>
+<code><b>EM_GETOLEINTERFACE</b></code>: Get Tole Interface <br/>
+<code><b>EM_GETOPTIONS</b></code>: Get Options <br/>
+<code><b>EM_GETPAGE</b></code>: Get Page <br/>
+<code><b>EM_GETPAGEROTATE</b></code>: Get Page Rotate <br/>
+<code><b>EM_GETPARAFORMAT</b></code>: Get Paragraph Format <br/>
+<code><b>EM_GETPASSWORDCHAR</b></code>: Get Password Character <br/>
+<code><b>EM_GETPUNCTUATION</b></code>: Get Punctuation <br/>
+<code><b>EM_GETRECT</b></code>: Get Rectangle <br/>
+<code><b>EM_GETREDONAME</b></code>: Get Redo Name <br/>
+<code><b>EM_GETSCROLLPOS</b></code>: Get Scroll Position <br/>
+<code><b>EM_GETSEL</b></code>: Get Selection <br/>
+<code><b>EM_GETSELTEXT</b></code>: Get Selection Text <br/>
+<code><b>EM_GETTEXTEX</b></code>: Get Text (Extended) <br/>
+<code><b>EM_GETTEXTLENGTHEX</b></code>: Get Text Length (Extended) <br/>
+<code><b>EM_GETTEXTMODE</b></code>: Get Text Mode <br/>
+<code><b>EM_GETTEXTRANGE</b></code>: Get Text Range <br/>
+<code><b>EM_GETTHUMB</b></code>: Get Thumb <br/>
+<code><b>EM_GETTYPOGRAPHYOPTIONS</b></code>: Get Typography Options <br/>
+<code><b>EM_GETUNDONAME</b></code>: Get Undo Name <br/>
+<code><b>EM_GETVIEWKIND</b></code>: Get View Kind <br/>
+<code><b>EM_GETWORDBREAKPROC</b></code>: Get Word Break Procedure <br/>
+<code><b>EM_GETWORDBREAKPROCEX</b></code>: Get Word Break Procedure (Extended) <br/>
+<code><b>EM_GETWORDWRAPMODE</b></code>: Get Word Wrap Mode <br/>
+<code><b>EM_GETZOOM</b></code>: Get Zoom <br/>
+<code><b>EM_HIDESELECTION</b></code>: Hide Selection <br/>
+<code><b>EM_ISIME</b></code>: Is IME (Input Method Editor) <br/>
+<code><b>EM_LIMITTEXT</b></code>: Limit Text <br/>
+<code><b>EM_LINEFROMCHAR</b></code>: Line From Character <br/>
+<code><b>EM_LINEINDEX</b></code>: Line Index <br/>
+<code><b>EM_LINELENGTH</b></code>: Line Length <br/>
+<code><b>EM_LINESCROLL</b></code>: Line Scroll <br/>
+<code><b>EM_OUTLINE</b></code>: Line Outline <br/>
+<code><b>EM_PASTESPECIAL</b></code>: Line Paste Special <br/>
+<code><b>EM_POSFROMCHAR</b></code>: Line Position from Character <br/>
+<code><b>EM_RECONVERSION</b></code>: Reconversion <br/>
+<code><b>EM_REDO</b></code>: Redo <br/>
+<code><b>EM_REPLACESEL</b></code>: Replace Selection <br/>
+<code><b>EM_REQUESTRESIZE</b></code>: Request Resize <br/>
+<code><b>EM_SCROLL</b></code>: Scroll <br/>
+<code><b>EM_SCROLLCARET</b></code>: Scroll Caret <br/>
+<code><b>EM_SELECTIONTYPE</b></code>: Selection Type <br/>
+<code><b>EM_SETBIDIOPTIONS</b></code>: Set Bi-directional Options <br/>
+<code><b>EM_SETBKGNDCOLOR</b></code>: Set Background Color <br/>
+<code><b>EM_SETCHARFORMAT</b></code>: Set Character Format <br/>
+<code><b>EM_SETCTFMODEBIAS</b></code>: Set CTF Mode Bias <br/>
+<code><b>EM_SETCTFOPENSTATUS</b></code>: Set CTF Open Status <br/>
+<code><b>EM_SETEDITSTYLE</b></code>: Set Edit Style <br/>
+<code><b>EM_SETEVENTMASK</b></code>: Set Event Mask <br/>
+<code><b>EM_SETFONT</b></code>: Set Font <br/>
+<code><b>EM_SETFONTSIZE</b></code>: Set Font Size <br/>
+<code><b>EM_SETHANDLE</b></code>: Set Handle <br/>
+<code><b>EM_SETHYPHENATEINFO</b></code>: Set Hyphenate Information <br/>
+<code><b>EM_SETIMECOLOR</b></code>: Set IME (Input Method Editor) Color <br/>
+<code><b>EM_SETIMEMODEBIAS</b></code>: Set IME (Input Method Editor) Mode Bias <br/>
+<code><b>EM_SETIMEOPTIONS</b></code>: Set IME (Input Method Editor) Options <br/>
+<code><b>EM_SETIMESTATUS</b></code>: Set Time Status <br/>
+<code><b>EM_SETLANGOPTIONS</b></code>: Set Language Options <br/>
+<code><b>EM_SETLIMITTEXT</b></code>: Set Limit Text <br/>
+<code><b>EM_SETMARGINS</b></code>: Set Margins <br/>
+<code><b>EM_SETMODIFY</b></code>: Set Modify <br/>
+<code><b>EM_SETOLECALLBACK</b></code>: Set OLE (Object Linking & Embedding) Callback <br/>
+<code><b>EM_SETOPTIONS</b></code>: Set Options <br/>
+<code><b>EM_SETPAGE</b></code>: Set Page <br/>
+<code><b>EM_SETPAGEROTATE</b></code>: Set Page Rotate <br/>
+<code><b>EM_SETPALETTE</b></code>: Set Palette <br/>
+<code><b>EM_SETPARAFORMAT</b></code>: Set Paragraph Format <br/>
+<code><b>EM_SETPASSWORDCHAR</b></code>: Set Password Character <br/>
+<code><b>EM_SETPUNCTUATION</b></code>: Set Punctuation <br/>
+<code><b>EM_SETQUERYRTFOBJ</b></code>: Set Query Rich-Text Format Object <br/>
+<code><b>EM_SETREADONLY</b></code>: Set Read-Only <br/>
+<code><b>EM_SETRECT</b></code>: Set Rectangle <br/>
+<code><b>EM_SETRECTNP</b></code>: Set Rectangle New Position <br/>
+<code><b>EM_SETSCROLLPOS</b></code>: Set Scroll Position <br/>
+<code><b>EM_SETSEL</b></code>: Set Selection <br/>
+<code><b>EM_SETTABSTOPS</b></code>: Set Absolute Stops <br/>
+<code><b>EM_SETTARGETDEVICE</b></code>: Set Target Device <br/>
+<code><b>EM_SETTEXTEX</b></code>: Set Text (Extended) <br/>
+<code><b>EM_SETTEXTMODE</b></code>: Set Text Mode <br/>
+<code><b>EM_SETTYPOGRAPHYOPTIONS</b></code>: Set Typography Options <br/>
+<code><b>EM_SETUNDOLIMIT</b></code>: Set Undo Limit <br/>
+<code><b>EM_SETVIEWKIND</b></code>: Set View Kind <br/>
+<code><b>EM_SETWORDBREAK</b></code>: Set Word Break <br/>
+<code><b>EM_SETWORDBREAKPROC</b></code>: Set Word Break Procedure <br/>
+<code><b>EM_SETWORDBREAKPROCEX</b></code>: Set Word Break Procedure (Extended) <br/>
+<code><b>EM_SETWORDWRAPMODE</b></code>: Set Word Wrap Mode <br/>
+<code><b>EM_SETZOOM</b></code>: Set Zoom <br/>
+<code><b>EM_SHOWSCROLLBAR</b></code>: Show Scrollbar <br/>
+<code><b>EM_STOPGROUPTYPING</b></code>: Stop Group Typing <br/>
+<code><b>EM_STREAMIN</b></code>: Stream In <br/>
+<code><b>EM_STREAMOUT</b></code>: Stream Out <br/>
+<code><b>EM_UNDO</b></code>: Undo <br/>
 <hr/>
 <h3> <u> File Manager </u> </h3>
-<b>FM_GETDRIVEINFOA</b>: Get Drive Information <br/>
-<b>FM_GETDRIVEINFOW</b>: Get Drive Information <br/>
-<b>FM_GETFILESELA</b>: Get File Selection <br/>
-<b>FM_GETFILESELLFNA</b>: Get File Selection Function <br/>
-<b>FM_GETFILESELLFNW</b>: Get File Selection Function <br/>
-<b>FM_GETFILESELW</b>: Get File Selection <br/>
-<b>FM_GETFOCUS</b>: Get Focus <br/>
-<b>FM_GETSELCOUNT</b>: Selection Count <br/>
-<b>FM_GETSELCOUNTLFN</b>: Selection Count ... <br/>
-<b>FM_REFRESH_WINDOWS</b>: Refresh Windows <br/>
-<b>FM_RELOAD_EXTENSIONS</b>: Reload Extensions <br/>
+<code><b>FM_GETDRIVEINFOA</b></code>: Get Drive Information <br/>
+<code><b>FM_GETDRIVEINFOW</b></code>: Get Drive Information <br/>
+<code><b>FM_GETFILESELA</b></code>: Get File Selection <br/>
+<code><b>FM_GETFILESELLFNA</b></code>: Get File Selection Function <br/>
+<code><b>FM_GETFILESELLFNW</b></code>: Get File Selection Function <br/>
+<code><b>FM_GETFILESELW</b></code>: Get File Selection <br/>
+<code><b>FM_GETFOCUS</b></code>: Get Focus <br/>
+<code><b>FM_GETSELCOUNT</b></code>: Selection Count <br/>
+<code><b>FM_GETSELCOUNTLFN</b></code>: Selection Count ... <br/>
+<code><b>FM_REFRESH_WINDOWS</b></code>: Refresh Windows <br/>
+<code><b>FM_RELOAD_EXTENSIONS</b></code>: Reload Extensions <br/>
 <hr/>
 <h3> <u> Hot Key </u> </h3>
-<b>HKM_GETHOTKEY</b>: Get Hotkey <br/>
-<b>HKM_SETHOTKEY</b>: Set Hotkey <br/>
-<b>HKM_SETRULES</b>: Set Rules <br/>
+<code><b>HKM_GETHOTKEY</b></code>: Get Hotkey <br/>
+<code><b>HKM_SETHOTKEY</b></code>: Set Hotkey <br/>
+<code><b>HKM_SETRULES</b></code>: Set Rules <br/>
 <hr/>
 <h3> <u> Ink Edit </u> </h3>
-<b>IE_DOCOMMAND</b>: Do Command <br/>
-<b>IE_GETAPPDATA</b>: Get Application Data <br/>
-<b>IE_GETBKGND</b>: Get Background <br/>
-<b>IE_GETCOMMAND</b>: Ink Edit - Get Command <br/>
-<b>IE_GETCOUNT</b>: Get Count <br/>
-<b>IE_GETDRAWOPTS</b>: Get Draw Options <br/>
-<b>IE_GETERASERTIP</b>: Get Eraser Tip <br/>
-<b>IE_GETFORMAT</b>: Get Format <br/>
-<b>IE_GETGESTURE</b>: Get Gesture <br/>
-<b>IE_GETGRIDORIGIN</b>: Get Grid Origin <br/>
-<b>IE_GETGRIDPEN</b>: Get Grid Pen <br/>
-<b>IE_GETGRIDSIZE</b>: Get Grid Size <br/>
-<b>IE_GETINK (IE_MSGFIRST)</b>: Get Ink <br/>
-<b>IE_GETINKINPUT</b>: Get Ink Input <br/>
-<b>IE_GETINKRECT</b>: Get Ink Rectangle <br/>
-<b>IE_GETMENU</b>: Get Menu <br/>
-<b>IE_GETMODE</b>: Get Mode <br/>
-<b>IE_GETNOTIFY</b>: Get Notify <br/>
-<b>IE_GETPAINTDC</b>: Get Paint Device Context <br/>
-<b>IE_GETPDEVENT</b>: Get PD Event <br/>
-<b>IE_GETPENTIP</b>: Get Pen Tip <br/>
-<b>IE_GETRECOG</b>: Get Recognition <br/>
-<b>IE_GETSECURITY</b>: Get Security <br/>
-<b>IE_GETSEL</b>: Get Selection <br/>
-<b>IE_GETSELCOUNT</b>: Get Selection Count <br/>
-<b>IE_GETSELITEMS</b>: Get Selection Items <br/>
-<b>IE_GETSTYLE</b>: Get Style <br/>
-<b>IE_SETAPPDATA</b>: Set Application Data <br/>
-<b>IE_SETBKGND</b>: Set Background <br/>
-<b>IE_SETDRAWOPTS</b>: Set Draw Options <br/>
-<b>IE_SETERASERTIP</b>: Set Eraser Tip <br/>
-<b>IE_SETFORMAT</b>: Set Format <br/>
-<b>IE_SETGRIDORIGIN</b>: Set Grid Origin <br/>
-<b>IE_SETGRIDPEN</b>: Set Grid Pen <br/>
-<b>IE_SETGRIDSIZE</b>: Set Grid Size <br/>
-<b>IE_SETINK</b>: Set Ink <br/>
-<b>IE_SETINKINPUT</b>: Set Ink Input <br/>
-<b>IE_SETMODE</b>: Set Mode <br/>
-<b>IE_SETNOTIFY</b>: Set Notify <br/>
-<b>IE_SETPENTIP</b>: Set Pen Tip <br/>
-<b>IE_SETRECOG</b>: Set Recognition <br/>
-<b>IE_SETSECURITY</b>: Set Security <br/>
-<b>IE_SETSEL</b>: Set Selection <br/>
+<code><b>IE_DOCOMMAND</b></code>: Do Command <br/>
+<code><b>IE_GETAPPDATA</b></code>: Get Application Data <br/>
+<code><b>IE_GETBKGND</b></code>: Get Background <br/>
+<code><b>IE_GETCOMMAND</b></code>: Ink Edit - Get Command <br/>
+<code><b>IE_GETCOUNT</b></code>: Get Count <br/>
+<code><b>IE_GETDRAWOPTS</b></code>: Get Draw Options <br/>
+<code><b>IE_GETERASERTIP</b></code>: Get Eraser Tip <br/>
+<code><b>IE_GETFORMAT</b></code>: Get Format <br/>
+<code><b>IE_GETGESTURE</b></code>: Get Gesture <br/>
+<code><b>IE_GETGRIDORIGIN</b></code>: Get Grid Origin <br/>
+<code><b>IE_GETGRIDPEN</b></code>: Get Grid Pen <br/>
+<code><b>IE_GETGRIDSIZE</b></code>: Get Grid Size <br/>
+<code><b>IE_GETINK (IE_MSGFIRST)</b></code>: Get Ink <br/>
+<code><b>IE_GETINKINPUT</b></code>: Get Ink Input <br/>
+<code><b>IE_GETINKRECT</b></code>: Get Ink Rectangle <br/>
+<code><b>IE_GETMENU</b></code>: Get Menu <br/>
+<code><b>IE_GETMODE</b></code>: Get Mode <br/>
+<code><b>IE_GETNOTIFY</b></code>: Get Notify <br/>
+<code><b>IE_GETPAINTDC</b></code>: Get Paint Device Context <br/>
+<code><b>IE_GETPDEVENT</b></code>: Get PD Event <br/>
+<code><b>IE_GETPENTIP</b></code>: Get Pen Tip <br/>
+<code><b>IE_GETRECOG</b></code>: Get Recognition <br/>
+<code><b>IE_GETSECURITY</b></code>: Get Security <br/>
+<code><b>IE_GETSEL</b></code>: Get Selection <br/>
+<code><b>IE_GETSELCOUNT</b></code>: Get Selection Count <br/>
+<code><b>IE_GETSELITEMS</b></code>: Get Selection Items <br/>
+<code><b>IE_GETSTYLE</b></code>: Get Style <br/>
+<code><b>IE_SETAPPDATA</b></code>: Set Application Data <br/>
+<code><b>IE_SETBKGND</b></code>: Set Background <br/>
+<code><b>IE_SETDRAWOPTS</b></code>: Set Draw Options <br/>
+<code><b>IE_SETERASERTIP</b></code>: Set Eraser Tip <br/>
+<code><b>IE_SETFORMAT</b></code>: Set Format <br/>
+<code><b>IE_SETGRIDORIGIN</b></code>: Set Grid Origin <br/>
+<code><b>IE_SETGRIDPEN</b></code>: Set Grid Pen <br/>
+<code><b>IE_SETGRIDSIZE</b></code>: Set Grid Size <br/>
+<code><b>IE_SETINK</b></code>: Set Ink <br/>
+<code><b>IE_SETINKINPUT</b></code>: Set Ink Input <br/>
+<code><b>IE_SETMODE</b></code>: Set Mode <br/>
+<code><b>IE_SETNOTIFY</b></code>: Set Notify <br/>
+<code><b>IE_SETPENTIP</b></code>: Set Pen Tip <br/>
+<code><b>IE_SETRECOG</b></code>: Set Recognition <br/>
+<code><b>IE_SETSECURITY</b></code>: Set Security <br/>
+<code><b>IE_SETSEL</b></code>: Set Selection <br/>
 <hr/>
 <h3> <u> Internet Protocol </u> </h3>
-<b>IPM_CLEARADDRESS</b>: Clear Address <br/>
-<b>IPM_GETADDRESS</b>: Get Address <br/>
-<b>IPM_ISBLANK</b>: Is Blank <br/>
-<b>IPM_SETADDRESS</b>: Set Address <br/>
-<b>IPM_SETFOCUS</b>: Set Focus <br/>
-<b>IPM_SETRANGE</b>: Set Range <br/>
+<code><b>IPM_CLEARADDRESS</b></code>: Clear Address <br/>
+<code><b>IPM_GETADDRESS</b></code>: Get Address <br/>
+<code><b>IPM_ISBLANK</b></code>: Is Blank <br/>
+<code><b>IPM_SETADDRESS</b></code>: Set Address <br/>
+<code><b>IPM_SETFOCUS</b></code>: Set Focus <br/>
+<code><b>IPM_SETRANGE</b></code>: Set Range <br/>
 <hr/>
 <h3> <u> List View </u> </h3>
-<b>LVM_ARRANGE</b>: Arrange <br/>
-<b>LVM_CANCELEDITLABEL</b>: Cancel Edit Label <br/>
-<b>LVM_CREATEDRAGIMAGE</b>: Create Drag Image <br/>
-<b>LVM_DELETEALLITEMS</b>: Delete All Items <br/>
-<b>LVM_DELETECOLUMN</b>: Delete Column <br/>
-<b>LVM_DELETEITEM</b>: Delete Item <br/>
-<b>LVM_EDITLABELA</b>: Edit Label <br/>
-<b>LVM_EDITLABELW</b>: Edit Label <br/>
-<b>LVM_ENABLEGROUPVIEW</b>: Enable Group View <br/>
-<b>LVM_ENSUREVISIBLE</b>: Ensure Visible <br/>
-<b>LVM_FINDITEMA</b>: Find Item <br/>
-<b>LVM_FINDITEMW</b>: Find Item <br/>
-<b>LVM_GETBKCOLOR (LVM_FIRST)</b>: Get Background Color <br/>
-<b>LVM_GETBKIMAGEA</b>: Get Background Image <br/>
-<b>LVM_GETBKIMAGEW</b>: Get Background Image <br/>
-<b>LVM_GETCALLBACKMASK</b>: Get Call Back Mask <br/>
-<b>LVM_GETCOLUMNA</b>: Get Column <br/>
-<b>LVM_GETCOLUMNORDERARRAY</b>: Get Column Order Array <br/>
-<b>LVM_GETCOLUMNW</b>: Get Column <br/>
-<b>LVM_GETCOLUMNWIDTH</b>: Get Column Width <br/>
-<b>LVM_GETCOUNTPERPAGE</b>: Get Count per Page <br/>
-<b>LVM_GETEDITCONTROL</b>: Get Edit Control <br/>
-<b>LVM_GETEXTENDEDLISTVIEWSTYLE</b>: Get Extended List View Style <br/>
-<b>LVM_GETGROUPINFO</b>: Get Group Information <br/>
-<b>LVM_GETGROUPMETRICS</b>: Get Group Metrics <br/>
-<b>LVM_GETHEADER</b>: Get Header <br/>
-<b>LVM_GETHOTCURSOR</b>: Get Hot Cursor <br/>
-<b>LVM_GETHOTITEM</b>: Get Hover Time <br/>
-<b>LVM_GETHOVERTIME</b>: Get Image List <br/>
-<b>LVM_GETIMAGELIST</b>: Get Image List <br/>
-<b>LVM_GETINSERTMARK</b>: Get Insert Mark <br/>
-<b>LVM_GETINSERTMARKCOLOR</b>: Get Insert Mark Color <br/>
-<b>LVM_GETINSERTMARKRECT</b>: Get Insert Mark Rectangle <br/>
-<b>LVM_GETISEARCHSTRINGA</b>: Get Incremental Search String <br/>
-<b>LVM_GETISEARCHSTRINGW</b>: Get Incremental Search String <br/>
-<b>LVM_GETITEMA</b>: Get Item <br/>
-<b>LVM_GETITEMCOUNT</b>: Get Item Count <br/>
-<b>LVM_GETITEMPOSITION</b>: Get Item Position <br/>
-<b>LVM_GETITEMRECT</b>: Get Item Rectangle <br/>
-<b>LVM_GETITEMSPACING</b>: Get Item Spacing <br/>
-<b>LVM_GETITEMSTATE</b>: Get Item State <br/>
-<b>LVM_GETITEMTEXTA</b>: Get Item Text <br/>
-<b>LVM_GETITEMTEXTW</b>: Get Item Text <br/>
-<b>LVM_GETITEMW</b>: Get Item <br/>
-<b>LVM_GETNEXTITEM</b>: Get Next Item <br/>
-<b>LVM_GETNUMBEROFWORKAREAS</b>: Get Number of Work Areas <br/>
-<b>LVM_GETORIGIN</b>: Get Origin <br/>
-<b>LVM_GETOUTLINECOLOR</b>: Get Outline Color <br/>
-<b>LVM_GETSELECTEDCOLUMN</b>: Get Selected Column <br/>
-<b>LVM_GETSELECTEDCOUNT</b>: Get Selected Count <br/>
-<b>LVM_GETSELECTIONMARK</b>: Get Selection Mark <br/>
-<b>LVM_GETSTRINGWIDTHA</b>: Get String Width <br/>
-<b>LVM_GETSTRINGWIDTHW</b>: Get String Width <br/>
-<b>LVM_GETSUBITEMRECT</b>: Get Sub-Item Rectangle <br/>
-<b>LVM_GETTEXTBKCOLOR</b>: Get Text Background Color <br/>
-<b>LVM_GETTEXTCOLOR</b>: Get Text Color <br/>
-<b>LVM_GETTILEINFO</b>: Get Tile Information <br/>
-<b>LVM_GETTILEVIEWINFO</b>: Get Tile View Information <br/>
-<b>LVM_GETTOOLTIPS</b>: Get Tooltips <br/>
-<b>LVM_GETTOPINDEX</b>: Get Top Index <br/>
-<b>LVM_GETUNICODEFORMAT</b>: Get Unicode Format <br/>
-<b>LVM_GETVIEW</b>: Get View <br/>
-<b>LVM_GETVIEWRECT</b>: Get View Rect <br/>
-<b>LVM_GETWORKAREAS</b>: Get Work Areas <br/>
-<b>LVM_HASGROUP</b>: Has Group <br/>
-<b>LVM_HITTEST</b>: Hit Test <br/>
-<b>LVM_INSERTCOLUMNA</b>: Insert Column <br/>
-<b>LVM_INSERTCOLUMNW</b>: Insert Column <br/>
-<b>LVM_INSERTGROUP</b>: Insert Group <br/>
-<b>LVM_INSERTGROUPSORTED</b>: Insert Group Sorted <br/>
-<b>LVM_INSERTITEMA</b>: Insert Item <br/>
-<b>LVM_INSERTITEMW</b>: Insert Item <br/>
-<b>LVM_INSERTMARKHITTEST</b>: Insert Mark Hit Test <br/>
-<b>LVM_ISGROUPVIEWENABLED</b>: Is Group View Enabled <br/>
-<b>LVM_ISITEMVISIBLE</b>: Is Item Visible <br/>
-<b>LVM_MAPIDTOINDEX</b>: Map Identity to Index <br/>
-<b>LVM_MAPINDEXTOID</b>: Map Index to Identity <br/>
-<b>LVM_MOVEGROUP</b>: Move Group <br/>
-<b>LVM_MOVEITEMTOGROUP</b>: Move Item to Group <br/>
-<b>LVM_REDRAWITEMS</b>: Redraw Items <br/>
-<b>LVM_REMOVEALLGROUPS</b>: Remove all Groups <br/>
-<b>LVM_REMOVEGROUP</b>: Remove Group <br/>
-<b>LVM_SCROLL</b>: Scroll <br/>
-<b>LVM_SETBKCOLOR</b>: Set Background Color <br/>
-<b>LVM_SETBKIMAGEA</b>: Set Background Image <br/>
-<b>LVM_SETCALLBACKMASK</b>: Set Callback Mask <br/>
-<b>LVM_SETCOLUMNA</b>: Set Column <br/>
-<b>LVM_SETCOLUMNORDERARRAY</b>: Set Column Order Array <br/>
-<b>LVM_SETCOLUMNW</b>: Set Column <br/>
-<b>LVM_SETCOLUMNWIDTH</b>: Set Column Width <br/>
-<b>LVM_SETEXTENDEDLISTVIEWSTYLE</b>: Set Extended List View Style <br/>
-<b>LVM_SETGROUPINFO</b>: Set Group Information <br/>
-<b>LVM_SETGROUPMETRICS</b>: Set Group Metrics <br/>
-<b>LVM_SETHOTCURSOR</b>: Set Hot Cursor <br/>
-<b>LVM_SETHOTITEM</b>: Set Hot Item <br/>
-<b>LVM_SETHOVERTIME</b>: Set Hover Time <br/>
-<b>LVM_SETICONSPACING</b>: Set Icon Spacing <br/>
-<b>LVM_SETIMAGELIST</b>: Set Image List <br/>
-<b>LVM_SETINFOTIP</b>: Set Information Tip <br/>
-<b>LVM_SETINSERTMARK</b>: Set Insert Mark <br/>
-<b>LVM_SETINSERTMARKCOLOR</b>: Set Insert Mark Color <br/>
-<b>LVM_SETITEMA</b>: Set Item <br/>
-<b>LVM_SETITEMCOUNT</b>: Set Item Count <br/>
-<b>LVM_SETITEMPOSITION32</b>: Set Item Position (32-Bit) <br/>
-<b>LVM_SETITEMPOSITION</b>: Set Item Position <br/>
-<b>LVM_SETITEMSTATE</b>: Set Item State <br/>
-<b>LVM_SETITEMTEXTA</b>: Set Item Text <br/>
-<b>LVM_SETITEMTEXTW</b>: Set Item Text <br/>
-<b>LVM_SETITEMW</b>: Set Item <br/>
-<b>LVM_SETOUTLINECOLOR</b>: Set Outline Color <br/>
-<b>LVM_SETSELECTEDCOLUMN</b>: Set Selected Column <br/>
-<b>LVM_SETSELECTIONMARK</b>: Set Selection Mark <br/>
-<b>LVM_SETTEXTBKCOLOR</b>: Set Text Background Color <br/>
-<b>LVM_SETTEXTCOLOR</b>: Set Text Color <br/>
-<b>LVM_SETTILEINFO</b>: Set Tile Information <br/>
-<b>LVM_SETTILEVIEWINFO</b>: Set Tile View Information <br/>
-<b>LVM_SETTILEWIDTH</b>: Set Tile Width <br/>
-<b>LVM_SETTOOLTIPS</b>: Set Tooltips <br/>
-<b>LVM_SETUNICODEFORMAT</b>: Set Unicode Format <br/>
-<b>LVM_SETVIEW</b>: Set View <br/>
-<b>LVM_SETWORKAREAS</b>: Set WorkaAreas <br/>
-<b>LVM_SORTGROUPS</b>: Sort Groups <br/>
-<b>LVM_SORTITEMS</b>: Sort Items <br/>
-<b>LVM_SUBITEMHITTEST</b>: Sub-Item Hit Test <br/>
-<b>LVM_UPDATE</b>: Update <br/>
+<code><b>LVM_ARRANGE</b></code>: Arrange <br/>
+<code><b>LVM_CANCELEDITLABEL</b></code>: Cancel Edit Label <br/>
+<code><b>LVM_CREATEDRAGIMAGE</b></code>: Create Drag Image <br/>
+<code><b>LVM_DELETEALLITEMS</b></code>: Delete All Items <br/>
+<code><b>LVM_DELETECOLUMN</b></code>: Delete Column <br/>
+<code><b>LVM_DELETEITEM</b></code>: Delete Item <br/>
+<code><b>LVM_EDITLABELA</b></code>: Edit Label <br/>
+<code><b>LVM_EDITLABELW</b></code>: Edit Label <br/>
+<code><b>LVM_ENABLEGROUPVIEW</b></code>: Enable Group View <br/>
+<code><b>LVM_ENSUREVISIBLE</b></code>: Ensure Visible <br/>
+<code><b>LVM_FINDITEMA</b></code>: Find Item <br/>
+<code><b>LVM_FINDITEMW</b></code>: Find Item <br/>
+<code><b>LVM_GETBKCOLOR (LVM_FIRST)</b></code>: Get Background Color <br/>
+<code><b>LVM_GETBKIMAGEA</b></code>: Get Background Image <br/>
+<code><b>LVM_GETBKIMAGEW</b></code>: Get Background Image <br/>
+<code><b>LVM_GETCALLBACKMASK</b></code>: Get Call Back Mask <br/>
+<code><b>LVM_GETCOLUMNA</b></code>: Get Column <br/>
+<code><b>LVM_GETCOLUMNORDERARRAY</b></code>: Get Column Order Array <br/>
+<code><b>LVM_GETCOLUMNW</b></code>: Get Column <br/>
+<code><b>LVM_GETCOLUMNWIDTH</b></code>: Get Column Width <br/>
+<code><b>LVM_GETCOUNTPERPAGE</b></code>: Get Count per Page <br/>
+<code><b>LVM_GETEDITCONTROL</b></code>: Get Edit Control <br/>
+<code><b>LVM_GETEXTENDEDLISTVIEWSTYLE</b></code>: Get Extended List View Style <br/>
+<code><b>LVM_GETGROUPINFO</b></code>: Get Group Information <br/>
+<code><b>LVM_GETGROUPMETRICS</b></code>: Get Group Metrics <br/>
+<code><b>LVM_GETHEADER</b></code>: Get Header <br/>
+<code><b>LVM_GETHOTCURSOR</b></code>: Get Hot Cursor <br/>
+<code><b>LVM_GETHOTITEM</b></code>: Get Hover Time <br/>
+<code><b>LVM_GETHOVERTIME</b></code>: Get Image List <br/>
+<code><b>LVM_GETIMAGELIST</b></code>: Get Image List <br/>
+<code><b>LVM_GETINSERTMARK</b></code>: Get Insert Mark <br/>
+<code><b>LVM_GETINSERTMARKCOLOR</b></code>: Get Insert Mark Color <br/>
+<code><b>LVM_GETINSERTMARKRECT</b></code>: Get Insert Mark Rectangle <br/>
+<code><b>LVM_GETISEARCHSTRINGA</b></code>: Get Incremental Search String <br/>
+<code><b>LVM_GETISEARCHSTRINGW</b></code>: Get Incremental Search String <br/>
+<code><b>LVM_GETITEMA</b></code>: Get Item <br/>
+<code><b>LVM_GETITEMCOUNT</b></code>: Get Item Count <br/>
+<code><b>LVM_GETITEMPOSITION</b></code>: Get Item Position <br/>
+<code><b>LVM_GETITEMRECT</b></code>: Get Item Rectangle <br/>
+<code><b>LVM_GETITEMSPACING</b></code>: Get Item Spacing <br/>
+<code><b>LVM_GETITEMSTATE</b></code>: Get Item State <br/>
+<code><b>LVM_GETITEMTEXTA</b></code>: Get Item Text <br/>
+<code><b>LVM_GETITEMTEXTW</b></code>: Get Item Text <br/>
+<code><b>LVM_GETITEMW</b></code>: Get Item <br/>
+<code><b>LVM_GETNEXTITEM</b></code>: Get Next Item <br/>
+<code><b>LVM_GETNUMBEROFWORKAREAS</b></code>: Get Number of Work Areas <br/>
+<code><b>LVM_GETORIGIN</b></code>: Get Origin <br/>
+<code><b>LVM_GETOUTLINECOLOR</b></code>: Get Outline Color <br/>
+<code><b>LVM_GETSELECTEDCOLUMN</b></code>: Get Selected Column <br/>
+<code><b>LVM_GETSELECTEDCOUNT</b></code>: Get Selected Count <br/>
+<code><b>LVM_GETSELECTIONMARK</b></code>: Get Selection Mark <br/>
+<code><b>LVM_GETSTRINGWIDTHA</b></code>: Get String Width <br/>
+<code><b>LVM_GETSTRINGWIDTHW</b></code>: Get String Width <br/>
+<code><b>LVM_GETSUBITEMRECT</b></code>: Get Sub-Item Rectangle <br/>
+<code><b>LVM_GETTEXTBKCOLOR</b></code>: Get Text Background Color <br/>
+<code><b>LVM_GETTEXTCOLOR</b></code>: Get Text Color <br/>
+<code><b>LVM_GETTILEINFO</b></code>: Get Tile Information <br/>
+<code><b>LVM_GETTILEVIEWINFO</b></code>: Get Tile View Information <br/>
+<code><b>LVM_GETTOOLTIPS</b></code>: Get Tooltips <br/>
+<code><b>LVM_GETTOPINDEX</b></code>: Get Top Index <br/>
+<code><b>LVM_GETUNICODEFORMAT</b></code>: Get Unicode Format <br/>
+<code><b>LVM_GETVIEW</b></code>: Get View <br/>
+<code><b>LVM_GETVIEWRECT</b></code>: Get View Rect <br/>
+<code><b>LVM_GETWORKAREAS</b></code>: Get Work Areas <br/>
+<code><b>LVM_HASGROUP</b></code>: Has Group <br/>
+<code><b>LVM_HITTEST</b></code>: Hit Test <br/>
+<code><b>LVM_INSERTCOLUMNA</b></code>: Insert Column <br/>
+<code><b>LVM_INSERTCOLUMNW</b></code>: Insert Column <br/>
+<code><b>LVM_INSERTGROUP</b></code>: Insert Group <br/>
+<code><b>LVM_INSERTGROUPSORTED</b></code>: Insert Group Sorted <br/>
+<code><b>LVM_INSERTITEMA</b></code>: Insert Item <br/>
+<code><b>LVM_INSERTITEMW</b></code>: Insert Item <br/>
+<code><b>LVM_INSERTMARKHITTEST</b></code>: Insert Mark Hit Test <br/>
+<code><b>LVM_ISGROUPVIEWENABLED</b></code>: Is Group View Enabled <br/>
+<code><b>LVM_ISITEMVISIBLE</b></code>: Is Item Visible <br/>
+<code><b>LVM_MAPIDTOINDEX</b></code>: Map Identity to Index <br/>
+<code><b>LVM_MAPINDEXTOID</b></code>: Map Index to Identity <br/>
+<code><b>LVM_MOVEGROUP</b></code>: Move Group <br/>
+<code><b>LVM_MOVEITEMTOGROUP</b></code>: Move Item to Group <br/>
+<code><b>LVM_REDRAWITEMS</b></code>: Redraw Items <br/>
+<code><b>LVM_REMOVEALLGROUPS</b></code>: Remove all Groups <br/>
+<code><b>LVM_REMOVEGROUP</b></code>: Remove Group <br/>
+<code><b>LVM_SCROLL</b></code>: Scroll <br/>
+<code><b>LVM_SETBKCOLOR</b></code>: Set Background Color <br/>
+<code><b>LVM_SETBKIMAGEA</b></code>: Set Background Image <br/>
+<code><b>LVM_SETCALLBACKMASK</b></code>: Set Callback Mask <br/>
+<code><b>LVM_SETCOLUMNA</b></code>: Set Column <br/>
+<code><b>LVM_SETCOLUMNORDERARRAY</b></code>: Set Column Order Array <br/>
+<code><b>LVM_SETCOLUMNW</b></code>: Set Column <br/>
+<code><b>LVM_SETCOLUMNWIDTH</b></code>: Set Column Width <br/>
+<code><b>LVM_SETEXTENDEDLISTVIEWSTYLE</b></code>: Set Extended List View Style <br/>
+<code><b>LVM_SETGROUPINFO</b></code>: Set Group Information <br/>
+<code><b>LVM_SETGROUPMETRICS</b></code>: Set Group Metrics <br/>
+<code><b>LVM_SETHOTCURSOR</b></code>: Set Hot Cursor <br/>
+<code><b>LVM_SETHOTITEM</b></code>: Set Hot Item <br/>
+<code><b>LVM_SETHOVERTIME</b></code>: Set Hover Time <br/>
+<code><b>LVM_SETICONSPACING</b></code>: Set Icon Spacing <br/>
+<code><b>LVM_SETIMAGELIST</b></code>: Set Image List <br/>
+<code><b>LVM_SETINFOTIP</b></code>: Set Information Tip <br/>
+<code><b>LVM_SETINSERTMARK</b></code>: Set Insert Mark <br/>
+<code><b>LVM_SETINSERTMARKCOLOR</b></code>: Set Insert Mark Color <br/>
+<code><b>LVM_SETITEMA</b></code>: Set Item <br/>
+<code><b>LVM_SETITEMCOUNT</b></code>: Set Item Count <br/>
+<code><b>LVM_SETITEMPOSITION32</b></code>: Set Item Position (32-Bit) <br/>
+<code><b>LVM_SETITEMPOSITION</b></code>: Set Item Position <br/>
+<code><b>LVM_SETITEMSTATE</b></code>: Set Item State <br/>
+<code><b>LVM_SETITEMTEXTA</b></code>: Set Item Text <br/>
+<code><b>LVM_SETITEMTEXTW</b></code>: Set Item Text <br/>
+<code><b>LVM_SETITEMW</b></code>: Set Item <br/>
+<code><b>LVM_SETOUTLINECOLOR</b></code>: Set Outline Color <br/>
+<code><b>LVM_SETSELECTEDCOLUMN</b></code>: Set Selected Column <br/>
+<code><b>LVM_SETSELECTIONMARK</b></code>: Set Selection Mark <br/>
+<code><b>LVM_SETTEXTBKCOLOR</b></code>: Set Text Background Color <br/>
+<code><b>LVM_SETTEXTCOLOR</b></code>: Set Text Color <br/>
+<code><b>LVM_SETTILEINFO</b></code>: Set Tile Information <br/>
+<code><b>LVM_SETTILEVIEWINFO</b></code>: Set Tile View Information <br/>
+<code><b>LVM_SETTILEWIDTH</b></code>: Set Tile Width <br/>
+<code><b>LVM_SETTOOLTIPS</b></code>: Set Tooltips <br/>
+<code><b>LVM_SETUNICODEFORMAT</b></code>: Set Unicode Format <br/>
+<code><b>LVM_SETVIEW</b></code>: Set View <br/>
+<code><b>LVM_SETWORKAREAS</b></code>: Set WorkaAreas <br/>
+<code><b>LVM_SORTGROUPS</b></code>: Sort Groups <br/>
+<code><b>LVM_SORTITEMS</b></code>: Sort Items <br/>
+<code><b>LVM_SUBITEMHITTEST</b></code>: Sub-Item Hit Test <br/>
+<code><b>LVM_UPDATE</b></code>: Update <br/>
 <hr/>
 <h3> <u> Multimedia (MCI) Window </u> </h3>
-<b>MCIWNDM_CAN_CONFIG</b>: Can Configure <br/>
-<b>MCIWNDM_CAN_EJECT</b>: Can Eject <br/>
-<b>MCIWNDM_CAN_PLAY</b>: Can Play <br/>
-<b>MCIWNDM_CAN_RECORD</b>: Can Record <br/>
-<b>MCIWNDM_CAN_SAVE</b>: Can Save <br/>
-<b>MCIWNDM_CAN_WINDOW</b>: Can Window <br/>
-<b>MCIWNDM_GETDEVICEA</b>: Get Device <br/>
-<b>MCIWNDM_GETDEVICEW</b>: Get Device <br/>
-<b>MCIWNDM_GETERRORA</b>: Get Error <br/>
-<b>MCIWNDM_GETERRORW</b>: Get Error <br/>
-<b>MCIWNDM_GETFILENAMEA</b>: Get File Name <br/>
-<b>MCIWNDM_GETFILENAMEW</b>: Get File Name <br/>
-<b>MCIWNDM_GETINACTIVETIMER</b>: Multimedia MCI Window -> Get Inactive Timer <br/>
-<b>MCIWNDM_GETPALETTE</b>: Get Palette <br/>
-<b>MCIWNDM_GETTIMEFORMATA</b>: Get Time Format <br/>
-<b>MCIWNDM_GETZOOM</b>: Get Zoom <br/>
-<b>MCIWNDM_GET_DEST</b>: Get Destination <br/>
-<b>MCIWNDM_GET_SOURCE</b>: Get Source <br/>
-<b>MCIWNDM_NOTIFYERROR</b>: Multimedia MCI Window -> Notify Error <br/>
-<b>MCIWNDM_NOTIFYMEDIA</b>: Notify Media <br/>
-<b>MCIWNDM_NOTIFYMODE</b>: Multimedia MCI Window -> Notify Mode <br/>
-<b>MCIWNDM_PALETTEKICK</b>: Palette Kick <br/>
-<b>MCIWNDM_PLAYTO</b>: Play To <br/>
-<b>MCIWNDM_PUT_DEST</b>: Put Destination <br/>
-<b>MCIWNDM_PUT_SOURCE</b>: Put Source <br/>
-<b>MCIWNDM_REALIZE</b>: Realize <br/>
-<b>MCIWNDM_SETINACTIVETIMER</b>: Set Inactive Timer <br/>
-<b>MCIWNDM_SETPALETTE</b>: Multimedia MCI Window -> Set Palette <br/>
-<b>MCIWNDM_SETTIMEFORMATA</b>: Set Time Format <br/>
-<b>MCIWNDM_SETTIMEFORMATW</b>: Set Time Format <br/>
-<b>MCIWNDM_VALIDATEMEDIA</b>: Validate Media <br/>
+<code><b>MCIWNDM_CAN_CONFIG</b></code>: Can Configure <br/>
+<code><b>MCIWNDM_CAN_EJECT</b></code>: Can Eject <br/>
+<code><b>MCIWNDM_CAN_PLAY</b></code>: Can Play <br/>
+<code><b>MCIWNDM_CAN_RECORD</b></code>: Can Record <br/>
+<code><b>MCIWNDM_CAN_SAVE</b></code>: Can Save <br/>
+<code><b>MCIWNDM_CAN_WINDOW</b></code>: Can Window <br/>
+<code><b>MCIWNDM_GETDEVICEA</b></code>: Get Device <br/>
+<code><b>MCIWNDM_GETDEVICEW</b></code>: Get Device <br/>
+<code><b>MCIWNDM_GETERRORA</b></code>: Get Error <br/>
+<code><b>MCIWNDM_GETERRORW</b></code>: Get Error <br/>
+<code><b>MCIWNDM_GETFILENAMEA</b></code>: Get File Name <br/>
+<code><b>MCIWNDM_GETFILENAMEW</b></code>: Get File Name <br/>
+<code><b>MCIWNDM_GETINACTIVETIMER</b></code>: Multimedia MCI Window -> Get Inactive Timer <br/>
+<code><b>MCIWNDM_GETPALETTE</b></code>: Get Palette <br/>
+<code><b>MCIWNDM_GETTIMEFORMATA</b></code>: Get Time Format <br/>
+<code><b>MCIWNDM_GETZOOM</b></code>: Get Zoom <br/>
+<code><b>MCIWNDM_GET_DEST</b></code>: Get Destination <br/>
+<code><b>MCIWNDM_GET_SOURCE</b></code>: Get Source <br/>
+<code><b>MCIWNDM_NOTIFYERROR</b></code>: Multimedia MCI Window -> Notify Error <br/>
+<code><b>MCIWNDM_NOTIFYMEDIA</b></code>: Notify Media <br/>
+<code><b>MCIWNDM_NOTIFYMODE</b></code>: Multimedia MCI Window -> Notify Mode <br/>
+<code><b>MCIWNDM_PALETTEKICK</b></code>: Palette Kick <br/>
+<code><b>MCIWNDM_PLAYTO</b></code>: Play To <br/>
+<code><b>MCIWNDM_PUT_DEST</b></code>: Put Destination <br/>
+<code><b>MCIWNDM_PUT_SOURCE</b></code>: Put Source <br/>
+<code><b>MCIWNDM_REALIZE</b></code>: Realize <br/>
+<code><b>MCIWNDM_SETINACTIVETIMER</b></code>: Set Inactive Timer <br/>
+<code><b>MCIWNDM_SETPALETTE</b></code>: Multimedia MCI Window -> Set Palette <br/>
+<code><b>MCIWNDM_SETTIMEFORMATA</b></code>: Set Time Format <br/>
+<code><b>MCIWNDM_SETTIMEFORMATW</b></code>: Set Time Format <br/>
+<code><b>MCIWNDM_VALIDATEMEDIA</b></code>: Validate Media <br/>
 <hr/>
 <h3> <u> ... </u> </h3>
-<b>MSG_FTS_JUMP_QWORD</b>: Jump <br/>
-<b>MSG_FTS_JUMP_VA</b>: Jump <br/>
-<b>MSG_FTS_WHERE_IS_IT</b>: Where is It <br/>
-<b>MSG_GET_DEFFONT</b>: Get Default Font <br/>
-<b>MSG_REINDEX_REQUEST</b>: Re-Index Request <br/>
+<code><b>MSG_FTS_JUMP_QWORD</b></code>: Jump <br/>
+<code><b>MSG_FTS_JUMP_VA</b></code>: Jump <br/>
+<code><b>MSG_FTS_WHERE_IS_IT</b></code>: Where is It <br/>
+<code><b>MSG_GET_DEFFONT</b></code>: Get Default Font <br/>
+<code><b>MSG_REINDEX_REQUEST</b></code>: Re-Index Request <br/>
 <hr/>
 <h3> <u> Notify Icon </u> </h3>
-<b>NIN_SELECT</b>: Select <br/>
+<code><b>NIN_SELECT</b></code>: Select <br/>
 <hr/>
 <h3> <u> Object Linking & Embedding Control </u> </h3>
-<b>OCM_CHARTOITEM</b>: Character To Item <br/>
-<b>OCM_COMMAND</b>: Command <br/>
-<b>OCM_COMPAREITEM</b>: Compare Item <br/>
-<b>OCM_CTLCOLOR</b>: Control Color <br/>
-<b>OCM_CTLCOLORBTN</b>: Control Color Button <br/>
-<b>OCM_CTLCOLORDLG</b>: Control Color Dialog <br/>
-<b>OCM_CTLCOLOREDIT</b>: Control Color Edit <br/>
-<b>OCM_CTLCOLORLISTBOX</b>: Control Color List Box <br/>
-<b>OCM_CTLCOLORMSGBOX</b>: Control Color Message Box <br/>
-<b>OCM_CTLCOLORSCROLLBAR</b>: Control Color Scrollbar <br/>
-<b>OCM_CTLCOLORSTATIC</b>: Control Color Static <br/>
-<b>OCM_DELETEITEM</b>: Delete Item <br/>
-<b>OCM_DRAWITEM</b>: Draw Item <br/>
-<b>OCM_HSCROLL</b>: Horizontal Scroll <br/>
-<b>OCM_MEASUREITEM</b>: Measure Item <br/>
-<b>OCM_NOTIFY</b>: Notify <br/>
-<b>OCM_PARENTNOTIFY</b>: Parent Notify <br/>
-<b>OCM_VKEYTOITEM</b>: Virtual Key to Item <br/>
-<b>OCM_VSCROLL</b>: Vertical Scroll <br/>
-<b>OCM__BASE</b>: Base <br/>
+<code><b>OCM_CHARTOITEM</b></code>: Character To Item <br/>
+<code><b>OCM_COMMAND</b></code>: Command <br/>
+<code><b>OCM_COMPAREITEM</b></code>: Compare Item <br/>
+<code><b>OCM_CTLCOLOR</b></code>: Control Color <br/>
+<code><b>OCM_CTLCOLORBTN</b></code>: Control Color Button <br/>
+<code><b>OCM_CTLCOLORDLG</b></code>: Control Color Dialog <br/>
+<code><b>OCM_CTLCOLOREDIT</b></code>: Control Color Edit <br/>
+<code><b>OCM_CTLCOLORLISTBOX</b></code>: Control Color List Box <br/>
+<code><b>OCM_CTLCOLORMSGBOX</b></code>: Control Color Message Box <br/>
+<code><b>OCM_CTLCOLORSCROLLBAR</b></code>: Control Color Scrollbar <br/>
+<code><b>OCM_CTLCOLORSTATIC</b></code>: Control Color Static <br/>
+<code><b>OCM_DELETEITEM</b></code>: Delete Item <br/>
+<code><b>OCM_DRAWITEM</b></code>: Draw Item <br/>
+<code><b>OCM_HSCROLL</b></code>: Horizontal Scroll <br/>
+<code><b>OCM_MEASUREITEM</b></code>: Measure Item <br/>
+<code><b>OCM_NOTIFY</b></code>: Notify <br/>
+<code><b>OCM_PARENTNOTIFY</b></code>: Parent Notify <br/>
+<code><b>OCM_VKEYTOITEM</b></code>: Virtual Key to Item <br/>
+<code><b>OCM_VSCROLL</b></code>: Vertical Scroll <br/>
+<code><b>OCM__BASE</b></code>: Base <br/>
 <hr/>
 <h3> <u> Progress Bar </u> </h3>
-<b>PBM_DELTAPOS</b>: Delta Position <br/>
-<b>PBM_GETPOS</b>: Get Position <br/>
-<b>PBM_GETRANGE</b>: Get Range <br/>
-<b>PBM_SETBARCOLOR</b>: Set Bar Color <br/>
-<b>PBM_SETPOS</b>: Set Position <br/>
-<b>PBM_SETRANGE32</b>: Set Range <br/>
-<b>PBM_SETRANGE</b>: Set Range <br/>
-<b>PBM_SETSTEP</b>: Set Step <br/>
-<b>PBM_STEPIT</b>: Step It <br/>
+<code><b>PBM_DELTAPOS</b></code>: Delta Position <br/>
+<code><b>PBM_GETPOS</b></code>: Get Position <br/>
+<code><b>PBM_GETRANGE</b></code>: Get Range <br/>
+<code><b>PBM_SETBARCOLOR</b></code>: Set Bar Color <br/>
+<code><b>PBM_SETPOS</b></code>: Set Position <br/>
+<code><b>PBM_SETRANGE32</b></code>: Set Range <br/>
+<code><b>PBM_SETRANGE</b></code>: Set Range <br/>
+<code><b>PBM_SETSTEP</b></code>: Set Step <br/>
+<code><b>PBM_STEPIT</b></code>: Step It <br/>
 <hr/>
 <h3> <u> Prop Sheet </u> </h3>
-<b>PSM_ADDPAGE</b>: Add Page <br/>
-<b>PSM_APPLY</b>: Apply <br/>
-<b>PSM_CANCELTOCLOSE</b>: Cancel to Close <br/>
-<b>PSM_CHANGED</b>: Changed <br/>
-<b>PSM_GETCURRENTPAGEHWND</b>: Get Current Page Window Handle <br/>
-<b>PSM_GETRESULT</b>: Get Results <br/>
-<b>PSM_GETTABCONTROL</b>: Get Tab Control <br/>
-<b>PSM_HWNDTOINDEX</b>: Window Handle to Index <br/>
-<b>PSM_IDTOINDEX</b>: Identity to Index <br/>
-<b>PSM_INDEXTOHWND</b>: Index To Window Handle <br/>
-<b>PSM_INDEXTOID</b>: Index to Identity <br/>
-<b>PSM_INDEXTOPAGE</b>: Index To Page <br/>
-<b>PSM_INSERTPAGE</b>: Insert Page <br/>
-<b>PSM_ISDIALOGMESSAGE</b>: Is Dialog Message <br/>
-<b>PSM_PAGETOINDEX</b>: Page to Index <br/>
-<b>PSM_PRESSBUTTON</b>: Press Buttons <br/>
-<b>PSM_QUERYSIBLINGS</b>: Query Siblings <br/>
-<b>PSM_REBOOTSYSTEM</b>: Reboot System <br/>
-<b>PSM_RECALCPAGESIZES</b>: Recalculate Page Sizes <br/>
-<b>PSM_REMOVEPAGE</b>: Remove Page <br/>
-<b>PSM_RESTARTWINDOWS</b>: Restart Windows <br/>
-<b>PSM_SETCURSEL</b>: Set Cursor Selection <br/>
-<b>PSM_SETCURSELID</b>: Set Current Selection Identity <br/>
-<b>PSM_SETFINISHTEXTA</b>: Set Finish Text <br/>
-<b>PSM_SETFINISHTEXTA</b>: Set Finish Text <br/>
-<b>PSM_SETFINISHTEXTW</b>: Set Finish Text <br/>
-<b>PSM_SETHEADERSUBTITLEA</b>: Set Header Subtitle <br/>
-<b>PSM_SETHEADERSUBTITLEW</b>: Set Header Subtitle <br/>
-<b>PSM_SETHEADERTITLEA</b>: Set Header Title <br/>
-<b>PSM_SETHEADERTITLEW</b>: Set Header Title <br/>
-<b>PSM_SETTITLEA</b>: Set Title <br/>
-<b>PSM_SETTITLEW</b>: Set Title <br/>
-<b>PSM_SETWIZBUTTONS</b>: Set Wizard Buttons <br/>
-<b>PSM_UNCHANGED</b>: Unchanged <br/>
+<code><b>PSM_ADDPAGE</b></code>: Add Page <br/>
+<code><b>PSM_APPLY</b></code>: Apply <br/>
+<code><b>PSM_CANCELTOCLOSE</b></code>: Cancel to Close <br/>
+<code><b>PSM_CHANGED</b></code>: Changed <br/>
+<code><b>PSM_GETCURRENTPAGEHWND</b></code>: Get Current Page Window Handle <br/>
+<code><b>PSM_GETRESULT</b></code>: Get Results <br/>
+<code><b>PSM_GETTABCONTROL</b></code>: Get Tab Control <br/>
+<code><b>PSM_HWNDTOINDEX</b></code>: Window Handle to Index <br/>
+<code><b>PSM_IDTOINDEX</b></code>: Identity to Index <br/>
+<code><b>PSM_INDEXTOHWND</b></code>: Index To Window Handle <br/>
+<code><b>PSM_INDEXTOID</b></code>: Index to Identity <br/>
+<code><b>PSM_INDEXTOPAGE</b></code>: Index To Page <br/>
+<code><b>PSM_INSERTPAGE</b></code>: Insert Page <br/>
+<code><b>PSM_ISDIALOGMESSAGE</b></code>: Is Dialog Message <br/>
+<code><b>PSM_PAGETOINDEX</b></code>: Page to Index <br/>
+<code><b>PSM_PRESSBUTTON</b></code>: Press Buttons <br/>
+<code><b>PSM_QUERYSIBLINGS</b></code>: Query Siblings <br/>
+<code><b>PSM_REBOOTSYSTEM</b></code>: Reboot System <br/>
+<code><b>PSM_RECALCPAGESIZES</b></code>: Recalculate Page Sizes <br/>
+<code><b>PSM_REMOVEPAGE</b></code>: Remove Page <br/>
+<code><b>PSM_RESTARTWINDOWS</b></code>: Restart Windows <br/>
+<code><b>PSM_SETCURSEL</b></code>: Set Cursor Selection <br/>
+<code><b>PSM_SETCURSELID</b></code>: Set Current Selection Identity <br/>
+<code><b>PSM_SETFINISHTEXTA</b></code>: Set Finish Text <br/>
+<code><b>PSM_SETFINISHTEXTA</b></code>: Set Finish Text <br/>
+<code><b>PSM_SETFINISHTEXTW</b></code>: Set Finish Text <br/>
+<code><b>PSM_SETHEADERSUBTITLEA</b></code>: Set Header Subtitle <br/>
+<code><b>PSM_SETHEADERSUBTITLEW</b></code>: Set Header Subtitle <br/>
+<code><b>PSM_SETHEADERTITLEA</b></code>: Set Header Title <br/>
+<code><b>PSM_SETHEADERTITLEW</b></code>: Set Header Title <br/>
+<code><b>PSM_SETTITLEA</b></code>: Set Title <br/>
+<code><b>PSM_SETTITLEW</b></code>: Set Title <br/>
+<code><b>PSM_SETWIZBUTTONS</b></code>: Set Wizard Buttons <br/>
+<code><b>PSM_UNCHANGED</b></code>: Unchanged <br/>
 <hr/>
 <h3> <u> Rebar </u> </h3>
-<b>RB_BEGINDRAG</b>: Begin Drag <br/>
-<b>RB_DELETEBAND</b>: Delete Band <br/>
-<b>RB_DRAGMOVE</b>: Drag Move <br/>
-<b>RB_ENDDRAG</b>: End Drag <br/>
-<b>RB_GETBANDBORDERS</b>: Get Band Borders <br/>
-<b>RB_GETBANDCOUNT</b>: Get Band Count <br/>
-<b>RB_GETBANDINFOA</b>: Get Band Information <br/>
-<b>RB_GETBANDINFOW</b>: Get Band Information <br/>
-<b>RB_GETBARHEIGHT</b>: Get Bar Height <br/>
-<b>RB_GETBARINFO</b>: Get Bar Information <br/>
-<b>RB_GETBKCOLOR</b>: Get Background Color <br/>
-<b>RB_GETPALETTE</b>: Get Palette <br/>
-<b>RB_GETRECT</b>: Get Rectangle <br/>
-<b>RB_GETROWCOUNT</b>: Get Row Count <br/>
-<b>RB_GETROWHEIGHT</b>: Get Row Height <br/>
-<b>RB_GETTEXTCOLOR</b>: Get Text Color <br/>
-<b>RB_GETTOOLTIPS</b>: Get Tooltips <br/>
-<b>RB_HITTEST</b>: Hit Test <br/>
-<b>RB_IDTOINDEX</b>: Identity to Index <br/>
-<b>RB_INSERTBANDA</b>: Insert Band <br/>
-<b>RB_INSERTBANDW</b>: Insert Band <br/>
-<b>RB_MAXIMIZEBAND</b>: Maximize Band <br/>
-<b>RB_MINIMIZEBAND</b>: Minimize Band <br/>
-<b>RB_MOVEBAND</b>: Move Band <br/>
-<b>RB_PUSHCHEVRON</b>: Push Chevron <br/>
-<b>RB_SETBANDINFOA</b>: Set Band Information <br/>
-<b>RB_SETBANDINFOW</b>: Set Band Information <br/>
-<b>RB_SETBARINFO</b>: Set Bar Information <br/>
-<b>RB_SETBKCOLOR</b>: Set Background Color <br/>
-<b>RB_SETPALETTE</b>: Set Palette <br/>
-<b>RB_SETPARENT</b>: Set Parent <br/>
-<b>RB_SETTEXTCOLOR</b>: Set Text Color <br/>
-<b>RB_SETTOOLTIPS</b>: Set Tooltips <br/>
-<b>RB_SHOWBAND</b>: Show Band <br/>
-<b>RB_SIZETORECT</b>: Size to Rectangle <br/>
+<code><b>RB_BEGINDRAG</b></code>: Begin Drag <br/>
+<code><b>RB_DELETEBAND</b></code>: Delete Band <br/>
+<code><b>RB_DRAGMOVE</b></code>: Drag Move <br/>
+<code><b>RB_ENDDRAG</b></code>: End Drag <br/>
+<code><b>RB_GETBANDBORDERS</b></code>: Get Band Borders <br/>
+<code><b>RB_GETBANDCOUNT</b></code>: Get Band Count <br/>
+<code><b>RB_GETBANDINFOA</b></code>: Get Band Information <br/>
+<code><b>RB_GETBANDINFOW</b></code>: Get Band Information <br/>
+<code><b>RB_GETBARHEIGHT</b></code>: Get Bar Height <br/>
+<code><b>RB_GETBARINFO</b></code>: Get Bar Information <br/>
+<code><b>RB_GETBKCOLOR</b></code>: Get Background Color <br/>
+<code><b>RB_GETPALETTE</b></code>: Get Palette <br/>
+<code><b>RB_GETRECT</b></code>: Get Rectangle <br/>
+<code><b>RB_GETROWCOUNT</b></code>: Get Row Count <br/>
+<code><b>RB_GETROWHEIGHT</b></code>: Get Row Height <br/>
+<code><b>RB_GETTEXTCOLOR</b></code>: Get Text Color <br/>
+<code><b>RB_GETTOOLTIPS</b></code>: Get Tooltips <br/>
+<code><b>RB_HITTEST</b></code>: Hit Test <br/>
+<code><b>RB_IDTOINDEX</b></code>: Identity to Index <br/>
+<code><b>RB_INSERTBANDA</b></code>: Insert Band <br/>
+<code><b>RB_INSERTBANDW</b></code>: Insert Band <br/>
+<code><b>RB_MAXIMIZEBAND</b></code>: Maximize Band <br/>
+<code><b>RB_MINIMIZEBAND</b></code>: Minimize Band <br/>
+<code><b>RB_MOVEBAND</b></code>: Move Band <br/>
+<code><b>RB_PUSHCHEVRON</b></code>: Push Chevron <br/>
+<code><b>RB_SETBANDINFOA</b></code>: Set Band Information <br/>
+<code><b>RB_SETBANDINFOW</b></code>: Set Band Information <br/>
+<code><b>RB_SETBARINFO</b></code>: Set Bar Information <br/>
+<code><b>RB_SETBKCOLOR</b></code>: Set Background Color <br/>
+<code><b>RB_SETPALETTE</b></code>: Set Palette <br/>
+<code><b>RB_SETPARENT</b></code>: Set Parent <br/>
+<code><b>RB_SETTEXTCOLOR</b></code>: Set Text Color <br/>
+<code><b>RB_SETTOOLTIPS</b></code>: Set Tooltips <br/>
+<code><b>RB_SHOWBAND</b></code>: Show Band <br/>
+<code><b>RB_SIZETORECT</b></code>: Size to Rectangle <br/>
 <hr/>
 <h3> <u> Scrollbar </u> </h3>
-<b>SBM_ENABLE_ARROWS</b>: Enable Arrows <br/>
-<b>SBM_GETPOS</b>: Get Position <br/>
-<b>SBM_GETRANGE</b>: Get Range <br/>
-<b>SBM_GETSCROLLINFO</b>: Get Scroll Information <br/>
-<b>SBM_SETPOS</b>: Set Position <br/>
-<b>SBM_SETRANGE</b>: Set Range <br/>
-<b>SBM_SETRANGEREDRAW</b>: Set Range Redraw <br/>
-<b>SBM_SETSCROLLINFO</b>: Set Scroll Information <br/>
+<code><b>SBM_ENABLE_ARROWS</b></code>: Enable Arrows <br/>
+<code><b>SBM_GETPOS</b></code>: Get Position <br/>
+<code><b>SBM_GETRANGE</b></code>: Get Range <br/>
+<code><b>SBM_GETSCROLLINFO</b></code>: Get Scroll Information <br/>
+<code><b>SBM_SETPOS</b></code>: Set Position <br/>
+<code><b>SBM_SETRANGE</b></code>: Set Range <br/>
+<code><b>SBM_SETRANGEREDRAW</b></code>: Set Range Redraw <br/>
+<code><b>SBM_SETSCROLLINFO</b></code>: Set Scroll Information <br/>
 <hr/>
 <h3> <u> Status Bar </u> </h3>
-<b>SB_GETBORDERS</b>: Get Borders <br/>
-<b>SB_GETPARTS</b>: Get Parts <br/>
-<b>SB_GETRECT</b>: Get Rectangle <br/>
-<b>SB_GETTEXTA</b>: Get Text <br/>
-<b>SB_GETTEXTLENGTHA</b>: Get Text Length <br/>
-<b>SB_GETTEXTLENGTHW</b>: Get Text Length <br/>
-<b>SB_GETTEXTW</b>: Get Text <br/>
-<b>SB_GETTIPTEXTA</b>: Get Tip Text <br/>
-<b>SB_GETTIPTEXTW</b>: Get Tip Text <br/>
-<b>SB_ISSIMPLE</b>: Is Simple <br/>
-<b>SB_SETICON</b>: Set Icon <br/>
-<b>SB_SETMINHEIGHT</b>: Set Minimum Height <br/>
-<b>SB_SETPARTS</b>: Set Parts <br/>
-<b>SB_SETTEXTA</b>: Set Text <br/>
-<b>SB_SETTEXTW</b>: Set Text <br/>
-<b>SB_SETTIPTEXTA</b>: Set Tip Text <br/>
-<b>SB_SETTIPTEXTW</b>: Set Tip Text <br/>
-<b>SB_SIMPLE</b>: Simple <br/>
+<code><b>SB_GETBORDERS</b></code>: Get Borders <br/>
+<code><b>SB_GETPARTS</b></code>: Get Parts <br/>
+<code><b>SB_GETRECT</b></code>: Get Rectangle <br/>
+<code><b>SB_GETTEXTA</b></code>: Get Text <br/>
+<code><b>SB_GETTEXTLENGTHA</b></code>: Get Text Length <br/>
+<code><b>SB_GETTEXTLENGTHW</b></code>: Get Text Length <br/>
+<code><b>SB_GETTEXTW</b></code>: Get Text <br/>
+<code><b>SB_GETTIPTEXTA</b></code>: Get Tip Text <br/>
+<code><b>SB_GETTIPTEXTW</b></code>: Get Tip Text <br/>
+<code><b>SB_ISSIMPLE</b></code>: Is Simple <br/>
+<code><b>SB_SETICON</b></code>: Set Icon <br/>
+<code><b>SB_SETMINHEIGHT</b></code>: Set Minimum Height <br/>
+<code><b>SB_SETPARTS</b></code>: Set Parts <br/>
+<code><b>SB_SETTEXTA</b></code>: Set Text <br/>
+<code><b>SB_SETTEXTW</b></code>: Set Text <br/>
+<code><b>SB_SETTIPTEXTA</b></code>: Set Tip Text <br/>
+<code><b>SB_SETTIPTEXTW</b></code>: Set Tip Text <br/>
+<code><b>SB_SIMPLE</b></code>: Simple <br/>
 <hr/>
 <h3> <u> Storage Management </u> </h3>
-<b>SM_GETCURFOCUSA</b>: Get Current Focus <br/>
-<b>SM_GETCURFOCUSW</b>: Get Current Focus <br/>
-<b>SM_GETOPTIONS</b>: Get Options <br/>
-<b>SM_GETSELCOUNT</b>: Get Selection Count <br/>
-<b>SM_GETSERVERSELA</b>: Get Server Selection <br/>
-<b>SM_GETSERVERSELW</b>: Get Server Selection <br/>
+<code><b>SM_GETCURFOCUSA</b></code>: Get Current Focus <br/>
+<code><b>SM_GETCURFOCUSW</b></code>: Get Current Focus <br/>
+<code><b>SM_GETOPTIONS</b></code>: Get Options <br/>
+<code><b>SM_GETSELCOUNT</b></code>: Get Selection Count <br/>
+<code><b>SM_GETSERVERSELA</b></code>: Get Server Selection <br/>
+<code><b>SM_GETSERVERSELW</b></code>: Get Server Selection <br/>
 <hr/>
 <h3> <u> Telephony API </u> </h3>
-<b>TAPI_REPLY</b>: Reply <br/>
+<code><b>TAPI_REPLY</b></code>: Reply <br/>
 <hr/>
 <h3> <u> Trackbar </u> </h3>
-<b>TBM_CLEARSEL</b>: Clear Selection <br/>
-<b>TBM_CLEARTICS</b>: Clear Ticks <br/>
-<b>TBM_GETBUDDY</b>: Get Buddy <br/>
-<b>TBM_GETCHANNELRECT</b>: Get Channel Rectangle <br/>
-<b>TBM_GETLINESIZE</b>: Get Line Size <br/>
-<b>TBM_GETNUMTICS</b>: Get Number (of) Ticks <br/>
-<b>TBM_GETPAGESIZE</b>: Get Page Size <br/>
-<b>TBM_GETPOS</b>: Get Position <br/>
-<b>TBM_GETPTICS</b>: Get Position (of) Ticks <br/>
-<b>TBM_GETRANGEMAX</b>: Get Range Maximum <br/>
-<b>TBM_GETRANGEMIN</b>: Get Range <br/>
-<b>TBM_GETSELEND</b>: Get Selection End <br/>
-<b>TBM_GETSELSTART</b>: Get Selection Start <br/>
-<b>TBM_GETTHUMBLENGTH</b>: Get Thumb Length <br/>
-<b>TBM_GETTHUMBRECT</b>: Get Thumb Rect <br/>
-<b>TBM_GETTIC</b>: Get Tick <br/>
-<b>TBM_GETTICPOS</b>: Get Tick (Mark) Position <br/>
-<b>TBM_GETTOOLTIPS</b>: Get Tooltips <br/>
-<b>TBM_SETBUDDY</b>: Set Buddy (Window) <br/>
-<b>TBM_SETLINESIZE</b>: Set Line Size <br/>
-<b>TBM_SETPAGESIZE</b>: Set Page Size <br/>
-<b>TBM_SETPOS</b>: Set Position <br/>
-<b>TBM_SETRANGE</b>: Set Range <br/>
-<b>TBM_SETRANGEMAX</b>: Set Range Maximum <br/>
-<b>TBM_SETRANGEMIN</b>: Set Range Minimum <br/>
-<b>TBM_SETSEL</b>: Set Selection <br/>
-<b>TBM_SETSELEND</b>: Set Selection End <br/>
-<b>TBM_SETSELSTART</b>: Set Selection Start <br/>
-<b>TBM_SETTHUMBLENGTH</b>: Set Thumb Length <br/>
-<b>TBM_SETTIC</b>: Set Tick <br/>
-<b>TBM_SETTICFREQ</b>: Set Tick Frequency <br/>
-<b>TBM_SETTIPSIDE</b>: Set Tip Side <br/>
-<b>TBM_SETTOOLTIPS</b>: Set Tooltips <br/>
+<code><b>TBM_CLEARSEL</b></code>: Clear Selection <br/>
+<code><b>TBM_CLEARTICS</b></code>: Clear Ticks <br/>
+<code><b>TBM_GETBUDDY</b></code>: Get Buddy <br/>
+<code><b>TBM_GETCHANNELRECT</b></code>: Get Channel Rectangle <br/>
+<code><b>TBM_GETLINESIZE</b></code>: Get Line Size <br/>
+<code><b>TBM_GETNUMTICS</b></code>: Get Number (of) Ticks <br/>
+<code><b>TBM_GETPAGESIZE</b></code>: Get Page Size <br/>
+<code><b>TBM_GETPOS</b></code>: Get Position <br/>
+<code><b>TBM_GETPTICS</b></code>: Get Position (of) Ticks <br/>
+<code><b>TBM_GETRANGEMAX</b></code>: Get Range Maximum <br/>
+<code><b>TBM_GETRANGEMIN</b></code>: Get Range <br/>
+<code><b>TBM_GETSELEND</b></code>: Get Selection End <br/>
+<code><b>TBM_GETSELSTART</b></code>: Get Selection Start <br/>
+<code><b>TBM_GETTHUMBLENGTH</b></code>: Get Thumb Length <br/>
+<code><b>TBM_GETTHUMBRECT</b></code>: Get Thumb Rect <br/>
+<code><b>TBM_GETTIC</b></code>: Get Tick <br/>
+<code><b>TBM_GETTICPOS</b></code>: Get Tick (Mark) Position <br/>
+<code><b>TBM_GETTOOLTIPS</b></code>: Get Tooltips <br/>
+<code><b>TBM_SETBUDDY</b></code>: Set Buddy (Window) <br/>
+<code><b>TBM_SETLINESIZE</b></code>: Set Line Size <br/>
+<code><b>TBM_SETPAGESIZE</b></code>: Set Page Size <br/>
+<code><b>TBM_SETPOS</b></code>: Set Position <br/>
+<code><b>TBM_SETRANGE</b></code>: Set Range <br/>
+<code><b>TBM_SETRANGEMAX</b></code>: Set Range Maximum <br/>
+<code><b>TBM_SETRANGEMIN</b></code>: Set Range Minimum <br/>
+<code><b>TBM_SETSEL</b></code>: Set Selection <br/>
+<code><b>TBM_SETSELEND</b></code>: Set Selection End <br/>
+<code><b>TBM_SETSELSTART</b></code>: Set Selection Start <br/>
+<code><b>TBM_SETTHUMBLENGTH</b></code>: Set Thumb Length <br/>
+<code><b>TBM_SETTIC</b></code>: Set Tick <br/>
+<code><b>TBM_SETTICFREQ</b></code>: Set Tick Frequency <br/>
+<code><b>TBM_SETTIPSIDE</b></code>: Set Tip Side <br/>
+<code><b>TBM_SETTOOLTIPS</b></code>: Set Tooltips <br/>
 <hr/>
 <h3> <u> Toolbar </u> </h3>
-<b>TB_ADDBITMAP</b>: Add Bitmap <br/>
-<b>TB_ADDBUTTONSA</b>: Add Buttons <br/>
-<b>TB_ADDBUTTONSW</b>: Add Buttons <br/>
-<b>TB_ADDSTRINGA</b>: Add String <br/>
-<b>TB_ADDSTRINGW</b>: Add String <br/>
-<b>TB_AUTOSIZE</b>: Auto Size <br/>
-<b>TB_BUTTONCOUNT</b>: Button Count <br/>
-<b>TB_BUTTONSTRUCTSIZE</b>: Button Structure Size <br/>
-<b>TB_CHANGEBITMAP</b>: Change Bitmap <br/>
-<b>TB_CHECKBUTTON</b>: Check Button <br/>
-<b>TB_COMMANDTOINDEX</b>: Command To Index <br/>
-<b>TB_CUSTOMIZE</b>: Customize <br/>
-<b>TB_DELETEBUTTON</b>: Delete Button <br/>
-<b>TB_ENABLEBUTTON</b>: Enable Button <br/>
-<b>TB_GETANCHORHIGHLIGHT</b>: Get Anchor Highlight <br/>
-<b>TB_GETBITMAP</b>: Get Bitmap <br/>
-<b>TB_GETBITMAPFLAGS</b>: Get Bitmap Flags <br/>
-<b>TB_GETBUTTON</b>: Get Button <br/>
-<b>TB_GETBUTTONINFOA</b>: Get Button Information <br/>
-<b>TB_GETBUTTONINFOW</b>: Get Button Information <br/>
-<b>TB_GETBUTTONSIZE</b>: Get Button Size <br/>
-<b>TB_GETBUTTONTEXTA</b>: Get Button Text <br/>
-<b>TB_GETBUTTONTEXTW</b>: Get Button Text <br/>
-<b>TB_GETDISABLEDIMAGELIST</b>: Get Disabled Image List <br/>
-<b>TB_GETEXTENDEDSTYLE</b>: Get Extended Style <br/>
-<b>TB_GETHOTIMAGELIST</b>: Get Hot Image List <br/>
-<b>TB_GETHOTITEM</b>: Get Hot Item <br/>
-<b>TB_GETIMAGELIST</b>: Get Image List <br/>
-<b>TB_GETINSERTMARK</b>: Get Insert Mark <br/>
-<b>TB_GETINSERTMARKCOLOR</b>: Get Insert Mark Color <br/>
-<b>TB_GETITEMRECT</b>: Get Item Rectangle <br/>
-<b>TB_GETMAXSIZE</b>: Get Maximum Size <br/>
-<b>TB_GETOBJECT</b>: Get Object <br/>
-<b>TB_GETPADDING</b>: Get Padding <br/>
-<b>TB_GETRECT</b>: Get Rectangle <br/>
-<b>TB_GETROWS</b>: Get Rows <br/>
-<b>TB_GETSTATE</b>: Get State <br/>
-<b>TB_GETSTRINGA</b>: Get String <br/>
-<b>TB_GETSTRINGW</b>: Get String <br/>
-<b>TB_GETSTYLE</b>: Get Style <br/>
-<b>TB_GETTEXTROWS</b>: Get Text Rows <br/>
-<b>TB_GETTOOLTIPS</b>: Get Tooltips <br/>
-<b>TB_HIDEBUTTON</b>: Hide Button <br/>
-<b>TB_HITTEST</b>: Hit Test <br/>
-<b>TB_INDETERMINATE</b>: Indeterminate <br/>
-<b>TB_INSERTBUTTONA</b>: Insert Button <br/>
-<b>TB_INSERTBUTTONW</b>: Insert Button <br/>
-<b>TB_INSERTMARKHITTEST</b>: Insert Mark Hit Test <br/>
-<b>TB_ISBUTTONCHECKED</b>: Is Button Checked <br/>
-<b>TB_ISBUTTONENABLED</b>: Is Button Enabled <br/>
-<b>TB_ISBUTTONHIDDEN</b>: Is Button Hidden <br/>
-<b>TB_ISBUTTONHIGHLIGHTED</b>: Is Button Highlighted <br/>
-<b>TB_ISBUTTONINDETERMINATE</b>: Is Button Indeterminate <br/>
-<b>TB_ISBUTTONPRESSED</b>: Is Button Pressed <br/>
-<b>TB_LOADIMAGES</b>: Load Images <br/>
-<b>TB_MAPACCELERATORA</b>: Map Accelerator <br/>
-<b>TB_MAPACCELERATORW</b>: Map Acceleration <br/>
-<b>TB_MARKBUTTON</b>: Mark Button <br/>
-<b>TB_MOVEBUTTON</b>: Move Button <br/>
-<b>TB_PRESSBUTTON</b>: Press Button <br/>
-<b>TB_REPLACEBITMAP</b>: Replace Bitmap <br/>
-<b>TB_SAVERESTOREA</b>: Save Restore <br/>
-<b>TB_SAVERESTOREW</b>: Save Restore <br/>
-<b>TB_SETANCHORHIGHLIGHT</b>: Set Anchor Highlight <br/>
-<b>TB_SETBITMAPSIZE</b>: Set Bitmap Size <br/>
-<b>TB_SETBUTTONINFOA</b>: Set Button Information <br/>
-<b>TB_SETBUTTONINFOW</b>: Set Button Information <br/>
-<b>TB_SETBUTTONSIZE</b>: Set Button Size <br/>
-<b>TB_SETBUTTONWIDTH</b>: Set Button Width <br/>
-<b>TB_SETCMDID</b>: Set Command Identifier <br/>
-<b>TB_SETDISABLEDIMAGELIST</b>: Set Disabled Image List <br/>
-<b>TB_SETDRAWTEXTFLAGS</b>: Set Draw Text Flags <br/>
-<b>TB_SETEXTENDEDSTYLE</b>: Set Extended Style <br/>
-<b>TB_SETHOTIMAGELIST</b>: Set Hot Image List <br/>
-<b>TB_SETHOTITEM</b>: Set Hot Item <br/>
-<b>TB_SETIMAGELIST</b>: Set Image List <br/>
-<b>TB_SETINDENT</b>: Set Indentation <br/>
-<b>TB_SETINSERTMARK</b>: Set Insert Mark <br/>
-<b>TB_SETINSERTMARKCOLOR</b>: Set Insert Mark Color <br/>
-<b>TB_SETMAXTEXTROWS</b>: Set Maximum Text Rows <br/>
-<b>TB_SETPADDING</b>: Set Padding <br/>
-<b>TB_SETPARENT</b>: Set Parent <br/>
-<b>TB_SETROWS</b>: Set Rows <br/>
-<b>TB_SETSTATE</b>: Set State <br/>
-<b>TB_SETSTYLE</b>: Set Style <br/>
-<b>TB_SETTOOLTIPS</b>: Set Tooltips <br/>
+<code><b>TB_ADDBITMAP</b></code>: Add Bitmap <br/>
+<code><b>TB_ADDBUTTONSA</b></code>: Add Buttons <br/>
+<code><b>TB_ADDBUTTONSW</b></code>: Add Buttons <br/>
+<code><b>TB_ADDSTRINGA</b></code>: Add String <br/>
+<code><b>TB_ADDSTRINGW</b></code>: Add String <br/>
+<code><b>TB_AUTOSIZE</b></code>: Auto Size <br/>
+<code><b>TB_BUTTONCOUNT</b></code>: Button Count <br/>
+<code><b>TB_BUTTONSTRUCTSIZE</b></code>: Button Structure Size <br/>
+<code><b>TB_CHANGEBITMAP</b></code>: Change Bitmap <br/>
+<code><b>TB_CHECKBUTTON</b></code>: Check Button <br/>
+<code><b>TB_COMMANDTOINDEX</b></code>: Command To Index <br/>
+<code><b>TB_CUSTOMIZE</b></code>: Customize <br/>
+<code><b>TB_DELETEBUTTON</b></code>: Delete Button <br/>
+<code><b>TB_ENABLEBUTTON</b></code>: Enable Button <br/>
+<code><b>TB_GETANCHORHIGHLIGHT</b></code>: Get Anchor Highlight <br/>
+<code><b>TB_GETBITMAP</b></code>: Get Bitmap <br/>
+<code><b>TB_GETBITMAPFLAGS</b></code>: Get Bitmap Flags <br/>
+<code><b>TB_GETBUTTON</b></code>: Get Button <br/>
+<code><b>TB_GETBUTTONINFOA</b></code>: Get Button Information <br/>
+<code><b>TB_GETBUTTONINFOW</b></code>: Get Button Information <br/>
+<code><b>TB_GETBUTTONSIZE</b></code>: Get Button Size <br/>
+<code><b>TB_GETBUTTONTEXTA</b></code>: Get Button Text <br/>
+<code><b>TB_GETBUTTONTEXTW</b></code>: Get Button Text <br/>
+<code><b>TB_GETDISABLEDIMAGELIST</b></code>: Get Disabled Image List <br/>
+<code><b>TB_GETEXTENDEDSTYLE</b></code>: Get Extended Style <br/>
+<code><b>TB_GETHOTIMAGELIST</b></code>: Get Hot Image List <br/>
+<code><b>TB_GETHOTITEM</b></code>: Get Hot Item <br/>
+<code><b>TB_GETIMAGELIST</b></code>: Get Image List <br/>
+<code><b>TB_GETINSERTMARK</b></code>: Get Insert Mark <br/>
+<code><b>TB_GETINSERTMARKCOLOR</b></code>: Get Insert Mark Color <br/>
+<code><b>TB_GETITEMRECT</b></code>: Get Item Rectangle <br/>
+<code><b>TB_GETMAXSIZE</b></code>: Get Maximum Size <br/>
+<code><b>TB_GETOBJECT</b></code>: Get Object <br/>
+<code><b>TB_GETPADDING</b></code>: Get Padding <br/>
+<code><b>TB_GETRECT</b></code>: Get Rectangle <br/>
+<code><b>TB_GETROWS</b></code>: Get Rows <br/>
+<code><b>TB_GETSTATE</b></code>: Get State <br/>
+<code><b>TB_GETSTRINGA</b></code>: Get String <br/>
+<code><b>TB_GETSTRINGW</b></code>: Get String <br/>
+<code><b>TB_GETSTYLE</b></code>: Get Style <br/>
+<code><b>TB_GETTEXTROWS</b></code>: Get Text Rows <br/>
+<code><b>TB_GETTOOLTIPS</b></code>: Get Tooltips <br/>
+<code><b>TB_HIDEBUTTON</b></code>: Hide Button <br/>
+<code><b>TB_HITTEST</b></code>: Hit Test <br/>
+<code><b>TB_INDETERMINATE</b></code>: Indeterminate <br/>
+<code><b>TB_INSERTBUTTONA</b></code>: Insert Button <br/>
+<code><b>TB_INSERTBUTTONW</b></code>: Insert Button <br/>
+<code><b>TB_INSERTMARKHITTEST</b></code>: Insert Mark Hit Test <br/>
+<code><b>TB_ISBUTTONCHECKED</b></code>: Is Button Checked <br/>
+<code><b>TB_ISBUTTONENABLED</b></code>: Is Button Enabled <br/>
+<code><b>TB_ISBUTTONHIDDEN</b></code>: Is Button Hidden <br/>
+<code><b>TB_ISBUTTONHIGHLIGHTED</b></code>: Is Button Highlighted <br/>
+<code><b>TB_ISBUTTONINDETERMINATE</b></code>: Is Button Indeterminate <br/>
+<code><b>TB_ISBUTTONPRESSED</b></code>: Is Button Pressed <br/>
+<code><b>TB_LOADIMAGES</b></code>: Load Images <br/>
+<code><b>TB_MAPACCELERATORA</b></code>: Map Accelerator <br/>
+<code><b>TB_MAPACCELERATORW</b></code>: Map Acceleration <br/>
+<code><b>TB_MARKBUTTON</b></code>: Mark Button <br/>
+<code><b>TB_MOVEBUTTON</b></code>: Move Button <br/>
+<code><b>TB_PRESSBUTTON</b></code>: Press Button <br/>
+<code><b>TB_REPLACEBITMAP</b></code>: Replace Bitmap <br/>
+<code><b>TB_SAVERESTOREA</b></code>: Save Restore <br/>
+<code><b>TB_SAVERESTOREW</b></code>: Save Restore <br/>
+<code><b>TB_SETANCHORHIGHLIGHT</b></code>: Set Anchor Highlight <br/>
+<code><b>TB_SETBITMAPSIZE</b></code>: Set Bitmap Size <br/>
+<code><b>TB_SETBUTTONINFOA</b></code>: Set Button Information <br/>
+<code><b>TB_SETBUTTONINFOW</b></code>: Set Button Information <br/>
+<code><b>TB_SETBUTTONSIZE</b></code>: Set Button Size <br/>
+<code><b>TB_SETBUTTONWIDTH</b></code>: Set Button Width <br/>
+<code><b>TB_SETCMDID</b></code>: Set Command Identifier <br/>
+<code><b>TB_SETDISABLEDIMAGELIST</b></code>: Set Disabled Image List <br/>
+<code><b>TB_SETDRAWTEXTFLAGS</b></code>: Set Draw Text Flags <br/>
+<code><b>TB_SETEXTENDEDSTYLE</b></code>: Set Extended Style <br/>
+<code><b>TB_SETHOTIMAGELIST</b></code>: Set Hot Image List <br/>
+<code><b>TB_SETHOTITEM</b></code>: Set Hot Item <br/>
+<code><b>TB_SETIMAGELIST</b></code>: Set Image List <br/>
+<code><b>TB_SETINDENT</b></code>: Set Indentation <br/>
+<code><b>TB_SETINSERTMARK</b></code>: Set Insert Mark <br/>
+<code><b>TB_SETINSERTMARKCOLOR</b></code>: Set Insert Mark Color <br/>
+<code><b>TB_SETMAXTEXTROWS</b></code>: Set Maximum Text Rows <br/>
+<code><b>TB_SETPADDING</b></code>: Set Padding <br/>
+<code><b>TB_SETPARENT</b></code>: Set Parent <br/>
+<code><b>TB_SETROWS</b></code>: Set Rows <br/>
+<code><b>TB_SETSTATE</b></code>: Set State <br/>
+<code><b>TB_SETSTYLE</b></code>: Set Style <br/>
+<code><b>TB_SETTOOLTIPS</b></code>: Set Tooltips <br/>
 <hr/>
 <h3> <u> Tooltip </u> </h3>
-<b>TTM_ACTIVATE</b>: Activate <br/>
-<b>TTM_ADDTOOLA</b>: Add Tool <br/>
-<b>TTM_ADJUSTRECT</b>: Adjust Rectangle <br/>
-<b>TTM_DELTOOLA</b>: Delete Tool <br/>
-<b>TTM_DELTOOLW</b>: Delete Tool <br/>
-<b>TTM_ENUMTOOLSA</b>: Enumerate Tools <br/>
-<b>TTM_ENUMTOOLSW</b>: Enumerate Tools <br/>
-<b>TTM_GETBUBBLESIZE</b>: Get Bubble Size <br/>
-<b>TTM_GETCURRENTTOOLA</b>: Get Current Tool <br/>
-<b>TTM_GETCURRENTTOOLW</b>: Get Current Tool <br/>
-<b>TTM_GETDELAYTIME</b>: Get Delay Time <br/>
-<b>TTM_GETMARGIN</b>: Get Margin <br/>
-<b>TTM_GETMAXTIPWIDTH</b>: Get Maximum Tip Width <br/>
-<b>TTM_GETTEXTA</b>: Get Text <br/>
-<b>TTM_GETTEXTW</b>: Get Text <br/>
-<b>TTM_GETTIPBKCOLOR</b>: Get Tip Background Color <br/>
-<b>TTM_GETTIPTEXTCOLOR</b>: Get Tip Text Color <br/>
-<b>TTM_GETTOOLCOUNT</b>: Get Tool Count <br/>
-<b>TTM_GETTOOLINFOA</b>: Get Tool Information <br/>
-<b>TTM_GETTOOLINFOW</b>: Get Tool Information <br/>
-<b>TTM_HITTESTA</b>: Hit Test <br/>
-<b>TTM_HITTESTW</b>: Hit Test <br/>
-<b>TTM_NEWTOOLRECTA</b>: Tooltips -> New Tool <br/>
-<b>TTM_NEWTOOLRECTW</b>: New Tool Rectangle <br/>
-<b>TTM_POP</b>: Pop <br/>
-<b>TTM_RELAYEVENT</b>: Tooltips -> Relay Event <br/>
-<b>TTM_SETDELAYTIME</b>: Set Delay Time <br/>
-<b>TTM_SETMARGIN</b>: Set Margin <br/>
-<b>TTM_SETMAXTIPWIDTH</b>: Set Maximum Tip Width <br/>
-<b>TTM_SETTIPBKCOLOR</b>: Set Tip Background Color <br/>
-<b>TTM_SETTIPTEXTCOLOR</b>: Set Tip Text Color <br/>
-<b>TTM_SETTITLEA</b>: Set Title <br/>
-<b>TTM_SETTITLEW</b>: Set Title <br/>
-<b>TTM_SETTOOLINFOA</b>: Set Tool Information <br/>
-<b>TTM_SETTOOLINFOW</b>: Set Tool Information <br/>
-<b>TTM_TRACKACTIVATE</b>: Track Activate <br/>
-<b>TTM_TRACKPOSITION</b>: Track Position <br/>
-<b>TTM_UPDATE</b>: Update <br/>
-<b>TTM_UPDATETIPTEXTA</b>: Update Tip Text <br/>
-<b>TTM_UPDATETIPTEXTW</b>: Update Tip Text <br/>
-<b>TTM_WINDOWFROMPOINT</b>: Window From Point <br/>
+<code><b>TTM_ACTIVATE</b></code>: Activate <br/>
+<code><b>TTM_ADDTOOLA</b></code>: Add Tool <br/>
+<code><b>TTM_ADJUSTRECT</b></code>: Adjust Rectangle <br/>
+<code><b>TTM_DELTOOLA</b></code>: Delete Tool <br/>
+<code><b>TTM_DELTOOLW</b></code>: Delete Tool <br/>
+<code><b>TTM_ENUMTOOLSA</b></code>: Enumerate Tools <br/>
+<code><b>TTM_ENUMTOOLSW</b></code>: Enumerate Tools <br/>
+<code><b>TTM_GETBUBBLESIZE</b></code>: Get Bubble Size <br/>
+<code><b>TTM_GETCURRENTTOOLA</b></code>: Get Current Tool <br/>
+<code><b>TTM_GETCURRENTTOOLW</b></code>: Get Current Tool <br/>
+<code><b>TTM_GETDELAYTIME</b></code>: Get Delay Time <br/>
+<code><b>TTM_GETMARGIN</b></code>: Get Margin <br/>
+<code><b>TTM_GETMAXTIPWIDTH</b></code>: Get Maximum Tip Width <br/>
+<code><b>TTM_GETTEXTA</b></code>: Get Text <br/>
+<code><b>TTM_GETTEXTW</b></code>: Get Text <br/>
+<code><b>TTM_GETTIPBKCOLOR</b></code>: Get Tip Background Color <br/>
+<code><b>TTM_GETTIPTEXTCOLOR</b></code>: Get Tip Text Color <br/>
+<code><b>TTM_GETTOOLCOUNT</b></code>: Get Tool Count <br/>
+<code><b>TTM_GETTOOLINFOA</b></code>: Get Tool Information <br/>
+<code><b>TTM_GETTOOLINFOW</b></code>: Get Tool Information <br/>
+<code><b>TTM_HITTESTA</b></code>: Hit Test <br/>
+<code><b>TTM_HITTESTW</b></code>: Hit Test <br/>
+<code><b>TTM_NEWTOOLRECTA</b></code>: Tooltips -> New Tool <br/>
+<code><b>TTM_NEWTOOLRECTW</b></code>: New Tool Rectangle <br/>
+<code><b>TTM_POP</b></code>: Pop <br/>
+<code><b>TTM_RELAYEVENT</b></code>: Tooltips -> Relay Event <br/>
+<code><b>TTM_SETDELAYTIME</b></code>: Set Delay Time <br/>
+<code><b>TTM_SETMARGIN</b></code>: Set Margin <br/>
+<code><b>TTM_SETMAXTIPWIDTH</b></code>: Set Maximum Tip Width <br/>
+<code><b>TTM_SETTIPBKCOLOR</b></code>: Set Tip Background Color <br/>
+<code><b>TTM_SETTIPTEXTCOLOR</b></code>: Set Tip Text Color <br/>
+<code><b>TTM_SETTITLEA</b></code>: Set Title <br/>
+<code><b>TTM_SETTITLEW</b></code>: Set Title <br/>
+<code><b>TTM_SETTOOLINFOA</b></code>: Set Tool Information <br/>
+<code><b>TTM_SETTOOLINFOW</b></code>: Set Tool Information <br/>
+<code><b>TTM_TRACKACTIVATE</b></code>: Track Activate <br/>
+<code><b>TTM_TRACKPOSITION</b></code>: Track Position <br/>
+<code><b>TTM_UPDATE</b></code>: Update <br/>
+<code><b>TTM_UPDATETIPTEXTA</b></code>: Update Tip Text <br/>
+<code><b>TTM_UPDATETIPTEXTW</b></code>: Update Tip Text <br/>
+<code><b>TTM_WINDOWFROMPOINT</b></code>: Window From Point <br/>
 <hr/>
 <h3> <u> Up-Down Control </u> </h3>
-<b>UDM_GETACCEL</b>: Get Acceleration <br/>
-<b>UDM_GETBASE</b>: Get Base <br/>
-<b>UDM_GETBUDDY</b>: Get Buddy <br/>
-<b>UDM_GETPOS32</b>: Get Position <br/>
-<b>UDM_GETPOS</b>: Get Position <br/>
-<b>UDM_GETRANGE32</b>: Get Range <br/>
-<b>UDM_GETRANGE</b>: Get Range <br/>
-<b>UDM_SETACCEL</b>: Set Acceleration <br/>
-<b>UDM_SETBASE</b>: Set Base <br/>
-<b>UDM_SETBUDDY</b>: Set Buddy <br/>
-<b>UDM_SETPOS32</b>: Set Position <br/>
-<b>UDM_SETPOS</b>: Set Position <br/>
-<b>UDM_SETRANGE32</b>: Set Range <br/>
-<b>UDM_SETRANGE</b>: Set Range <br/>
+<code><b>UDM_GETACCEL</b></code>: Get Acceleration <br/>
+<code><b>UDM_GETBASE</b></code>: Get Base <br/>
+<code><b>UDM_GETBUDDY</b></code>: Get Buddy <br/>
+<code><b>UDM_GETPOS32</b></code>: Get Position <br/>
+<code><b>UDM_GETPOS</b></code>: Get Position <br/>
+<code><b>UDM_GETRANGE32</b></code>: Get Range <br/>
+<code><b>UDM_GETRANGE</b></code>: Get Range <br/>
+<code><b>UDM_SETACCEL</b></code>: Set Acceleration <br/>
+<code><b>UDM_SETBASE</b></code>: Set Base <br/>
+<code><b>UDM_SETBUDDY</b></code>: Set Buddy <br/>
+<code><b>UDM_SETPOS32</b></code>: Set Position <br/>
+<code><b>UDM_SETPOS</b></code>: Set Position <br/>
+<code><b>UDM_SETRANGE32</b></code>: Set Range <br/>
+<code><b>UDM_SETRANGE</b></code>: Set Range <br/>
 <hr/>
 <h3> <u> User Manager </u> </h3>
-<b>UM_GETCURFOCUSA</b>: Get Current Focus <br/>
-<b>UM_GETCURFOCUSW</b>: Get Current Focus <br/>
-<b>UM_GETGROUPSELA</b>: Get Group Selection <br/>
-<b>UM_GETGROUPSELW</b>: Get Group Selection <br/>
-<b>UM_GETOPTIONS2</b>: Get Options (Structure) <br/>
-<b>UM_GETOPTIONS</b>: Get Options <br/>
-<b>UM_GETSELCOUNT</b>: Get Selection Count <br/>
-<b>UM_GETUSERSELA</b>: Get User Selection <br/>
-<b>UM_GETUSERSELW</b>: Get User Selection <br/>
+<code><b>UM_GETCURFOCUSA</b></code>: Get Current Focus <br/>
+<code><b>UM_GETCURFOCUSW</b></code>: Get Current Focus <br/>
+<code><b>UM_GETGROUPSELA</b></code>: Get Group Selection <br/>
+<code><b>UM_GETGROUPSELW</b></code>: Get Group Selection <br/>
+<code><b>UM_GETOPTIONS2</b></code>: Get Options (Structure) <br/>
+<code><b>UM_GETOPTIONS</b></code>: Get Options <br/>
+<code><b>UM_GETSELCOUNT</b></code>: Get Selection Count <br/>
+<code><b>UM_GETUSERSELA</b></code>: Get User Selection <br/>
+<code><b>UM_GETUSERSELW</b></code>: Get User Selection <br/>
 <hr/>
 <h3> <u> Wizard </u> </h3>
-<b>WIZ_NEXT</b>: Next <br/>
-<b>WIZ_PREV</b>: Previous <br/>
-<b>WIZ_QUERYNUMPAGES</b>: Query Number of Pages <br/>
+<code><b>WIZ_NEXT</b></code>: Next <br/>
+<code><b>WIZ_PREV</b></code>: Previous <br/>
+<code><b>WIZ_QUERYNUMPAGES</b></code>: Query Number of Pages <br/>
 <hr/>
 <h3> <u> Windows Live Sync </u> </h3>
-<b>WLX_WM_SAS</b>: Statistical Analysis Suite Message <br/>
+<code><b>WLX_WM_SAS</b></code>: Statistical Analysis Suite Message <br/>
 <hr/>
 <h3> <u> Windows </u> </h3>
-<b>WM_ACTIVATE</b>: Activate <br/>
-<b>WM_ACTIVATEAPP</b>: Activate Application <br/>
-<b>WM_AFXFIRST</b>: Application Framework Extensions FIRST[] <br/>
-<b>WM_AFXLAST</b>: Application Framework Extensions [LAST] <br/>
-<b>WM_APP</b>: Application <br/>
-<b>WM_APPCOMMAND</b>: Application Command <br/>
-<b>WM_ASKCBFORMATNAME</b>: Ask Clipboard Format Name <br/>
-<b>WM_CANCELJOURNAL</b>: Cancel Journal <br/>
-<b>WM_CANCELMODE</b>: Cancel Mode <br/>
-<b>WM_CAPTURECHANGED</b>: Windows Capture -> Changed <br/>
-<b>WM_CAP_DRIVER_GET_NAMEW</b>: Windows Capture -> Driver Get Name <br/>
-<b>WM_CAP_DRIVER_GET_VERSIONW</b>: Windows Capture -> Driver Get Version <br/>
-<b>WM_CAP_FILE_GET_CAPTURE_FILEW</b>: Windows Capture -> File Get Capture <br/>
-<b>WM_CAP_FILE_SAVEASW</b>: Windows Capture -> File Save As <br/>
-<b>WM_CAP_FILE_SAVEDIBW</b>: Windows Capture -> File Save ... <br/>
-<b>WM_CAP_FILE_SET_CAPTURE_FILEW</b>: Windows Capture -> File Set Capture File <br/>
-<b>WM_CAP_GET_MCI_DEVICEW</b>: Windows Capture -> Get Media Control Interface Device <br/>
-<b>WM_CAP_PAL_OPENW</b>: Windows Capture -> Palette Open <br/>
-<b>WM_CAP_PAL_SAVEW</b>: Windows Capture -> Palette Save <br/>
-<b>WM_CAP_SET_CALLBACK_ERRORW</b>: Windows Capture -> Set Callback Error <br/>
-<b>WM_CAP_SET_CALLBACK_STATUSW</b>: Windows Capture -> Set Callback Status <br/>
-<b>WM_CAP_SET_MCI_DEVICEW</b>: Windows Capture -> Set Multimedia (MCI) Device <br/>
-<b>WM_CAP_UNICODE_START</b>: Windows Capture -> Unicode Start <br/>
-<b>WM_CHANGECBCHAIN</b>: Change Control Box Chain <br/>
-<b>WM_CHANGEUISTATE</b>: Change User-Interface State <br/>
-<b>WM_CHAR</b>: Character <br/>
-<b>WM_CHARTOITEM</b>: Character to Item <br/>
-<b>WM_CHILDACTIVATE</b>: Child Activate <br/>
-<b>WM_CHOOSEFONT_GETLOGFONT</b>: Choose Font / Get Log Font <br/>
-<b>WM_CHOOSEFONT_SETFLAGS</b>: Choose Font Set Flags <br/>
-<b>WM_CHOOSEFONT_SETLOGFONT</b>: Choose Font (Set Log Font) <br/>
-<b>WM_CLEAR</b>: Clear <br/>
-<b>WM_CLOSE</b>: Close <br/>
-<b>WM_COMMAND</b>: Command <br/>
-<b>WM_COMMNOTIFY</b>: Command Notify <br/>
-<b>WM_COMPACTING</b>: Compacting <br/>
-<b>WM_COMPAREITEM</b>: Compare Item <br/>
-<b>WM_CONTEXTMENU</b>: Context Menu <br/>
-<b>WM_CONVERTREQUEST</b>: Convert Request <br/>
-<b>WM_CONVERTRESULT</b>: Convert Result <br/>
-<b>WM_COPY</b>: Copy <br/>
-<b>WM_COPYDATA</b>: Copy Data <br/>
-<b>WM_COPYGLOBALDATA</b>: Copy Global Data <br/>
-<b>WM_CPL_LAUNCH</b>: Control Panel Launched <br/>
-<b>WM_CPL_LAUNCHED</b>: Control Panel Launched <br/>
-<b>WM_CREATE</b>: Create <br/>
-<b>WM_CTLCOLOR</b>: Control Color <br/>
-<b>WM_CTLCOLORBTN</b>: Control Color Button <br/>
-<b>WM_CTLCOLORDLG</b>: Control Color Dialog <br/>
-<b>WM_CTLCOLOREDIT</b>: Control Color Editor <br/>
-<b>WM_CTLCOLORLISTBOX</b>: Control Color List Box <br/>
-<b>WM_CTLCOLORMSGBOX</b>: Control Color Message Box <br/>
-<b>WM_CTLCOLORSCROLLBAR</b>: Control Color Scrollbar <br/>
-<b>WM_CTLCOLORSTATIC</b>: Control Color Static <br/>
-<b>WM_CTLINIT</b>: Control Initiation <br/>
-<b>WM_CUT</b>: Cut <br/>
-<b>WM_DEADCHAR</b>: Dead Character <br/>
-<b>WM_DELETEITEM</b>: Delete Item <br/>
-<b>WM_DESTROY</b>: Destroy <br/>
-<b>WM_DESTROYCLIPBOARD</b>: Destroy Clipboard <br/>
-<b>WM_DEVICECHANGE</b>: Device Change <br/>
-<b>WM_DEVMODECHANGE</b>: Device Mode Change <br/>
-<b>WM_DISPLAYCHANGE</b>: Display Change <br/>
-<b>WM_DRAWCLIPBOARD</b>: Draw Clipboard <br/>
-<b>WM_DRAWITEM</b>: Draw Item <br/>
-<b>WM_DROPFILES</b>: Drop Files <br/>
-<b>WM_ENABLE</b>: Enable <br/>
-<b>WM_ENDSESSION</b>: End Session <br/>
-<b>WM_ENTERIDLE</b>: Enter Idle <br/>
-<b>WM_ENTERMENULOOP</b>: Enter Menu Loop <br/>
-<b>WM_ENTERSIZEMOVE</b>: Enter Size Move <br/>
-<b>WM_ERASEBKGND</b>: Erase Background <br/>
-<b>WM_EXITMENULOOP</b>: Exit Menu Loop <br/>
-<b>WM_EXITSIZEMOVE</b>: Exit Size Move <br/>
-<b>WM_FONTCHANGE</b>: Font Change <br/>
-<b>WM_GETDLGCODE</b>: Get Dialog Code <br/>
-<b>WM_GETFONT</b>: Get Font <br/>
-<b>WM_GETHOTKEY</b>: Get Hotkey <br/>
-<b>WM_GETICON</b>: Get Icon <br/>
-<b>WM_GETMINMAXINFO</b>: Get Min-Maximum Information <br/>
-<b>WM_GETOBJECT</b>: Get Object <br/>
-<b>WM_GETTEXT</b>: Get Text <br/>
-<b>WM_GETTEXTLENGTH</b>: Get Text Length <br/>
-<b>WM_GLOBALRCCHANGE</b>: Global RC Change <br/>
-<b>WM_HANDHELDFIRST</b>: Hand-Held [FIRST] <br/>
-<b>WM_HANDHELDLAST</b>: Hand-Held [LAST] <br/>
-<b>WM_HEDITCTL</b>: Hand-Editing Control <br/>
-<b>WM_HELP</b>: Help <br/>
-<b>WM_HOOKRCRESULT</b>: Hook RC Result <br/>
-<b>WM_HOTKEY</b>: Hotkey <br/>
-<b>WM_HSCROLL</b>: Horizontal Scroll <br/>
-<b>WM_HSCROLLCLIPBOARD</b>: Horizontal Scroll Clipboard <br/>
-<b>WM_ICONERASEBKGND</b>: Icon Erase Background <br/>
-<b>WM_IMEKEYDOWN (WM_IME_KEYDOWN)</b>: IME (Input Method Editor) Key Down <br/>
-<b>WM_IMEKEYUP (WM_IME_KEYUP)</b>: IME (Input Method Editor) Key Up <br/>
-<b>WM_IME_CHAR</b>: IME (Input Method Editor) Character <br/>
-<b>WM_IME_COMPOSITION</b>: IME (Input Method Editor) Composition <br/>
-<b>WM_IME_COMPOSITIONFULL</b>: IME (Input Method Editor) Composition Full <br/>
-<b>WM_IME_CONTROL</b>: IME (Input Method Editor) Control <br/>
-<b>WM_IME_ENDCOMPOSITION</b>: IME (Input Method Editor) End Composition <br/>
-<b>WM_IME_KEYLAST</b>: IME (Input Method Editor) Key [LAST] <br/>
-<b>WM_IME_NOTIFY</b>: IME (Input Method Editor) Notify <br/>
-<b>WM_IME_REPORT</b>: IME (Input Method Editor) Report <br/>
-<b>WM_IME_REQUEST</b>: IME (Input Method Editor) Request <br/>
-<b>WM_IME_SELECT</b>: IME (Input Method Editor) Select <br/>
-<b>WM_IME_SETCONTEXT</b>: IME (Input Method Editor) Set Context <br/>
-<b>WM_IME_STARTCOMPOSITION</b>: IME (Input Method Editor) Start Composition <br/>
-<b>WM_INITDIALOG</b>: Initiate Dialog <br/>
-<b>WM_INITMENU</b>: Initiate Menu <br/>
-<b>WM_INITMENUPOPUP</b>: Initiate Menu Pop-Up <br/>
-<b>WM_INPUT</b>: Input <br/>
-<b>WM_INPUTLANGCHANGE</b>: Input Language Change <br/>
-<b>WM_INPUTLANGCHANGEREQUEST</b>: Input Language Change Request <br/>
-<b>WM_INTERIM</b>: Interim <br/>
-<b>WM_KEYDOWN (WM_KEYFIRST)</b>: Key Down <br/>
-<b>WM_KEYLAST</b>: Key [LAST] <br/>
-<b>WM_KEYUP</b>: Key Up <br/>
-<b>WM_KILLFOCUS</b>: Kill Focus <br/>
-<b>WM_LBUTTONDBLCLK</b>: Left (Mouse) Button Double-Click <br/>
-<b>WM_LBUTTONDOWN</b>: Left (Mouse) Button Down <br/>
-<b>WM_LBUTTONUP</b>: Left (Mouse) Button Up <br/>
-<b>WM_MBUTTONDBLCLK</b>: Middle (Mouse) Button Double-Click <br/>
-<b>WM_MBUTTONDOWN</b>: Middle (Mouse) Button Down <br/>
-<b>WM_MBUTTONUP</b>: Middle (Mouse) Button Up <br/>
-<b>WM_MDIACTIVATE</b>: Multiple-Document Interface Activate <br/>
-<b>WM_MDICASCADE</b>: Multiple-Document Interface Cascade <br/>
-<b>WM_MDICREATE</b>: Multiple-Document Interface Create <br/>
-<b>WM_MDIDESTROY</b>: Multiple-Document Interface Destroy <br/>
-<b>WM_MDIGETACTIVE</b>: Multiple-Document Interface Get Active <br/>
-<b>WM_MDIICONARRANGE</b>: Multiple-Document Interface Icon Arrange <br/>
-<b>WM_MDIMAXIMIZE</b>: Multiple-Document Interface Maximize <br/>
-<b>WM_MDINEXT</b>: Multiple-Document Interface Next <br/>
-<b>WM_MDIREFRESHMENU</b>: Multiple-Document Interface Refresh Menu <br/>
-<b>WM_MDIRESTORE</b>: Multiple-Document Interface Restore <br/>
-<b>WM_MDISETMENU</b>: Multiple-Document Interface Set Menu <br/>
-<b>WM_MDITILE</b>: Multiple-Document Interface Tile <br/>
-<b>WM_MEASUREITEM</b>: Measure Item <br/>
-<b>WM_MENUCHAR</b>: Menu Character <br/>
-<b>WM_MENUCOMMAND</b>: Menu Command <br/>
-<b>WM_MENUDRAG</b>: Menu Drag <br/>
-<b>WM_MENUGETOBJECT</b>: Menu Get to Object <br/>
-<b>WM_MENURBUTTONUP</b>: Menu Right (Mouse) Button Up <br/>
-<b>WM_MENUSELECT</b>: Menu Select <br/>
-<b>WM_MOUSEACTIVATE</b>: Mouse Activate <br/>
-<b>WM_MOUSEHOVER</b>: Mouse Hover <br/>
-<b>WM_MOUSELEAVE</b>: Mouse Leave <br/>
-<b>WM_MOUSEMOVE (WM_MOUSEFIRST)</b>: Mouse Move <br/>
-<b>WM_MOUSEWHEEL</b>: Mouse Wheel <br/>
-<b>WM_MOVE</b>: Move <br/>
-<b>WM_MOVING</b>: Moving <br/>
-<b>WM_NCACTIVATE</b>: Non-Client Activate <br/>
-<b>WM_NCCALCSIZE</b>: Non-Client Calculate Size <br/>
-<b>WM_NCCREATE</b>: Non-Client Create <br/>
-<b>WM_NCDESTROY</b>: Non-Client Destroy <br/>
-<b>WM_NCHITTEST</b>: Non-Client Hit-Test <br/>
-<b>WM_NCLBUTTONDBLCLK</b>: Non-Client Left (Mouse) Button Double-Click <br/>
-<b>WM_NCLBUTTONDOWN</b>: Non-Client Left (Mouse) Button Down <br/>
-<b>WM_NCLBUTTONUP</b>: Non-Client Left (Mouse) Button Up <br/>
-<b>WM_NCMBUTTONDBLCLK</b>: Non-Client Middle (Mouse) Button Double-Click <br/>
-<b>WM_NCMBUTTONDOWN</b>: Non-Client Middle (Mouse) Button Down <br/>
-<b>WM_NCMBUTTONUP</b>: Non-Client Middle (Mouse) Button Up <br/>
-<b>WM_NCMOUSEHOVER</b>: Non-Client Mouse Hover <br/>
-<b>WM_NCMOUSELEAVE</b>: Non-Client Mouse Leave <br/>
-<b>WM_NCMOUSEMOVE</b>: Non-Client Mouse Mouse <br/>
-<b>WM_NCPAINT</b>: Non-Client Paint <br/>
-<b>WM_NCRBUTTONDBLCLK</b>: Non-Client Right (Mouse) Button Double-Click <br/>
-<b>WM_NCRBUTTONDOWN</b>: Non-Client Right (Mouse) Button Down <br/>
-<b>WM_NCRBUTTONUP</b>: Non-Client Right (Mouse) Button Up <br/>
-<b>WM_NCXBUTTONDBLCLK</b>: Non-Client X (Mouse) Button Double-Click <br/>
-<b>WM_NCXBUTTONDOWN</b>: Non-Client X (Mouse) Button Down <br/>
-<b>WM_NCXBUTTONUP</b>: Non-Client X (Mouse) Button Up <br/>
-<b>WM_NEXTDLGCTL</b>: Next Dialog Control <br/>
-<b>WM_NEXTMENU</b>: Next Menu <br/>
-<b>WM_NOTIFY</b>: Notify <br/>
-<b>WM_NOTIFYFORMAT</b>: Notify Format <br/>
-<b>WM_NULL</b>: [NULL] <br/>
-<b>WM_PAINT</b>: Paint <br/>
-<b>WM_PAINTCLIPBOARD</b>: Paint Clipboard <br/>
-<b>WM_PAINTICON</b>: Paint Icon <br/>
-<b>WM_PALETTECHANGED</b>: Palette Changed <br/>
-<b>WM_PALETTEISCHANGING</b>: Palette is Changing <br/>
-<b>WM_PARENTNOTIFY</b>: Parent Notify <br/>
-<b>WM_PASTE</b>: Paste <br/>
-<b>WM_PENCTL</b>: Pen Control <br/>
-<b>WM_PENEVENT</b>: Pen Event <br/>
-<b>WM_PENMISC</b>: Pen Miscellaneous <br/>
-<b>WM_PENMISCINFO</b>: Pen Miscellaneous Information <br/>
-<b>WM_PENWINFIRST</b>: Pen First <br/>
-<b>WM_PENWINLAST</b>: Pen Last <br/>
-<b>WM_POWER</b>: Power <br/>
-<b>WM_POWERBROADCAST</b>: Power Broadcast <br/>
-<b>WM_PRINT</b>: Print <br/>
-<b>WM_PRINTCLIENT</b>: Print Client <br/>
-<b>WM_PSD_ENVSTAMPRECT</b>: Page Setup Dialog -> Envelope Stamp Rectangle <br/>
-<b>WM_PSD_FULLPAGERECT</b>: Page Setup Dialog -> Full Page Rectangle <br/>
-<b>WM_PSD_GREEKTEXTRECT</b>: Page Setup Dialog -> Greek Text Rectangle <br/>
-<b>WM_PSD_MARGINRECT</b>: Page Setup Dialog -> Margin Rectangle <br/>
-<b>WM_PSD_MINMARGINRECT</b>: Page Setup Dialog -> Minimum Margin Rectangle <br/>
-<b>WM_PSD_PAGESETUPDLG</b>: Page Setup Dialog -> Page Setup Dialog <br/>
-<b>WM_PSD_YAFULLPAGERECT</b>: Page Setup Dialog Full Page <br/>
-<b>WM_QUERYDRAGICON</b>: Query Drag Icon <br/>
-<b>WM_QUERYENDSESSION</b>: Query End Session <br/>
-<b>WM_QUERYNEWPALETTE</b>: Query New Palette <br/>
-<b>WM_QUERYOPEN</b>: Query Open <br/>
-<b>WM_QUERYUISTATE</b>: Query User-Interface State <br/>
-<b>WM_QUEUESYNC</b>: Queue Synchronization <br/>
-<b>WM_QUIT</b>: Quit <br/>
-<b>WM_RASDIALEVENT</b>: Routing & Remote Access Service Dial Event <br/>
-<b>WM_RBUTTONDBLCLK</b>: Right (Mouse) Button Double-Click <br/>
-<b>WM_RBUTTONDOWN</b>: Right (Mouse) Button Down <br/>
-<b>WM_RBUTTONUP</b>: Right (Mouse) Button Up <br/>
-<b>WM_RCRESULT</b>: RC Result <br/>
-<b>WM_RENDERALLFORMATS</b>: Render All Formats <br/>
-<b>WM_RENDERFORMAT</b>: Render Format <br/>
-<b>WM_SETCURSOR</b>: Set Cursor <br/>
-<b>WM_SETFOCUS</b>: Set Focus <br/>
-<b>WM_SETFONT</b>: Set Font <br/>
-<b>WM_SETHOTKEY</b>: Set Hotkey <br/>
-<b>WM_SETICON</b>: Set Icon <br/>
-<b>WM_SETREDRAW</b>: Set Redraw <br/>
-<b>WM_SETTEXT</b>: Set Text <br/>
-<b>WM_SHOWWINDOW</b>: Show Window <br/>
-<b>WM_SIZE</b>: Size <br/>
-<b>WM_SIZECLIPBOARD</b>: Size Clipboard <br/>
-<b>WM_SIZING</b>: Sizing <br/>
-<b>WM_SKB</b>: SketchUp Backup <br/>
-<b>WM_SPOOLERSTATUS</b>: Spooler Status <br/>
-<b>WM_STYLECHANGED</b>: Style Changed <br/>
-<b>WM_STYLECHANGING</b>: Style Changing <br/>
-<b>WM_SYNCPAINT</b>: Synchronized Paint <br/>
-<b>WM_SYSCHAR</b>: System Character <br/>
-<b>WM_SYSCOLORCHANGE</b>: System Color Change <br/>
-<b>WM_SYSCOMMAND</b>: System Command <br/>
-<b>WM_SYSDEADCHAR</b>: System Dead Character <br/>
-<b>WM_SYSKEYDOWN</b>: System Key Down <br/>
-<b>WM_SYSKEYUP</b>: System Key Up <br/>
-<b>WM_SYSTIMER</b>: System Timer <br/>
-<b>WM_TCARD</b>: Text Card <br/>
-<b>WM_TIMECHANGE</b>: Time Change <br/>
-<b>WM_TIMER</b>: Timer <br/>
-<b>WM_UNDO</b>: Undo <br/>
-<b>WM_UNICHAR</b>: Unicode Character <br/>
-<b>WM_UNINITMENUPOPUP</b>: Uninitiate Menu Pop-Up <br/>
-<b>WM_UPDATEUISTATE</b>: Update UI State <br/>
-<b>WM_USER</b>: Windows [USER] <br/>
-<b>WM_USERCHANGED</b>: User Changed <br/>
-<b>WM_VKEYTOITEM</b>: Virtual Key to Item <br/>
-<b>WM_VSCROLL</b>: Vertical Scroll <br/>
-<b>WM_VSCROLLCLIPBOARD</b>: Vertical Scroll Clipboard <br/>
-<b>WM_WINDOWPOSCHANGED</b>: Window Position Changed <br/>
-<b>WM_WINDOWPOSCHANGING</b>: Window Position Changing <br/>
-<b>WM_WININICHANGE</b>: Windows INI Change <br/>
-<b>WM_WNT_CONVERTREQUESTEX</b>: Convert Request <br/>
-<b>WM_XBUTTONDBLCLK (WM_MOUSELAST)</b>: Mouse X Button Double-Click <br/>
-<b>WM_XBUTTONDOWN</b>: Mouse X Button Down <br/>
-<b>WM_XBUTTONUP</b>: Mouse X Button Up
+<code><b>WM_ACTIVATE</b></code>: Activate <br/>
+<code><b>WM_ACTIVATEAPP</b></code>: Activate Application <br/>
+<code><b>WM_AFXFIRST</b></code>: Application Framework Extensions FIRST[] <br/>
+<code><b>WM_AFXLAST</b></code>: Application Framework Extensions [LAST] <br/>
+<code><b>WM_APP</b></code>: Application <br/>
+<code><b>WM_APPCOMMAND</b></code>: Application Command <br/>
+<code><b>WM_ASKCBFORMATNAME</b></code>: Ask Clipboard Format Name <br/>
+<code><b>WM_CANCELJOURNAL</b></code>: Cancel Journal <br/>
+<code><b>WM_CANCELMODE</b></code>: Cancel Mode <br/>
+<code><b>WM_CAPTURECHANGED</b></code>: Windows Capture -> Changed <br/>
+<code><b>WM_CAP_DRIVER_GET_NAMEW</b></code>: Windows Capture -> Driver Get Name <br/>
+<code><b>WM_CAP_DRIVER_GET_VERSIONW</b></code>: Windows Capture -> Driver Get Version <br/>
+<code><b>WM_CAP_FILE_GET_CAPTURE_FILEW</b></code>: Windows Capture -> File Get Capture <br/>
+<code><b>WM_CAP_FILE_SAVEASW</b></code>: Windows Capture -> File Save As <br/>
+<code><b>WM_CAP_FILE_SAVEDIBW</b></code>: Windows Capture -> File Save ... <br/>
+<code><b>WM_CAP_FILE_SET_CAPTURE_FILEW</b></code>: Windows Capture -> File Set Capture File <br/>
+<code><b>WM_CAP_GET_MCI_DEVICEW</b></code>: Windows Capture -> Get Media Control Interface Device <br/>
+<code><b>WM_CAP_PAL_OPENW</b></code>: Windows Capture -> Palette Open <br/>
+<code><b>WM_CAP_PAL_SAVEW</b></code>: Windows Capture -> Palette Save <br/>
+<code><b>WM_CAP_SET_CALLBACK_ERRORW</b></code>: Windows Capture -> Set Callback Error <br/>
+<code><b>WM_CAP_SET_CALLBACK_STATUSW</b></code>: Windows Capture -> Set Callback Status <br/>
+<code><b>WM_CAP_SET_MCI_DEVICEW</b></code>: Windows Capture -> Set Multimedia (MCI) Device <br/>
+<code><b>WM_CAP_UNICODE_START</b></code>: Windows Capture -> Unicode Start <br/>
+<code><b>WM_CHANGECBCHAIN</b></code>: Change Control Box Chain <br/>
+<code><b>WM_CHANGEUISTATE</b></code>: Change User-Interface State <br/>
+<code><b>WM_CHAR</b></code>: Character <br/>
+<code><b>WM_CHARTOITEM</b></code>: Character to Item <br/>
+<code><b>WM_CHILDACTIVATE</b></code>: Child Activate <br/>
+<code><b>WM_CHOOSEFONT_GETLOGFONT</b></code>: Choose Font / Get Log Font <br/>
+<code><b>WM_CHOOSEFONT_SETFLAGS</b></code>: Choose Font Set Flags <br/>
+<code><b>WM_CHOOSEFONT_SETLOGFONT</b></code>: Choose Font (Set Log Font) <br/>
+<code><b>WM_CLEAR</b></code>: Clear <br/>
+<code><b>WM_CLOSE</b></code>: Close <br/>
+<code><b>WM_COMMAND</b></code>: Command <br/>
+<code><b>WM_COMMNOTIFY</b></code>: Command Notify <br/>
+<code><b>WM_COMPACTING</b></code>: Compacting <br/>
+<code><b>WM_COMPAREITEM</b></code>: Compare Item <br/>
+<code><b>WM_CONTEXTMENU</b></code>: Context Menu <br/>
+<code><b>WM_CONVERTREQUEST</b></code>: Convert Request <br/>
+<code><b>WM_CONVERTRESULT</b></code>: Convert Result <br/>
+<code><b>WM_COPY</b></code>: Copy <br/>
+<code><b>WM_COPYDATA</b></code>: Copy Data <br/>
+<code><b>WM_COPYGLOBALDATA</b></code>: Copy Global Data <br/>
+<code><b>WM_CPL_LAUNCH</b></code>: Control Panel Launched <br/>
+<code><b>WM_CPL_LAUNCHED</b></code>: Control Panel Launched <br/>
+<code><b>WM_CREATE</b></code>: Create <br/>
+<code><b>WM_CTLCOLOR</b></code>: Control Color <br/>
+<code><b>WM_CTLCOLORBTN</b></code>: Control Color Button <br/>
+<code><b>WM_CTLCOLORDLG</b></code>: Control Color Dialog <br/>
+<code><b>WM_CTLCOLOREDIT</b></code>: Control Color Editor <br/>
+<code><b>WM_CTLCOLORLISTBOX</b></code>: Control Color List Box <br/>
+<code><b>WM_CTLCOLORMSGBOX</b></code>: Control Color Message Box <br/>
+<code><b>WM_CTLCOLORSCROLLBAR</b></code>: Control Color Scrollbar <br/>
+<code><b>WM_CTLCOLORSTATIC</b></code>: Control Color Static <br/>
+<code><b>WM_CTLINIT</b></code>: Control Initiation <br/>
+<code><b>WM_CUT</b></code>: Cut <br/>
+<code><b>WM_DEADCHAR</b></code>: Dead Character <br/>
+<code><b>WM_DELETEITEM</b></code>: Delete Item <br/>
+<code><b>WM_DESTROY</b></code>: Destroy <br/>
+<code><b>WM_DESTROYCLIPBOARD</b></code>: Destroy Clipboard <br/>
+<code><b>WM_DEVICECHANGE</b></code>: Device Change <br/>
+<code><b>WM_DEVMODECHANGE</b></code>: Device Mode Change <br/>
+<code><b>WM_DISPLAYCHANGE</b></code>: Display Change <br/>
+<code><b>WM_DRAWCLIPBOARD</b></code>: Draw Clipboard <br/>
+<code><b>WM_DRAWITEM</b></code>: Draw Item <br/>
+<code><b>WM_DROPFILES</b></code>: Drop Files <br/>
+<code><b>WM_ENABLE</b></code>: Enable <br/>
+<code><b>WM_ENDSESSION</b></code>: End Session <br/>
+<code><b>WM_ENTERIDLE</b></code>: Enter Idle <br/>
+<code><b>WM_ENTERMENULOOP</b></code>: Enter Menu Loop <br/>
+<code><b>WM_ENTERSIZEMOVE</b></code>: Enter Size Move <br/>
+<code><b>WM_ERASEBKGND</b></code>: Erase Background <br/>
+<code><b>WM_EXITMENULOOP</b></code>: Exit Menu Loop <br/>
+<code><b>WM_EXITSIZEMOVE</b></code>: Exit Size Move <br/>
+<code><b>WM_FONTCHANGE</b></code>: Font Change <br/>
+<code><b>WM_GETDLGCODE</b></code>: Get Dialog Code <br/>
+<code><b>WM_GETFONT</b></code>: Get Font <br/>
+<code><b>WM_GETHOTKEY</b></code>: Get Hotkey <br/>
+<code><b>WM_GETICON</b></code>: Get Icon <br/>
+<code><b>WM_GETMINMAXINFO</b></code>: Get Min-Maximum Information <br/>
+<code><b>WM_GETOBJECT</b></code>: Get Object <br/>
+<code><b>WM_GETTEXT</b></code>: Get Text <br/>
+<code><b>WM_GETTEXTLENGTH</b></code>: Get Text Length <br/>
+<code><b>WM_GLOBALRCCHANGE</b></code>: Global RC Change <br/>
+<code><b>WM_HANDHELDFIRST</b></code>: Hand-Held [FIRST] <br/>
+<code><b>WM_HANDHELDLAST</b></code>: Hand-Held [LAST] <br/>
+<code><b>WM_HEDITCTL</b></code>: Hand-Editing Control <br/>
+<code><b>WM_HELP</b></code>: Help <br/>
+<code><b>WM_HOOKRCRESULT</b></code>: Hook RC Result <br/>
+<code><b>WM_HOTKEY</b></code>: Hotkey <br/>
+<code><b>WM_HSCROLL</b></code>: Horizontal Scroll <br/>
+<code><b>WM_HSCROLLCLIPBOARD</b></code>: Horizontal Scroll Clipboard <br/>
+<code><b>WM_ICONERASEBKGND</b></code>: Icon Erase Background <br/>
+<code><b>WM_IMEKEYDOWN (WM_IME_KEYDOWN)</b></code>: IME (Input Method Editor) Key Down <br/>
+<code><b>WM_IMEKEYUP (WM_IME_KEYUP)</b></code>: IME (Input Method Editor) Key Up <br/>
+<code><b>WM_IME_CHAR</b></code>: IME (Input Method Editor) Character <br/>
+<code><b>WM_IME_COMPOSITION</b></code>: IME (Input Method Editor) Composition <br/>
+<code><b>WM_IME_COMPOSITIONFULL</b></code>: IME (Input Method Editor) Composition Full <br/>
+<code><b>WM_IME_CONTROL</b></code>: IME (Input Method Editor) Control <br/>
+<code><b>WM_IME_ENDCOMPOSITION</b></code>: IME (Input Method Editor) End Composition <br/>
+<code><b>WM_IME_KEYLAST</b></code>: IME (Input Method Editor) Key [LAST] <br/>
+<code><b>WM_IME_NOTIFY</b></code>: IME (Input Method Editor) Notify <br/>
+<code><b>WM_IME_REPORT</b></code>: IME (Input Method Editor) Report <br/>
+<code><b>WM_IME_REQUEST</b></code>: IME (Input Method Editor) Request <br/>
+<code><b>WM_IME_SELECT</b></code>: IME (Input Method Editor) Select <br/>
+<code><b>WM_IME_SETCONTEXT</b></code>: IME (Input Method Editor) Set Context <br/>
+<code><b>WM_IME_STARTCOMPOSITION</b></code>: IME (Input Method Editor) Start Composition <br/>
+<code><b>WM_INITDIALOG</b></code>: Initiate Dialog <br/>
+<code><b>WM_INITMENU</b></code>: Initiate Menu <br/>
+<code><b>WM_INITMENUPOPUP</b></code>: Initiate Menu Pop-Up <br/>
+<code><b>WM_INPUT</b></code>: Input <br/>
+<code><b>WM_INPUTLANGCHANGE</b></code>: Input Language Change <br/>
+<code><b>WM_INPUTLANGCHANGEREQUEST</b></code>: Input Language Change Request <br/>
+<code><b>WM_INTERIM</b></code>: Interim <br/>
+<code><b>WM_KEYDOWN (WM_KEYFIRST)</b></code>: Key Down <br/>
+<code><b>WM_KEYLAST</b></code>: Key [LAST] <br/>
+<code><b>WM_KEYUP</b></code>: Key Up <br/>
+<code><b>WM_KILLFOCUS</b></code>: Kill Focus <br/>
+<code><b>WM_LBUTTONDBLCLK</b></code>: Left (Mouse) Button Double-Click <br/>
+<code><b>WM_LBUTTONDOWN</b></code>: Left (Mouse) Button Down <br/>
+<code><b>WM_LBUTTONUP</b></code>: Left (Mouse) Button Up <br/>
+<code><b>WM_MBUTTONDBLCLK</b></code>: Middle (Mouse) Button Double-Click <br/>
+<code><b>WM_MBUTTONDOWN</b></code>: Middle (Mouse) Button Down <br/>
+<code><b>WM_MBUTTONUP</b></code>: Middle (Mouse) Button Up <br/>
+<code><b>WM_MDIACTIVATE</b></code>: Multiple-Document Interface Activate <br/>
+<code><b>WM_MDICASCADE</b></code>: Multiple-Document Interface Cascade <br/>
+<code><b>WM_MDICREATE</b></code>: Multiple-Document Interface Create <br/>
+<code><b>WM_MDIDESTROY</b></code>: Multiple-Document Interface Destroy <br/>
+<code><b>WM_MDIGETACTIVE</b></code>: Multiple-Document Interface Get Active <br/>
+<code><b>WM_MDIICONARRANGE</b></code>: Multiple-Document Interface Icon Arrange <br/>
+<code><b>WM_MDIMAXIMIZE</b></code>: Multiple-Document Interface Maximize <br/>
+<code><b>WM_MDINEXT</b></code>: Multiple-Document Interface Next <br/>
+<code><b>WM_MDIREFRESHMENU</b></code>: Multiple-Document Interface Refresh Menu <br/>
+<code><b>WM_MDIRESTORE</b></code>: Multiple-Document Interface Restore <br/>
+<code><b>WM_MDISETMENU</b></code>: Multiple-Document Interface Set Menu <br/>
+<code><b>WM_MDITILE</b></code>: Multiple-Document Interface Tile <br/>
+<code><b>WM_MEASUREITEM</b></code>: Measure Item <br/>
+<code><b>WM_MENUCHAR</b></code>: Menu Character <br/>
+<code><b>WM_MENUCOMMAND</b></code>: Menu Command <br/>
+<code><b>WM_MENUDRAG</b></code>: Menu Drag <br/>
+<code><b>WM_MENUGETOBJECT</b></code>: Menu Get to Object <br/>
+<code><b>WM_MENURBUTTONUP</b></code>: Menu Right (Mouse) Button Up <br/>
+<code><b>WM_MENUSELECT</b></code>: Menu Select <br/>
+<code><b>WM_MOUSEACTIVATE</b></code>: Mouse Activate <br/>
+<code><b>WM_MOUSEHOVER</b></code>: Mouse Hover <br/>
+<code><b>WM_MOUSELEAVE</b></code>: Mouse Leave <br/>
+<code><b>WM_MOUSEMOVE (WM_MOUSEFIRST)</b></code>: Mouse Move <br/>
+<code><b>WM_MOUSEWHEEL</b></code>: Mouse Wheel <br/>
+<code><b>WM_MOVE</b></code>: Move <br/>
+<code><b>WM_MOVING</b></code>: Moving <br/>
+<code><b>WM_NCACTIVATE</b></code>: Non-Client Activate <br/>
+<code><b>WM_NCCALCSIZE</b></code>: Non-Client Calculate Size <br/>
+<code><b>WM_NCCREATE</b></code>: Non-Client Create <br/>
+<code><b>WM_NCDESTROY</b></code>: Non-Client Destroy <br/>
+<code><b>WM_NCHITTEST</b></code>: Non-Client Hit-Test <br/>
+<code><b>WM_NCLBUTTONDBLCLK</b></code>: Non-Client Left (Mouse) Button Double-Click <br/>
+<code><b>WM_NCLBUTTONDOWN</b></code>: Non-Client Left (Mouse) Button Down <br/>
+<code><b>WM_NCLBUTTONUP</b></code>: Non-Client Left (Mouse) Button Up <br/>
+<code><b>WM_NCMBUTTONDBLCLK</b></code>: Non-Client Middle (Mouse) Button Double-Click <br/>
+<code><b>WM_NCMBUTTONDOWN</b></code>: Non-Client Middle (Mouse) Button Down <br/>
+<code><b>WM_NCMBUTTONUP</b></code>: Non-Client Middle (Mouse) Button Up <br/>
+<code><b>WM_NCMOUSEHOVER</b></code>: Non-Client Mouse Hover <br/>
+<code><b>WM_NCMOUSELEAVE</b></code>: Non-Client Mouse Leave <br/>
+<code><b>WM_NCMOUSEMOVE</b></code>: Non-Client Mouse Mouse <br/>
+<code><b>WM_NCPAINT</b></code>: Non-Client Paint <br/>
+<code><b>WM_NCRBUTTONDBLCLK</b></code>: Non-Client Right (Mouse) Button Double-Click <br/>
+<code><b>WM_NCRBUTTONDOWN</b></code>: Non-Client Right (Mouse) Button Down <br/>
+<code><b>WM_NCRBUTTONUP</b></code>: Non-Client Right (Mouse) Button Up <br/>
+<code><b>WM_NCXBUTTONDBLCLK</b></code>: Non-Client X (Mouse) Button Double-Click <br/>
+<code><b>WM_NCXBUTTONDOWN</b></code>: Non-Client X (Mouse) Button Down <br/>
+<code><b>WM_NCXBUTTONUP</b></code>: Non-Client X (Mouse) Button Up <br/>
+<code><b>WM_NEXTDLGCTL</b></code>: Next Dialog Control <br/>
+<code><b>WM_NEXTMENU</b></code>: Next Menu <br/>
+<code><b>WM_NOTIFY</b></code>: Notify <br/>
+<code><b>WM_NOTIFYFORMAT</b></code>: Notify Format <br/>
+<code><b>WM_NULL</b></code>: [NULL] <br/>
+<code><b>WM_PAINT</b></code>: Paint <br/>
+<code><b>WM_PAINTCLIPBOARD</b></code>: Paint Clipboard <br/>
+<code><b>WM_PAINTICON</b></code>: Paint Icon <br/>
+<code><b>WM_PALETTECHANGED</b></code>: Palette Changed <br/>
+<code><b>WM_PALETTEISCHANGING</b></code>: Palette is Changing <br/>
+<code><b>WM_PARENTNOTIFY</b></code>: Parent Notify <br/>
+<code><b>WM_PASTE</b></code>: Paste <br/>
+<code><b>WM_PENCTL</b></code>: Pen Control <br/>
+<code><b>WM_PENEVENT</b></code>: Pen Event <br/>
+<code><b>WM_PENMISC</b></code>: Pen Miscellaneous <br/>
+<code><b>WM_PENMISCINFO</b></code>: Pen Miscellaneous Information <br/>
+<code><b>WM_PENWINFIRST</b></code>: Pen First <br/>
+<code><b>WM_PENWINLAST</b></code>: Pen Last <br/>
+<code><b>WM_POWER</b></code>: Power <br/>
+<code><b>WM_POWERBROADCAST</b></code>: Power Broadcast <br/>
+<code><b>WM_PRINT</b></code>: Print <br/>
+<code><b>WM_PRINTCLIENT</b></code>: Print Client <br/>
+<code><b>WM_PSD_ENVSTAMPRECT</b></code>: Page Setup Dialog -> Envelope Stamp Rectangle <br/>
+<code><b>WM_PSD_FULLPAGERECT</b></code>: Page Setup Dialog -> Full Page Rectangle <br/>
+<code><b>WM_PSD_GREEKTEXTRECT</b></code>: Page Setup Dialog -> Greek Text Rectangle <br/>
+<code><b>WM_PSD_MARGINRECT</b></code>: Page Setup Dialog -> Margin Rectangle <br/>
+<code><b>WM_PSD_MINMARGINRECT</b></code>: Page Setup Dialog -> Minimum Margin Rectangle <br/>
+<code><b>WM_PSD_PAGESETUPDLG</b></code>: Page Setup Dialog -> Page Setup Dialog <br/>
+<code><b>WM_PSD_YAFULLPAGERECT</b></code>: Page Setup Dialog Full Page <br/>
+<code><b>WM_QUERYDRAGICON</b></code>: Query Drag Icon <br/>
+<code><b>WM_QUERYENDSESSION</b></code>: Query End Session <br/>
+<code><b>WM_QUERYNEWPALETTE</b></code>: Query New Palette <br/>
+<code><b>WM_QUERYOPEN</b></code>: Query Open <br/>
+<code><b>WM_QUERYUISTATE</b></code>: Query User-Interface State <br/>
+<code><b>WM_QUEUESYNC</b></code>: Queue Synchronization <br/>
+<code><b>WM_QUIT</b></code>: Quit <br/>
+<code><b>WM_RASDIALEVENT</b></code>: Routing & Remote Access Service Dial Event <br/>
+<code><b>WM_RBUTTONDBLCLK</b></code>: Right (Mouse) Button Double-Click <br/>
+<code><b>WM_RBUTTONDOWN</b></code>: Right (Mouse) Button Down <br/>
+<code><b>WM_RBUTTONUP</b></code>: Right (Mouse) Button Up <br/>
+<code><b>WM_RCRESULT</b></code>: RC Result <br/>
+<code><b>WM_RENDERALLFORMATS</b></code>: Render All Formats <br/>
+<code><b>WM_RENDERFORMAT</b></code>: Render Format <br/>
+<code><b>WM_SETCURSOR</b></code>: Set Cursor <br/>
+<code><b>WM_SETFOCUS</b></code>: Set Focus <br/>
+<code><b>WM_SETFONT</b></code>: Set Font <br/>
+<code><b>WM_SETHOTKEY</b></code>: Set Hotkey <br/>
+<code><b>WM_SETICON</b></code>: Set Icon <br/>
+<code><b>WM_SETREDRAW</b></code>: Set Redraw <br/>
+<code><b>WM_SETTEXT</b></code>: Set Text <br/>
+<code><b>WM_SHOWWINDOW</b></code>: Show Window <br/>
+<code><b>WM_SIZE</b></code>: Size <br/>
+<code><b>WM_SIZECLIPBOARD</b></code>: Size Clipboard <br/>
+<code><b>WM_SIZING</b></code>: Sizing <br/>
+<code><b>WM_SKB</b></code>: SketchUp Backup <br/>
+<code><b>WM_SPOOLERSTATUS</b></code>: Spooler Status <br/>
+<code><b>WM_STYLECHANGED</b></code>: Style Changed <br/>
+<code><b>WM_STYLECHANGING</b></code>: Style Changing <br/>
+<code><b>WM_SYNCPAINT</b></code>: Synchronized Paint <br/>
+<code><b>WM_SYSCHAR</b></code>: System Character <br/>
+<code><b>WM_SYSCOLORCHANGE</b></code>: System Color Change <br/>
+<code><b>WM_SYSCOMMAND</b></code>: System Command <br/>
+<code><b>WM_SYSDEADCHAR</b></code>: System Dead Character <br/>
+<code><b>WM_SYSKEYDOWN</b></code>: System Key Down <br/>
+<code><b>WM_SYSKEYUP</b></code>: System Key Up <br/>
+<code><b>WM_SYSTIMER</b></code>: System Timer <br/>
+<code><b>WM_TCARD</b></code>: Text Card <br/>
+<code><b>WM_TIMECHANGE</b></code>: Time Change <br/>
+<code><b>WM_TIMER</b></code>: Timer <br/>
+<code><b>WM_UNDO</b></code>: Undo <br/>
+<code><b>WM_UNICHAR</b></code>: Unicode Character <br/>
+<code><b>WM_UNINITMENUPOPUP</b></code>: Uninitiate Menu Pop-Up <br/>
+<code><b>WM_UPDATEUISTATE</b></code>: Update UI State <br/>
+<code><b>WM_USER</b></code>: Windows [USER] <br/>
+<code><b>WM_USERCHANGED</b></code>: User Changed <br/>
+<code><b>WM_VKEYTOITEM</b></code>: Virtual Key to Item <br/>
+<code><b>WM_VSCROLL</b></code>: Vertical Scroll <br/>
+<code><b>WM_VSCROLLCLIPBOARD</b></code>: Vertical Scroll Clipboard <br/>
+<code><b>WM_WINDOWPOSCHANGED</b></code>: Window Position Changed <br/>
+<code><b>WM_WINDOWPOSCHANGING</b></code>: Window Position Changing <br/>
+<code><b>WM_WININICHANGE</b></code>: Windows INI Change <br/>
+<code><b>WM_WNT_CONVERTREQUESTEX</b></code>: Convert Request <br/>
+<code><b>WM_XBUTTONDBLCLK (WM_MOUSELAST)</b></code>: Mouse X Button Double-Click <br/>
+<code><b>WM_XBUTTONDOWN</b></code>: Mouse X Button Down <br/>
+<code><b>WM_XBUTTONUP</b></code>: Mouse X Button Up
