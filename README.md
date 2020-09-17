@@ -412,22 +412,22 @@
 <code><b>MCIWNDM_GETERRORW</b></code>: Get Error (Unicode) <br/>
 <code><b>MCIWNDM_GETFILENAMEA</b></code>: Get File Name (ASCII) <br/>
 <code><b>MCIWNDM_GETFILENAMEW</b></code>: Get File Name (Unicode) <br/>
-<code><b>MCIWNDM_GETINACTIVETIMER</b></code>: Multimedia MCI Window -> Get Inactive Timer <br/>
+<code><b>MCIWNDM_GETINACTIVETIMER</b></code>: Get Inactive Timer <br/>
 <code><b>MCIWNDM_GETPALETTE</b></code>: Get Palette <br/>
 <code><b>MCIWNDM_GETTIMEFORMATA</b></code>: Get Time Format (ASCII) <br/>
 <code><b>MCIWNDM_GETZOOM</b></code>: Get Zoom <br/>
 <code><b>MCIWNDM_GET_DEST</b></code>: Get Destination <br/>
 <code><b>MCIWNDM_GET_SOURCE</b></code>: Get Source <br/>
-<code><b>MCIWNDM_NOTIFYERROR</b></code>: Multimedia MCI Window -> Notify Error <br/>
+<code><b>MCIWNDM_NOTIFYERROR</b></code>: Notify Error <br/>
 <code><b>MCIWNDM_NOTIFYMEDIA</b></code>: Notify Media <br/>
-<code><b>MCIWNDM_NOTIFYMODE</b></code>: Multimedia MCI Window -> Notify Mode <br/>
+<code><b>MCIWNDM_NOTIFYMODE</b></code>: Notify Mode <br/>
 <code><b>MCIWNDM_PALETTEKICK</b></code>: Palette Kick <br/>
 <code><b>MCIWNDM_PLAYTO</b></code>: Play To <br/>
 <code><b>MCIWNDM_PUT_DEST</b></code>: Put Destination <br/>
 <code><b>MCIWNDM_PUT_SOURCE</b></code>: Put Source <br/>
 <code><b>MCIWNDM_REALIZE</b></code>: Realize <br/>
 <code><b>MCIWNDM_SETINACTIVETIMER</b></code>: Set Inactive Timer <br/>
-<code><b>MCIWNDM_SETPALETTE</b></code>: Multimedia MCI Window -> Set Palette <br/>
+<code><b>MCIWNDM_SETPALETTE</b></code>: Set Palette <br/>
 <code><b>MCIWNDM_SETTIMEFORMATA</b></code>: Set Time Format (ASCII) <br/>
 <code><b>MCIWNDM_SETTIMEFORMATW</b></code>: Set Time Format (Unicode) <br/>
 <code><b>MCIWNDM_VALIDATEMEDIA</b></code>: Validate Media <br/>
@@ -735,10 +735,10 @@
 <code><b>TTM_GETTOOLINFOW</b></code>: Get Tool Information (Unicode) <br/>
 <code><b>TTM_HITTESTA</b></code>: Hit Test (ASCII) <br/>
 <code><b>TTM_HITTESTW</b></code>: Hit Test (Unicode) <br/>
-<code><b>TTM_NEWTOOLRECTA</b></code>: Tooltips -> New Tool <br/>
+<code><b>TTM_NEWTOOLRECTA</b></code>: New Tool <br/>
 <code><b>TTM_NEWTOOLRECTW</b></code>: New Tool Rectangle <br/>
 <code><b>TTM_POP</b></code>: Pop <br/>
-<code><b>TTM_RELAYEVENT</b></code>: Tooltips -> Relay Event <br/>
+<code><b>TTM_RELAYEVENT</b></code>: Relay Event <br/>
 <code><b>TTM_SETDELAYTIME</b></code>: Set Delay Time <br/>
 <code><b>TTM_SETMARGIN</b></code>: Set Margin <br/>
 <code><b>TTM_SETMAXTIPWIDTH</b></code>: Set Maximum Tip Width <br/>
@@ -800,20 +800,20 @@
 <code><b>WM_ASKCBFORMATNAME</b></code>: Ask Clipboard Format Name <br/>
 <code><b>WM_CANCELJOURNAL</b></code>: Cancel Journal <br/>
 <code><b>WM_CANCELMODE</b></code>: Cancel Mode <br/>
-<code><b>WM_CAPTURECHANGED</b></code>: Windows Capture -> Changed <br/>
-<code><b>WM_CAP_DRIVER_GET_NAMEW</b></code>: Windows Capture -> Driver Get Name (Unicode) <br/>
-<code><b>WM_CAP_DRIVER_GET_VERSIONW</b></code>: Windows Capture -> Driver Get Version (Unicode) <br/>
-<code><b>WM_CAP_FILE_GET_CAPTURE_FILEW</b></code>: Windows Capture -> File Get Capture <br/>
-<code><b>WM_CAP_FILE_SAVEASW</b></code>: Windows Capture -> File Save As (Unicode) <br/>
-<code><b>WM_CAP_FILE_SAVEDIBW</b></code>: Windows Capture -> File Save ... (Unicode) <br/>
-<code><b>WM_CAP_FILE_SET_CAPTURE_FILEW</b></code>: Windows Capture -> File Set Capture File (Unicode) <br/>
-<code><b>WM_CAP_GET_MCI_DEVICEW</b></code>: Windows Capture -> Get Media Control Interface Device (Unicode) <br/>
-<code><b>WM_CAP_PAL_OPENW</b></code>: Windows Capture -> Palette Open (Unicode) <br/>
-<code><b>WM_CAP_PAL_SAVEW</b></code>: Windows Capture -> Palette Save (Unicode) <br/>
-<code><b>WM_CAP_SET_CALLBACK_ERRORW</b></code>: Windows Capture -> Set Callback Error (Unicode) <br/>
-<code><b>WM_CAP_SET_CALLBACK_STATUSW</b></code>: Windows Capture -> Set Callback Status (Unicode) <br/>
-<code><b>WM_CAP_SET_MCI_DEVICEW</b></code>: Windows Capture -> Set Multimedia (MCI) Device (Unicode) <br/>
-<code><b>WM_CAP_UNICODE_START</b></code>: Windows Capture -> Unicode Start <br/>
+<code><b>WM_CAPTURECHANGED</b></code>: Capture <code>-></code> Changed <br/>
+<code><b>WM_CAP_DRIVER_GET_NAMEW</b></code>: Capture <code>-></code> Driver Get Name (Unicode) <br/>
+<code><b>WM_CAP_DRIVER_GET_VERSIONW</b></code>: Capture <code>-></code> Driver Get Version (Unicode) <br/>
+<code><b>WM_CAP_FILE_GET_CAPTURE_FILEW</b></code>: Capture <code>-></code> File Get Capture <br/>
+<code><b>WM_CAP_FILE_SAVEASW</b></code>: Capture <code>-></code> File Save As (Unicode) <br/>
+<code><b>WM_CAP_FILE_SAVEDIBW</b></code>: Capture <code>-></code> File Save ... (Unicode) <br/>
+<code><b>WM_CAP_FILE_SET_CAPTURE_FILEW</b></code>: Capture <code>-></code> File Set Capture File (Unicode) <br/>
+<code><b>WM_CAP_GET_MCI_DEVICEW</b></code>: Capture <code>-></code> Get Media Control Interface Device (Unicode) <br/>
+<code><b>WM_CAP_PAL_OPENW</b></code>: Capture <code>-></code> Palette Open (Unicode) <br/>
+<code><b>WM_CAP_PAL_SAVEW</b></code>: Capture <code>-></code> Palette Save (Unicode) <br/>
+<code><b>WM_CAP_SET_CALLBACK_ERRORW</b></code>: Capture <code>-></code> Set Callback Error (Unicode) <br/>
+<code><b>WM_CAP_SET_CALLBACK_STATUSW</b></code>: Capture <code>-></code> Set Callback Status (Unicode) <br/>
+<code><b>WM_CAP_SET_MCI_DEVICEW</b></code>: Capture <code>-></code> Set Multimedia (MCI) Device (Unicode) <br/>
+<code><b>WM_CAP_UNICODE_START</b></code>: Capture <code>-></code> Unicode Start <br/>
 <code><b>WM_CHANGECBCHAIN</b></code>: Change Control Box Chain <br/>
 <code><b>WM_CHANGEUISTATE</b></code>: Change User-Interface State <br/>
 <code><b>WM_CHAR</b></code>: Character <br/>
@@ -984,12 +984,12 @@
 <code><b>WM_POWERBROADCAST</b></code>: Power Broadcast <br/>
 <code><b>WM_PRINT</b></code>: Print <br/>
 <code><b>WM_PRINTCLIENT</b></code>: Print Client <br/>
-<code><b>WM_PSD_ENVSTAMPRECT</b></code>: Page Setup Dialog -> Envelope Stamp Rectangle <br/>
-<code><b>WM_PSD_FULLPAGERECT</b></code>: Page Setup Dialog -> Full Page Rectangle <br/>
-<code><b>WM_PSD_GREEKTEXTRECT</b></code>: Page Setup Dialog -> Greek Text Rectangle <br/>
-<code><b>WM_PSD_MARGINRECT</b></code>: Page Setup Dialog -> Margin Rectangle <br/>
-<code><b>WM_PSD_MINMARGINRECT</b></code>: Page Setup Dialog -> Minimum Margin Rectangle <br/>
-<code><b>WM_PSD_PAGESETUPDLG</b></code>: Page Setup Dialog -> Page Setup Dialog <br/>
+<code><b>WM_PSD_ENVSTAMPRECT</b></code>: Page Setup Dialog <code>-></code> Envelope Stamp Rectangle <br/>
+<code><b>WM_PSD_FULLPAGERECT</b></code>: Page Setup Dialog <code>-></code> Full Page Rectangle <br/>
+<code><b>WM_PSD_GREEKTEXTRECT</b></code>: Page Setup Dialog <code>-></code> Greek Text Rectangle <br/>
+<code><b>WM_PSD_MARGINRECT</b></code>: Page Setup Dialog <code>-></code> Margin Rectangle <br/>
+<code><b>WM_PSD_MINMARGINRECT</b></code>: Page Setup Dialog <code>-></code> Minimum Margin Rectangle <br/>
+<code><b>WM_PSD_PAGESETUPDLG</b></code>: Page Setup Dialog <code>-></code> Page Setup Dialog <br/>
 <code><b>WM_PSD_YAFULLPAGERECT</b></code>: Page Setup Dialog Full Page <br/>
 <code><b>WM_QUERYDRAGICON</b></code>: Query Drag Icon <br/>
 <code><b>WM_QUERYENDSESSION</b></code>: Query End Session <br/>
