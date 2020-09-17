@@ -1,15 +1,15 @@
 <h3> <u> Animation Control </u> </h3>
 <code><b>ACM_OPENA</b></code>: Open (ASCII) <br/>
-<code><b>ACM_OPENW</b></code>: Open (Wide) <br/>
+<code><b>ACM_OPENW</b></code>: Open (Unicode) <br/>
 <code><b>ACM_PLAY</b></code>: Play <br/>
 <code><b>ACM_STOP</b></code>: Stop <br/>
 <hr/>
 <h3> <u> Browse for Folder </u> </h3>
 <code><b>BFFM_ENABLEOK</b></code>: Enable OK <br/>
 <code><b>BFFM_SETSELECTIONA</b></code>: Set Selection (ASCII) <br/>
-<code><b>BFFM_SETSELECTIONW</b></code>: Set Selection (Wide) <br/>
+<code><b>BFFM_SETSELECTIONW</b></code>: Set Selection (Unicode) <br/>
 <code><b>BFFM_SETSTATUSTEXTA</b></code>: Set Status Text (ASCII) <br/>
-<code><b>BFFM_SETSTATUSTEXTW</b></code>: Set Status Text (Wide) <br/>
+<code><b>BFFM_SETSTATUSTEXTW</b></code>: Set Status Text (Unicode) <br/>
 <hr/>
 <h3> <u> Button </u> </h3>
 <code><b>BM_CLICK</b></code>: Click <br/>
@@ -28,14 +28,14 @@
 <code><b>CBEM_GETEXSTYLE (CBEM_GETEXTENDEDSTYLE)</b></code>: Get Extended Style <br/>
 <code><b>CBEM_GETIMAGELIST</b></code>: Get Image List <br/>
 <code><b>CBEM_GETITEMA</b></code>: Get Item (ASCII) <br/>
-<code><b>CBEM_GETITEMW</b></code>: Get Item (Wide) <br/>
+<code><b>CBEM_GETITEMW</b></code>: Get Item (Unicode) <br/>
 <code><b>CBEM_HASEDITCHANGED</b></code>: Has Edit Changed <br/>
 <code><b>CBEM_INSERTITEMA</b></code>: Insert Item (ASCII) <br/>
-<code><b>CBEM_INSERTITEMW</b></code>: Insert Item (Wide) <br/>
+<code><b>CBEM_INSERTITEMW</b></code>: Insert Item (Unicode) <br/>
 <code><b>CBEM_SETEXSTYLE (CBEM_SETEXTENDEDSTYLE)</b></code>: Set Extended Style <br/>
 <code><b>CBEM_SETIMAGELIST</b></code>: Set Image List <br/>
 <code><b>CBEM_SETITEMA</b></code>: Set Item (ASCII) <br/>
-<code><b>CBEM_SETITEMW</b></code>: Set Item (Wide) <br/>
+<code><b>CBEM_SETITEMW</b></code>: Set Item (Unicode) <br/>
 <hr/>
 <h3> <u> Common Dialog </u> </h3>
 <code><b>CDM_GETFILEPATH</b></code>: Get File Path <br/>
@@ -82,7 +82,7 @@
 <code><b>EM_FINDTEXT</b></code>: Find Text <br/>
 <code><b>EM_FINDTEXTEX</b></code>: Find Text (Extended) <br/>
 <code><b>EM_FINDTEXTEXW</b></code>: Find Text (Extended, Wide) <br/>
-<code><b>EM_FINDTEXTW</b></code>: Find Text (Wide) <br/>
+<code><b>EM_FINDTEXTW</b></code>: Find Text (Unicode) <br/>
 <code><b>EM_FINDWORDBREAK</b></code>: Find Word Break <br/>
 <code><b>EM_FMTLINES</b></code>: Format Lines <br/>
 <code><b>EM_FORMATRANGE</b></code>: Format Range <br/>
@@ -203,11 +203,11 @@
 <hr/>
 <h3> <u> File Manager </u> </h3>
 <code><b>FM_GETDRIVEINFOA</b></code>: Get Drive Information (ASCII) <br/>
-<code><b>FM_GETDRIVEINFOW</b></code>: Get Drive Information (Wide) <br/>
+<code><b>FM_GETDRIVEINFOW</b></code>: Get Drive Information (Unicode) <br/>
 <code><b>FM_GETFILESELA</b></code>: Get File Selection (ASCII) <br/>
 <code><b>FM_GETFILESELLFNA</b></code>: Get File Selection Function (ASCII) <br/>
-<code><b>FM_GETFILESELLFNW</b></code>: Get File Selection Function (Wide) <br/>
-<code><b>FM_GETFILESELW</b></code>: Get File Selection (Wide) <br/>
+<code><b>FM_GETFILESELLFNW</b></code>: Get File Selection Function (Unicode) <br/>
+<code><b>FM_GETFILESELW</b></code>: Get File Selection (Unicode) <br/>
 <code><b>FM_GETFOCUS</b></code>: Get Focus <br/>
 <code><b>FM_GETSELCOUNT</b></code>: Selection Count <br/>
 <code><b>FM_GETSELCOUNTLFN</b></code>: Selection Count ... <br/>
@@ -280,18 +280,18 @@
 <code><b>LVM_DELETECOLUMN</b></code>: Delete Column <br/>
 <code><b>LVM_DELETEITEM</b></code>: Delete Item <br/>
 <code><b>LVM_EDITLABELA</b></code>: Edit Label (ASCII) <br/>
-<code><b>LVM_EDITLABELW</b></code>: Edit Label (Wide) <br/>
+<code><b>LVM_EDITLABELW</b></code>: Edit Label (Unicode) <br/>
 <code><b>LVM_ENABLEGROUPVIEW</b></code>: Enable Group View <br/>
 <code><b>LVM_ENSUREVISIBLE</b></code>: Ensure Visible <br/>
 <code><b>LVM_FINDITEMA</b></code>: Find Item (ASCII) <br/>
-<code><b>LVM_FINDITEMW</b></code>: Find Item (Wide) <br/>
+<code><b>LVM_FINDITEMW</b></code>: Find Item (Unicode) <br/>
 <code><b>LVM_GETBKCOLOR (LVM_FIRST)</b></code>: Get Background Color <br/>
 <code><b>LVM_GETBKIMAGEA</b></code>: Get Background Image (ASCII) <br/>
-<code><b>LVM_GETBKIMAGEW</b></code>: Get Background Image (Wide) <br/>
+<code><b>LVM_GETBKIMAGEW</b></code>: Get Background Image (Unicode) <br/>
 <code><b>LVM_GETCALLBACKMASK</b></code>: Get Call Back Mask <br/>
 <code><b>LVM_GETCOLUMNA</b></code>: Get Column (ASCII) <br/>
 <code><b>LVM_GETCOLUMNORDERARRAY</b></code>: Get Column Order Array <br/>
-<code><b>LVM_GETCOLUMNW</b></code>: Get Column (Wide) <br/>
+<code><b>LVM_GETCOLUMNW</b></code>: Get Column (Unicode) <br/>
 <code><b>LVM_GETCOLUMNWIDTH</b></code>: Get Column Width <br/>
 <code><b>LVM_GETCOUNTPERPAGE</b></code>: Get Count per Page <br/>
 <code><b>LVM_GETEDITCONTROL</b></code>: Get Edit Control <br/>
@@ -307,7 +307,7 @@
 <code><b>LVM_GETINSERTMARKCOLOR</b></code>: Get Insert Mark Color <br/>
 <code><b>LVM_GETINSERTMARKRECT</b></code>: Get Insert Mark Rectangle <br/>
 <code><b>LVM_GETISEARCHSTRINGA</b></code>: Get Incremental Search String (ASCII) <br/>
-<code><b>LVM_GETISEARCHSTRINGW</b></code>: Get Incremental Search String (Wide) <br/>
+<code><b>LVM_GETISEARCHSTRINGW</b></code>: Get Incremental Search String (Unicode) <br/>
 <code><b>LVM_GETITEMA</b></code>: Get Item (ASCII) <br/>
 <code><b>LVM_GETITEMCOUNT</b></code>: Get Item Count <br/>
 <code><b>LVM_GETITEMPOSITION</b></code>: Get Item Position <br/>
@@ -315,8 +315,8 @@
 <code><b>LVM_GETITEMSPACING</b></code>: Get Item Spacing <br/>
 <code><b>LVM_GETITEMSTATE</b></code>: Get Item State <br/>
 <code><b>LVM_GETITEMTEXTA</b></code>: Get Item Text (ASCII) <br/>
-<code><b>LVM_GETITEMTEXTW</b></code>: Get Item Text (Wide) <br/>
-<code><b>LVM_GETITEMW</b></code>: Get Item (Wide) <br/>
+<code><b>LVM_GETITEMTEXTW</b></code>: Get Item Text (Unicode) <br/>
+<code><b>LVM_GETITEMW</b></code>: Get Item (Unicode) <br/>
 <code><b>LVM_GETNEXTITEM</b></code>: Get Next Item <br/>
 <code><b>LVM_GETNUMBEROFWORKAREAS</b></code>: Get Number of Work Areas <br/>
 <code><b>LVM_GETORIGIN</b></code>: Get Origin <br/>
@@ -325,7 +325,7 @@
 <code><b>LVM_GETSELECTEDCOUNT</b></code>: Get Selected Count <br/>
 <code><b>LVM_GETSELECTIONMARK</b></code>: Get Selection Mark <br/>
 <code><b>LVM_GETSTRINGWIDTHA</b></code>: Get String Width (ASCII) <br/>
-<code><b>LVM_GETSTRINGWIDTHW</b></code>: Get String Width (Wide) <br/>
+<code><b>LVM_GETSTRINGWIDTHW</b></code>: Get String Width (Unicode) <br/>
 <code><b>LVM_GETSUBITEMRECT</b></code>: Get Sub-Item Rectangle <br/>
 <code><b>LVM_GETTEXTBKCOLOR</b></code>: Get Text Background Color <br/>
 <code><b>LVM_GETTEXTCOLOR</b></code>: Get Text Color <br/>
@@ -340,11 +340,11 @@
 <code><b>LVM_HASGROUP</b></code>: Has Group <br/>
 <code><b>LVM_HITTEST</b></code>: Hit Test <br/>
 <code><b>LVM_INSERTCOLUMNA</b></code>: Insert Column (ASCII) <br/>
-<code><b>LVM_INSERTCOLUMNW</b></code>: Insert Column (Wide) <br/>
+<code><b>LVM_INSERTCOLUMNW</b></code>: Insert Column (Unicode) <br/>
 <code><b>LVM_INSERTGROUP</b></code>: Insert Group <br/>
 <code><b>LVM_INSERTGROUPSORTED</b></code>: Insert Group Sorted <br/>
 <code><b>LVM_INSERTITEMA</b></code>: Insert Item (ASCII) <br/>
-<code><b>LVM_INSERTITEMW</b></code>: Insert Item (Wide) <br/>
+<code><b>LVM_INSERTITEMW</b></code>: Insert Item (Unicode) <br/>
 <code><b>LVM_INSERTMARKHITTEST</b></code>: Insert Mark Hit Test <br/>
 <code><b>LVM_ISGROUPVIEWENABLED</b></code>: Is Group View Enabled <br/>
 <code><b>LVM_ISITEMVISIBLE</b></code>: Is Item Visible <br/>
@@ -361,7 +361,7 @@
 <code><b>LVM_SETCALLBACKMASK</b></code>: Set Callback Mask <br/>
 <code><b>LVM_SETCOLUMNA</b></code>: Set Column (ASCII) <br/>
 <code><b>LVM_SETCOLUMNORDERARRAY</b></code>: Set Column Order Array <br/>
-<code><b>LVM_SETCOLUMNW</b></code>: Set Column (Wide) <br/>
+<code><b>LVM_SETCOLUMNW</b></code>: Set Column (Unicode) <br/>
 <code><b>LVM_SETCOLUMNWIDTH</b></code>: Set Column Width <br/>
 <code><b>LVM_SETEXTENDEDLISTVIEWSTYLE</b></code>: Set Extended List View Style <br/>
 <code><b>LVM_SETGROUPINFO</b></code>: Set Group Information <br/>
@@ -380,7 +380,7 @@
 <code><b>LVM_SETITEMPOSITION</b></code>: Set Item Position <br/>
 <code><b>LVM_SETITEMSTATE</b></code>: Set Item State <br/>
 <code><b>LVM_SETITEMTEXTA</b></code>: Set Item Text (ASCII) <br/>
-<code><b>LVM_SETITEMTEXTW</b></code>: Set Item Text (Wide) <br/>
+<code><b>LVM_SETITEMTEXTW</b></code>: Set Item Text (Unicode) <br/>
 <code><b>LVM_SETITEMW</b></code>: Set Item <br/>
 <code><b>LVM_SETOUTLINECOLOR</b></code>: Set Outline Color <br/>
 <code><b>LVM_SETSELECTEDCOLUMN</b></code>: Set Selected Column <br/>
@@ -407,11 +407,11 @@
 <code><b>MCIWNDM_CAN_SAVE</b></code>: Can Save <br/>
 <code><b>MCIWNDM_CAN_WINDOW</b></code>: Can Window <br/>
 <code><b>MCIWNDM_GETDEVICEA</b></code>: Get Device (ASCII) <br/>
-<code><b>MCIWNDM_GETDEVICEW</b></code>: Get Device (Wide) <br/>
+<code><b>MCIWNDM_GETDEVICEW</b></code>: Get Device (Unicode) <br/>
 <code><b>MCIWNDM_GETERRORA</b></code>: Get Error (ASCII) <br/>
-<code><b>MCIWNDM_GETERRORW</b></code>: Get Error (Wide) <br/>
+<code><b>MCIWNDM_GETERRORW</b></code>: Get Error (Unicode) <br/>
 <code><b>MCIWNDM_GETFILENAMEA</b></code>: Get File Name (ASCII) <br/>
-<code><b>MCIWNDM_GETFILENAMEW</b></code>: Get File Name (Wide) <br/>
+<code><b>MCIWNDM_GETFILENAMEW</b></code>: Get File Name (Unicode) <br/>
 <code><b>MCIWNDM_GETINACTIVETIMER</b></code>: Multimedia MCI Window -> Get Inactive Timer <br/>
 <code><b>MCIWNDM_GETPALETTE</b></code>: Get Palette <br/>
 <code><b>MCIWNDM_GETTIMEFORMATA</b></code>: Get Time Format (ASCII) <br/>
@@ -429,7 +429,7 @@
 <code><b>MCIWNDM_SETINACTIVETIMER</b></code>: Set Inactive Timer <br/>
 <code><b>MCIWNDM_SETPALETTE</b></code>: Multimedia MCI Window -> Set Palette <br/>
 <code><b>MCIWNDM_SETTIMEFORMATA</b></code>: Set Time Format (ASCII) <br/>
-<code><b>MCIWNDM_SETTIMEFORMATW</b></code>: Set Time Format (Wide) <br/>
+<code><b>MCIWNDM_SETTIMEFORMATW</b></code>: Set Time Format (Unicode) <br/>
 <code><b>MCIWNDM_VALIDATEMEDIA</b></code>: Validate Media <br/>
 <hr/>
 <h3> <u> ... </u> </h3>
@@ -501,13 +501,13 @@
 <code><b>PSM_SETCURSELID</b></code>: Set Current Selection Identity <br/>
 <code><b>PSM_SETFINISHTEXTA</b></code>: Set Finish Text (ASCII) <br/>
 <code><b>PSM_SETFINISHTEXTA</b></code>: Set Finish Text (ASCII) <br/>
-<code><b>PSM_SETFINISHTEXTW</b></code>: Set Finish Text (Wide) <br/>
+<code><b>PSM_SETFINISHTEXTW</b></code>: Set Finish Text (Unicode) <br/>
 <code><b>PSM_SETHEADERSUBTITLEA</b></code>: Set Header Subtitle (ASCII) <br/>
-<code><b>PSM_SETHEADERSUBTITLEW</b></code>: Set Header Subtitle (Wide) <br/>
+<code><b>PSM_SETHEADERSUBTITLEW</b></code>: Set Header Subtitle (Unicode) <br/>
 <code><b>PSM_SETHEADERTITLEA</b></code>: Set Header Title (ASCII) <br/>
-<code><b>PSM_SETHEADERTITLEW</b></code>: Set Header Title (Wide) <br/>
+<code><b>PSM_SETHEADERTITLEW</b></code>: Set Header Title (Unicode) <br/>
 <code><b>PSM_SETTITLEA</b></code>: Set Title (ASCII) <br/>
-<code><b>PSM_SETTITLEW</b></code>: Set Title (Wide) <br/>
+<code><b>PSM_SETTITLEW</b></code>: Set Title (Unicode) <br/>
 <code><b>PSM_SETWIZBUTTONS</b></code>: Set Wizard Buttons <br/>
 <code><b>PSM_UNCHANGED</b></code>: Unchanged <br/>
 <hr/>
@@ -519,7 +519,7 @@
 <code><b>RB_GETBANDBORDERS</b></code>: Get Band Borders <br/>
 <code><b>RB_GETBANDCOUNT</b></code>: Get Band Count <br/>
 <code><b>RB_GETBANDINFOA</b></code>: Get Band Information (ASCII) <br/>
-<code><b>RB_GETBANDINFOW</b></code>: Get Band Information (Wide) <br/>
+<code><b>RB_GETBANDINFOW</b></code>: Get Band Information (Unicode) <br/>
 <code><b>RB_GETBARHEIGHT</b></code>: Get Bar Height <br/>
 <code><b>RB_GETBARINFO</b></code>: Get Bar Information <br/>
 <code><b>RB_GETBKCOLOR</b></code>: Get Background Color <br/>
@@ -532,13 +532,13 @@
 <code><b>RB_HITTEST</b></code>: Hit Test <br/>
 <code><b>RB_IDTOINDEX</b></code>: Identity to Index <br/>
 <code><b>RB_INSERTBANDA</b></code>: Insert Band (ASCII) <br/>
-<code><b>RB_INSERTBANDW</b></code>: Insert Band (Wide) <br/>
+<code><b>RB_INSERTBANDW</b></code>: Insert Band (Unicode) <br/>
 <code><b>RB_MAXIMIZEBAND</b></code>: Maximize Band <br/>
 <code><b>RB_MINIMIZEBAND</b></code>: Minimize Band <br/>
 <code><b>RB_MOVEBAND</b></code>: Move Band <br/>
 <code><b>RB_PUSHCHEVRON</b></code>: Push Chevron <br/>
 <code><b>RB_SETBANDINFOA</b></code>: Set Band Information (ASCII) <br/>
-<code><b>RB_SETBANDINFOW</b></code>: Set Band Information (Wide) <br/>
+<code><b>RB_SETBANDINFOW</b></code>: Set Band Information (Unicode) <br/>
 <code><b>RB_SETBARINFO</b></code>: Set Bar Information <br/>
 <code><b>RB_SETBKCOLOR</b></code>: Set Background Color <br/>
 <code><b>RB_SETPALETTE</b></code>: Set Palette <br/>
@@ -564,27 +564,27 @@
 <code><b>SB_GETRECT</b></code>: Get Rectangle <br/>
 <code><b>SB_GETTEXTA</b></code>: Get Text (ASCII) <br/>
 <code><b>SB_GETTEXTLENGTHA</b></code>: Get Text Length (ASCII) <br/>
-<code><b>SB_GETTEXTLENGTHW</b></code>: Get Text Length (Wide) <br/>
-<code><b>SB_GETTEXTW</b></code>: Get Text (Wide) <br/>
+<code><b>SB_GETTEXTLENGTHW</b></code>: Get Text Length (Unicode) <br/>
+<code><b>SB_GETTEXTW</b></code>: Get Text (Unicode) <br/>
 <code><b>SB_GETTIPTEXTA</b></code>: Get Tip Text (ASCII) <br/>
-<code><b>SB_GETTIPTEXTW</b></code>: Get Tip Text (Wide) <br/>
+<code><b>SB_GETTIPTEXTW</b></code>: Get Tip Text (Unicode) <br/>
 <code><b>SB_ISSIMPLE</b></code>: Is Simple <br/>
 <code><b>SB_SETICON</b></code>: Set Icon <br/>
 <code><b>SB_SETMINHEIGHT</b></code>: Set Minimum Height <br/>
 <code><b>SB_SETPARTS</b></code>: Set Parts <br/>
 <code><b>SB_SETTEXTA</b></code>: Set Text (ASCII) <br/>
-<code><b>SB_SETTEXTW</b></code>: Set Text (Wide) <br/>
+<code><b>SB_SETTEXTW</b></code>: Set Text (Unicode) <br/>
 <code><b>SB_SETTIPTEXTA</b></code>: Set Tip Text (ASCII) <br/>
-<code><b>SB_SETTIPTEXTW</b></code>: Set Tip Text (Wide) <br/>
+<code><b>SB_SETTIPTEXTW</b></code>: Set Tip Text (Unicode) <br/>
 <code><b>SB_SIMPLE</b></code>: Simple <br/>
 <hr/>
 <h3> <u> Storage Management </u> </h3>
 <code><b>SM_GETCURFOCUSA</b></code>: Get Current Focus (ASCII) <br/>
-<code><b>SM_GETCURFOCUSW</b></code>: Get Current Focus (Wide) <br/>
+<code><b>SM_GETCURFOCUSW</b></code>: Get Current Focus (Unicode) <br/>
 <code><b>SM_GETOPTIONS</b></code>: Get Options <br/>
 <code><b>SM_GETSELCOUNT</b></code>: Get Selection Count <br/>
 <code><b>SM_GETSERVERSELA</b></code>: Get Server Selection (ASCII) <br/>
-<code><b>SM_GETSERVERSELW</b></code>: Get Server Selection (Wide) <br/>
+<code><b>SM_GETSERVERSELW</b></code>: Get Server Selection (Unicode) <br/>
 <hr/>
 <h3> <u> Telephony API </u> </h3>
 <code><b>TAPI_REPLY</b></code>: Reply <br/>
@@ -627,9 +627,9 @@
 <h3> <u> Toolbar </u> </h3>
 <code><b>TB_ADDBITMAP</b></code>: Add Bitmap <br/>
 <code><b>TB_ADDBUTTONSA</b></code>: Add Buttons (ASCII) <br/>
-<code><b>TB_ADDBUTTONSW</b></code>: Add Buttons (Wide) <br/>
+<code><b>TB_ADDBUTTONSW</b></code>: Add Buttons (Unicode) <br/>
 <code><b>TB_ADDSTRINGA</b></code>: Add String (ASCII) <br/>
-<code><b>TB_ADDSTRINGW</b></code>: Add String (Wide) <br/>
+<code><b>TB_ADDSTRINGW</b></code>: Add String (Unicode) <br/>
 <code><b>TB_AUTOSIZE</b></code>: Auto Size <br/>
 <code><b>TB_BUTTONCOUNT</b></code>: Button Count <br/>
 <code><b>TB_BUTTONSTRUCTSIZE</b></code>: Button Structure Size <br/>
@@ -644,10 +644,10 @@
 <code><b>TB_GETBITMAPFLAGS</b></code>: Get Bitmap Flags <br/>
 <code><b>TB_GETBUTTON</b></code>: Get Button <br/>
 <code><b>TB_GETBUTTONINFOA</b></code>: Get Button Information (ASCII) <br/>
-<code><b>TB_GETBUTTONINFOW</b></code>: Get Button Information (Wide) <br/>
+<code><b>TB_GETBUTTONINFOW</b></code>: Get Button Information (Unicode) <br/>
 <code><b>TB_GETBUTTONSIZE</b></code>: Get Button Size <br/>
 <code><b>TB_GETBUTTONTEXTA</b></code>: Get Button Text (ASCII) <br/>
-<code><b>TB_GETBUTTONTEXTW</b></code>: Get Button Text (Wide) <br/>
+<code><b>TB_GETBUTTONTEXTW</b></code>: Get Button Text (Unicode) <br/>
 <code><b>TB_GETDISABLEDIMAGELIST</b></code>: Get Disabled Image List <br/>
 <code><b>TB_GETEXTENDEDSTYLE</b></code>: Get Extended Style <br/>
 <code><b>TB_GETHOTIMAGELIST</b></code>: Get Hot Image List <br/>
@@ -663,7 +663,7 @@
 <code><b>TB_GETROWS</b></code>: Get Rows <br/>
 <code><b>TB_GETSTATE</b></code>: Get State <br/>
 <code><b>TB_GETSTRINGA</b></code>: Get String (ASCII) <br/>
-<code><b>TB_GETSTRINGW</b></code>: Get String (Wide) <br/>
+<code><b>TB_GETSTRINGW</b></code>: Get String (Unicode) <br/>
 <code><b>TB_GETSTYLE</b></code>: Get Style <br/>
 <code><b>TB_GETTEXTROWS</b></code>: Get Text Rows <br/>
 <code><b>TB_GETTOOLTIPS</b></code>: Get Tooltips <br/>
@@ -671,7 +671,7 @@
 <code><b>TB_HITTEST</b></code>: Hit Test <br/>
 <code><b>TB_INDETERMINATE</b></code>: Indeterminate <br/>
 <code><b>TB_INSERTBUTTONA</b></code>: Insert Button (ASCII) <br/>
-<code><b>TB_INSERTBUTTONW</b></code>: Insert Button (Wide) <br/>
+<code><b>TB_INSERTBUTTONW</b></code>: Insert Button (Unicode) <br/>
 <code><b>TB_INSERTMARKHITTEST</b></code>: Insert Mark Hit Test <br/>
 <code><b>TB_ISBUTTONCHECKED</b></code>: Is Button Checked <br/>
 <code><b>TB_ISBUTTONENABLED</b></code>: Is Button Enabled <br/>
@@ -681,17 +681,17 @@
 <code><b>TB_ISBUTTONPRESSED</b></code>: Is Button Pressed <br/>
 <code><b>TB_LOADIMAGES</b></code>: Load Images <br/>
 <code><b>TB_MAPACCELERATORA</b></code>: Map Accelerator (ASCII) <br/>
-<code><b>TB_MAPACCELERATORW</b></code>: Map Acceleratr (Wide) <br/>
+<code><b>TB_MAPACCELERATORW</b></code>: Map Acceleratr (Unicode) <br/>
 <code><b>TB_MARKBUTTON</b></code>: Mark Button <br/>
 <code><b>TB_MOVEBUTTON</b></code>: Move Button <br/>
 <code><b>TB_PRESSBUTTON</b></code>: Press Button <br/>
 <code><b>TB_REPLACEBITMAP</b></code>: Replace Bitmap <br/>
 <code><b>TB_SAVERESTOREA</b></code>: Save Restore (ASCII) <br/>
-<code><b>TB_SAVERESTOREW</b></code>: Save Restore (Wide) <br/>
+<code><b>TB_SAVERESTOREW</b></code>: Save Restore (Unicode) <br/>
 <code><b>TB_SETANCHORHIGHLIGHT</b></code>: Set Anchor Highlight <br/>
 <code><b>TB_SETBITMAPSIZE</b></code>: Set Bitmap Size <br/>
 <code><b>TB_SETBUTTONINFOA</b></code>: Set Button Information (ASCII) <br/>
-<code><b>TB_SETBUTTONINFOW</b></code>: Set Button Information (Wide) <br/>
+<code><b>TB_SETBUTTONINFOW</b></code>: Set Button Information (Unicode) <br/>
 <code><b>TB_SETBUTTONSIZE</b></code>: Set Button Size <br/>
 <code><b>TB_SETBUTTONWIDTH</b></code>: Set Button Width <br/>
 <code><b>TB_SETCMDID</b></code>: Set Command Identifier <br/>
@@ -717,24 +717,24 @@
 <code><b>TTM_ADDTOOLA</b></code>: Add Tool <br/>
 <code><b>TTM_ADJUSTRECT</b></code>: Adjust Rectangle <br/>
 <code><b>TTM_DELTOOLA</b></code>: Delete Tool (ASCII) <br/>
-<code><b>TTM_DELTOOLW</b></code>: Delete Tool (Wide) <br/>
+<code><b>TTM_DELTOOLW</b></code>: Delete Tool (Unicode) <br/>
 <code><b>TTM_ENUMTOOLSA</b></code>: Enumerate Tools (ASCII) <br/>
-<code><b>TTM_ENUMTOOLSW</b></code>: Enumerate Tools (Wide) <br/>
+<code><b>TTM_ENUMTOOLSW</b></code>: Enumerate Tools (Unicode) <br/>
 <code><b>TTM_GETBUBBLESIZE</b></code>: Get Bubble Size <br/>
 <code><b>TTM_GETCURRENTTOOLA</b></code>: Get Current Tool (ASCII) <br/>
-<code><b>TTM_GETCURRENTTOOLW</b></code>: Get Current Tool (Wide) <br/>
+<code><b>TTM_GETCURRENTTOOLW</b></code>: Get Current Tool (Unicode) <br/>
 <code><b>TTM_GETDELAYTIME</b></code>: Get Delay Time <br/>
 <code><b>TTM_GETMARGIN</b></code>: Get Margin <br/>
 <code><b>TTM_GETMAXTIPWIDTH</b></code>: Get Maximum Tip Width <br/>
 <code><b>TTM_GETTEXTA</b></code>: Get Text (ASCII) <br/>
-<code><b>TTM_GETTEXTW</b></code>: Get Text (Wide) <br/>
+<code><b>TTM_GETTEXTW</b></code>: Get Text (Unicode) <br/>
 <code><b>TTM_GETTIPBKCOLOR</b></code>: Get Tip Background Color <br/>
 <code><b>TTM_GETTIPTEXTCOLOR</b></code>: Get Tip Text Color <br/>
 <code><b>TTM_GETTOOLCOUNT</b></code>: Get Tool Count <br/>
 <code><b>TTM_GETTOOLINFOA</b></code>: Get Tool Information (ASCII) <br/>
-<code><b>TTM_GETTOOLINFOW</b></code>: Get Tool Information (Wide) <br/>
+<code><b>TTM_GETTOOLINFOW</b></code>: Get Tool Information (Unicode) <br/>
 <code><b>TTM_HITTESTA</b></code>: Hit Test (ASCII) <br/>
-<code><b>TTM_HITTESTW</b></code>: Hit Test (Wide) <br/>
+<code><b>TTM_HITTESTW</b></code>: Hit Test (Unicode) <br/>
 <code><b>TTM_NEWTOOLRECTA</b></code>: Tooltips -> New Tool <br/>
 <code><b>TTM_NEWTOOLRECTW</b></code>: New Tool Rectangle <br/>
 <code><b>TTM_POP</b></code>: Pop <br/>
@@ -745,14 +745,14 @@
 <code><b>TTM_SETTIPBKCOLOR</b></code>: Set Tip Background Color <br/>
 <code><b>TTM_SETTIPTEXTCOLOR</b></code>: Set Tip Text Color <br/>
 <code><b>TTM_SETTITLEA</b></code>: Set Title (ASCII) <br/>
-<code><b>TTM_SETTITLEW</b></code>: Set Title (Wide) <br/>
+<code><b>TTM_SETTITLEW</b></code>: Set Title (Unicode) <br/>
 <code><b>TTM_SETTOOLINFOA</b></code>: Set Tool Information (ASCII) <br/>
-<code><b>TTM_SETTOOLINFOW</b></code>: Set Tool Information (Wide) <br/>
+<code><b>TTM_SETTOOLINFOW</b></code>: Set Tool Information (Unicode) <br/>
 <code><b>TTM_TRACKACTIVATE</b></code>: Track Activate <br/>
 <code><b>TTM_TRACKPOSITION</b></code>: Track Position <br/>
 <code><b>TTM_UPDATE</b></code>: Update <br/>
 <code><b>TTM_UPDATETIPTEXTA</b></code>: Update Tip Text (ASCII) <br/>
-<code><b>TTM_UPDATETIPTEXTW</b></code>: Update Tip Text (Wide) <br/>
+<code><b>TTM_UPDATETIPTEXTW</b></code>: Update Tip Text (Unicode) <br/>
 <code><b>TTM_WINDOWFROMPOINT</b></code>: Window From Point <br/>
 <hr/>
 <h3> <u> Up-Down Control </u> </h3>
@@ -773,14 +773,14 @@
 <hr/>
 <h3> <u> User Manager </u> </h3>
 <code><b>UM_GETCURFOCUSA</b></code>: Get Current Focus (ASCII) <br/>
-<code><b>UM_GETCURFOCUSW</b></code>: Get Current Focus (Wide) <br/>
+<code><b>UM_GETCURFOCUSW</b></code>: Get Current Focus (Unicode) <br/>
 <code><b>UM_GETGROUPSELA</b></code>: Get Group Selection (ASCII) <br/>
-<code><b>UM_GETGROUPSELW</b></code>: Get Group Selection (Wide) <br/>
+<code><b>UM_GETGROUPSELW</b></code>: Get Group Selection (Unicode) <br/>
 <code><b>UM_GETOPTIONS2</b></code>: Get Options (Structure) <br/>
 <code><b>UM_GETOPTIONS</b></code>: Get Options <br/>
 <code><b>UM_GETSELCOUNT</b></code>: Get Selection Count <br/>
 <code><b>UM_GETUSERSELA</b></code>: Get User Selection (ASCII) <br/>
-<code><b>UM_GETUSERSELW</b></code>: Get User Selection (Wide) <br/>
+<code><b>UM_GETUSERSELW</b></code>: Get User Selection (Unicode) <br/>
 <hr/>
 <h3> <u> Wizard </u> </h3>
 <code><b>WIZ_NEXT</b></code>: Next <br/>
@@ -801,18 +801,18 @@
 <code><b>WM_CANCELJOURNAL</b></code>: Cancel Journal <br/>
 <code><b>WM_CANCELMODE</b></code>: Cancel Mode <br/>
 <code><b>WM_CAPTURECHANGED</b></code>: Windows Capture -> Changed <br/>
-<code><b>WM_CAP_DRIVER_GET_NAMEW</b></code>: Windows Capture -> Driver Get Name (Wide) <br/>
-<code><b>WM_CAP_DRIVER_GET_VERSIONW</b></code>: Windows Capture -> Driver Get Version (Wide) <br/>
+<code><b>WM_CAP_DRIVER_GET_NAMEW</b></code>: Windows Capture -> Driver Get Name (Unicode) <br/>
+<code><b>WM_CAP_DRIVER_GET_VERSIONW</b></code>: Windows Capture -> Driver Get Version (Unicode) <br/>
 <code><b>WM_CAP_FILE_GET_CAPTURE_FILEW</b></code>: Windows Capture -> File Get Capture <br/>
-<code><b>WM_CAP_FILE_SAVEASW</b></code>: Windows Capture -> File Save As (Wide) <br/>
-<code><b>WM_CAP_FILE_SAVEDIBW</b></code>: Windows Capture -> File Save ... (Wide) <br/>
-<code><b>WM_CAP_FILE_SET_CAPTURE_FILEW</b></code>: Windows Capture -> File Set Capture File (Wide) <br/>
-<code><b>WM_CAP_GET_MCI_DEVICEW</b></code>: Windows Capture -> Get Media Control Interface Device (Wide) <br/>
-<code><b>WM_CAP_PAL_OPENW</b></code>: Windows Capture -> Palette Open (Wide) <br/>
-<code><b>WM_CAP_PAL_SAVEW</b></code>: Windows Capture -> Palette Save (Wide) <br/>
-<code><b>WM_CAP_SET_CALLBACK_ERRORW</b></code>: Windows Capture -> Set Callback Error (Wide) <br/>
-<code><b>WM_CAP_SET_CALLBACK_STATUSW</b></code>: Windows Capture -> Set Callback Status (Wide) <br/>
-<code><b>WM_CAP_SET_MCI_DEVICEW</b></code>: Windows Capture -> Set Multimedia (MCI) Device (Wide) <br/>
+<code><b>WM_CAP_FILE_SAVEASW</b></code>: Windows Capture -> File Save As (Unicode) <br/>
+<code><b>WM_CAP_FILE_SAVEDIBW</b></code>: Windows Capture -> File Save ... (Unicode) <br/>
+<code><b>WM_CAP_FILE_SET_CAPTURE_FILEW</b></code>: Windows Capture -> File Set Capture File (Unicode) <br/>
+<code><b>WM_CAP_GET_MCI_DEVICEW</b></code>: Windows Capture -> Get Media Control Interface Device (Unicode) <br/>
+<code><b>WM_CAP_PAL_OPENW</b></code>: Windows Capture -> Palette Open (Unicode) <br/>
+<code><b>WM_CAP_PAL_SAVEW</b></code>: Windows Capture -> Palette Save (Unicode) <br/>
+<code><b>WM_CAP_SET_CALLBACK_ERRORW</b></code>: Windows Capture -> Set Callback Error (Unicode) <br/>
+<code><b>WM_CAP_SET_CALLBACK_STATUSW</b></code>: Windows Capture -> Set Callback Status (Unicode) <br/>
+<code><b>WM_CAP_SET_MCI_DEVICEW</b></code>: Windows Capture -> Set Multimedia (MCI) Device (Unicode) <br/>
 <code><b>WM_CAP_UNICODE_START</b></code>: Windows Capture -> Unicode Start <br/>
 <code><b>WM_CHANGECBCHAIN</b></code>: Change Control Box Chain <br/>
 <code><b>WM_CHANGEUISTATE</b></code>: Change User-Interface State <br/>
