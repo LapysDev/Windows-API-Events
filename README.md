@@ -787,8 +787,8 @@
 <code><b>WIZ_PREV</b></code>: Previous <br/>
 <code><b>WIZ_QUERYNUMPAGES</b></code>: Query Number of Pages <br/>
 <hr/>
-<h3> <u> *Windows Live Sync </u> </h3>
-<code><b>WLX_WM_SAS</b></code>: Statistical Analysis Suite Message <br/>
+<h3> <u> Windows Lock Screen </u> </h3>
+<code><b>WLX_WM_SAS</b></code>: Secure Attention Sequence <br/>
 <hr/>
 <h3> <u> Windows </u> </h3>
 <code><b>WM_ACTIVATE</b></code>: Activate <br/>
