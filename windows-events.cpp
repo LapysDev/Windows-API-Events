@@ -1,4 +1,3 @@
-/* ... - CITE (Lapys) -> https://github.com/LapysDev/Windows-API-Events */
 /* Import > ... */
 #include <cstdio>    // C Standard Input/ Output
 #include <windows.h> // Windows
